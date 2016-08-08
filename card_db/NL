@@ -3,7 +3,7 @@
   "cardset": "dominion",
   "cost": "2",
   "description": "+1 Actie, Leg een aantal kaarten naar keuze af. +1 kaart per afgelegde kaart.",
-  "extra": " Je kunt de Kelder zelf niet afleggen, omdat deze na het spelen ervan niet meer in je hand zit. Je mag wel een andere Kelderkaart afleggen als je deze in je hand hebt. Je kiest zelf welke kaarten je aflegt en legt ze allemaal tegelijk af. Je mag pas nieuwe kaarten trekken nadat je alle kaarten hebt afgelegd. Als je tijdens het trekken van nieuwe kaarten de aflegstapel moet schudden, worden de door de Kelder afgelegde kaarten meegeschud.",
+  "extra": " Je kunt de Kelder zelf niet afleggen, omdat deze na het spelen ervan niet meer in je hand zit. Je mag wel een andere Kelderkaart afleggen als je deze in je hand hebt. Je kiest zelf welke kaarten je aflegt en legt ze allemaal tegelijk af. Je mag pas nieuwe kaarten trekken nadat je alle kaarten hebt afgelegd. Als je tijdens het trekken van nieuwe kaarten de aflegstapel moet schudden, worden de door de Kelder afgelegde kaarten mee geschud.",
   "name": "Kelder",
   "potcost": 0,
   "types": [
@@ -59,7 +59,7 @@
   "cardset": "dominion",
   "cost": "3",
   "description": "+1 Aanschaf, +2 Coins.",
-  "extra": " Je mag tijdens je aankoopfase een extra actiekaart uit de voorraad kopen. Je hebt in deze beurt 2 geld meer tot je beschikking",
+  "extra": " Je mag tijdens je aankoopfase een extra actiekaart uit de voorraad kopen. Je hebt in deze beurt 2 geld meer tot je beschikking.",
   "name": "Houthakker",
   "potcost": 0,
   "types": [
@@ -375,33 +375,33 @@
   ]
  },
  {
-  "cardset": "intrigue",
+  "cardset": "intrige",
   "cost": "2",
-  "description": "+3 Card, Put a card from your hand on top of your deck.",
-  "extra": " You draw cards and add them to your hand before putting one back. The card you put on top of your deck can be any card in your new hand and doesn't have to be one of the 3 you just drew.",
-  "name": "Courtyard",
+  "description": "+3 Kaarten, Leg een kaart naar keuze uit je hand gedekt op je trekstapel.",
+  "extra": " Je trekt kaarten en neemt deze in je hand voordat je er één op je trekstapel legt. Je mag vrij kiezen welke kaart je op je trekstapel legt. Dit hoeft niet een van de zojuist getrokken kaarten te zijn.",
+  "name": "Binnenplaats",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "intrigue",
+  "cardset": "intrige",
   "cost": "2",
-  "description": "Choose two: +1 Card, +1 Action, +1 Buy, +1 Coin. (The choices must be different.).",
-  "extra": " First pick any 2 of the 4 options. You cannot pick the same option twice. After picking both, do both, in either order. You may not choose to draw a card, look at the card drawn, and then make your second choice.",
-  "name": "Pawn",
+  "description": "Kies twee verschillende van de volgende opties: +1 Kaart, +1 Actie, +1 Aanschaf, +1 Coin.",
+  "extra": " Kies eerst twee van de vier opties. Je moet verschillende kiezen. Daarna voer je de acties in een volgorde naar keuze uit. Je mag dus niet een kaart trekken, deze bekijken en dan pas je tweede keuze maken.",
+  "name": "Pion",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "intrigue",
+  "cardset": "intrige",
   "cost": "2",
-  "description": "Discard any number of cards. +1 Coin per card discarded. - When another player plays an Attack card, you may reveal this from your hand. If you do, +2 cards, then put 2 cards from your hand on top of your deck.",
-  "extra": " When you play this as an Action on your turn, you first discard any number of cards from your hand, then get 1 coin per card you discarded. You may choose to discard zero cards, but then you will get zero additional coins. The other ability does nothing at that time as it is only used as a Reaction. When someone else plays an Attack card, you may reveal Secret Chamber from your hand. If you do, first you draw 2 cards, then you put at 2 cards from your hand on top of your deck (in any order). The cards you put back do not have to be the ones you drew. You can put Secret Chamber itself on top of your deck; it's still on your hand when you reveal it. Revealing Secret Chamber happens prior to resolving what an Attack does to you. For example, if another player plays Thief, you can reveal Secret Chamber, draw 2 cards, put 2 back, and then you resolve getting hit by the Thief. You can reveal Secret Chamber whenever another player plays an Attack card, even if that Attack would not affect you. Also, you can reveal more than one Reaction card in response to an Attack. For example, after revealing the Secret Chamber in response to an Attack and resolving the effect of the Secret Chamber, you can still reveal a Moat to avoid the Attack completely.",
-  "name": "Secret Chamber",
+  "description": "Leg naar believen kaarten uit je hand af. +1 Coin per afgelegde kaart. - Als een andere speler een aanvalskaart speelt, mag je de Geheime Kamer tonen. In dat geval: +2 kaarten; leg daarna 2 kaarten naar keuze uit je hand gedekt op je trekstapel.",
+  "extra": " Als je deze kaart in je beurt als actie speelt, leg je eerst een aantal kaarten uit je hand af. Voor elk van deze kaarten krijg je 1 extra geld voor de aanschaffase je mag er voor kiezen om geen kaarten af te leggen, maar dan krijg je ook geen extra geld. Je kunt de Geheime Kamer daarnaast ook als reactiekaart gebruiken. Als een andere speler een aanvalskaart speelt, mag je de geheime kamer tonen. Als je dat doet, trek je 2 kaarten en legt daarna twee kaarten uit je hand in een volgorde naar keuze op je trekstapel. Dit hoeven niet de zojuist getrokken kaarten te zijn. Je mag ook de Geheime Kamer zelf op de trekstapel leggen. Het afhandelen van de Geheime Kamer gaat voor het afhandelen van de aanvalskaart. Als een andere speler bijvoorbeeld een dief speelt, kun je de Geheime Kamer tonen, twee kaarten trekken en twee kaarten op je trekstapel leggen. Pas daarna wordt de Dief afgehandeld. Je mag de Geheime Kamer ook tonen als je de aanvalskaart jou niet reft. Je mag meerdere reactiekaarten spelen als antwoord op één aanvalskaart. Je kunt bijvoorbeeld na het tonen en afhandelen van een Geheime Kamer de slotgracht ook tonen om de aanval volledig af te weren.",
+  "name": "Geheime Kamer",
   "potcost": 0,
   "types": [
    "Action",
@@ -409,11 +409,11 @@
   ]
  },
  {
-  "cardset": "intrigue",
+  "cardset": "intrige",
   "cost": "3",
-  "description": "+1 Card, +1 Action, 1 <VP>",
-  "extra": " This is both an Action card and a Victory card. When you play it, you draw a card and may play another Action. At the end of the game, it's worth 1 VP, like an Estate. During set-up, place 12 Great Halls in the Supply for a 3- or 4- [or 5- or 6-] player game and 8 in the Supply for a 2-player game.",
-  "name": "Great Hall",
+  "description": "+1 Kaart, +1 Actie, 1 <VP>",
+  "extra": " Deze kaart is zowel een overwinningskaart als een actiekaart. Als je deze speelt, trek je een kaart en krijg je een extra actie. Aan het einde van het spel is de kaart 1 <VP> waard. In een spel met 2 spelers gebruik je 8 Grote Zaal kaarten, in een spel met 3 of 4 spelers gebruik je 12 Grote Zaal kaarten.",
+  "name": "Grote Zaal",
   "potcost": 0,
   "types": [
    "Action",
@@ -421,44 +421,44 @@
   ]
  },
  {
-  "cardset": "intrigue",
+  "cardset": "intrige",
   "cost": "3",
-  "description": "+2 Card, Each player passes a card in their hand to the player on their left. You may trash a card from your hand.",
-  "extra": " First you draw 2 cards. Next, each player (all at the same time) chooses a card from his hand and places it face down on the table between him and the player to his left. The player to the left then puts that card into his hand. Cards are passed simultaneously, so you may not look at the card you are receiving until you have chosen a card to pass. Finally, you may trash a card from your hand. Only the player who played Masquerade may trash a card. This is not an Attack and cannot be responded to with Moat or Secret Chamber.",
-  "name": "Masquerade",
+  "description": "+2 Kaarten, Iedere speler moet direct 1 kaart uit zijn hand neer links doorgeven. Daarna mag jij 1 kaart uit je hand vernietigen.",
+  "extra": " Je trekt eerst 2 kaarten. Daarna kiest iedere speler (tegelijk) één kaart uit zijn hand en legt deze gedekt tussen hemzelf en zijn linkerbuurman. De linkerbuurman neemt de doorgegeven kaart in zijn hand. Doorgeven gebeurt simultaan. Een speler kan dus niet eerst de ontvangen kaart bekijken en dan zelf een kaart doorgeven. Daarna mag alleen jij (de speler die de Maskerade speelde) een kaart uit zijn hand vernietigen. Dit geldt niet als aanval, waardoor er niet met een Slotgracht of een Geheime Kamer op kan worden gereageerd.",
+  "name": "Maskerade",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "intrigue",
+  "cardset": "intrige",
   "cost": "3",
-  "description": "+2 Actions, Reveal your hand. If you have no Action cards in hand, +2 Cards.",
-  "extra": " You get 2 more Actions to use no matter what else happens. Then you must reveal your hand. If you have no Action cards in hand, you draw 2 cards. If the first card you draw is an Action card, you still draw the second card. Action - Victory cards are Action cards.",
-  "name": "Shanty Town",
+  "description": "+2 Acties, Toon je hand. Als je geen actiekaarten in je hand hebt: +2 Kaarten.",
+  "extra": "  Je krijgt hoe dan ook 2 extra acties. Je moet je volledige hand tonen. Als je geen actiekaarten in je hand hebt, trek je 2 kaarten. Ook als de eerste kaart die je trekt een actiekaart is, mag je een tweede kaart trekken. Kaarten met \"ACTIE - OVERWINNING\" gelden als actiekaarten.",
+  "name": "Sloppenwijk",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "intrigue",
+  "cardset": "intrige",
   "cost": "3",
-  "description": "Choose one: +2 Cards; or +2 Coins; or trash 2 cards from your hand.",
-  "extra": " If you choose to trash 2 cards and have 2 or more cards in your hand after playing the Steward, then you must trash exactly 2 cards. You may choose to trash 2 cards, even if you only have 1 card left in your hand after playing the Steward; just trash the remaining card in your hand. You cannot mix and match - you either draw 2 cards, get 2 coins, or trash 2 cards.",
-  "name": "Steward",
+  "description": "Kies één van de volgende opties: +2 Kaarten; of +2 Coins; or vernietig 2 kaarten uit je hand.",
+  "extra": " Als je ervoor kiest om 2 kaarten te vernietigen en je hebt 2 of meer kaarten in je hand, moet je precies 2 kaarten vernietigen. Als je maar 1 kaart in je hand hebt, mag je ervoor kiezen om 2 kaarten te vernietigen. In dat geval vernietig je uitsluitend die ene kaart. Je kunt de verschillende opties niet met elkaar combineren.",
+  "name": "Lakei",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "intrigue",
+  "cardset": "intrige",
   "cost": "3",
-  "description": "+2 Coins, Each other player trashes the top card of his deck and gains a card with the same cost that you choose.",
-  "extra": " A player with no cards left in his Deck shuffles first; a player who still has no cards does not trash a card or gain a card. If the order matters (such as when piles are running low), resolve Swindler in turn order starting with the player to your left. Gained cards go to discard piles. If a player trashed a 0-cost card such as Copper, you may choose to give him Curse (if there are any left). You can give a player another copy of the same card he trashed. The gained cards have to be ones from the Supply, and you have to pick a card that's left if you can (you cannot pick an empty pile). If there are no cards in the Supply with the same cost as a given player's trashed card, no card is gained by that player. A player who Moats this does not reveal a card from his deck, and so neither trashes a card nor gains a card.",
-  "name": "Swindler",
+  "description": "+2 Coins, Iedere andere speler moet de bovenste kaart van zijn trekstapel vernietigen en ontvangt een kaart met dezelfde waarde naar jouw keuze.",
+  "extra": " Een speler die geen kaarten in zijn trekstapel heeft, moet eerst zijn aflegstapel schudden. Een speler die ook geen aflegstapel heeft, hoeft geen kaat te vernietigen en pakt er ook geen. Als de beurtvolgorde van belang is, begin dan bij je linkerbuurman en vervolg met de klok mee. Spelers leggen gepakte kaarten op hun aflegstapel. Je mag een speler die een kaart met waarde 0 (koper bijvoorbeeld) vernietigt een vloekkaart geven. Je mag een speler een exemplaar geven van dezelfde kaart als die hij vernietigt. Je moet de te pakken kaarten uit de voorraad kiezen. Deze moeten beschikbaar zijn (je kunt geen lege stapel kiezen). Als er geen kaarten met dezelfde waarde meer beschikbaar zijn, krijgt de berokken speler niets. Een speler die een slotgracht toont, hoeft geen kaart van zijn trekstapel te tonen, niets te vernietigen en pakt ook niets.",
+  "name": "Oplichter",
   "potcost": 0,
   "types": [
    "Action",
@@ -466,21 +466,21 @@
   ]
  },
  {
-  "cardset": "intrigue",
+  "cardset": "intrige",
   "cost": "3",
-  "description": "+1 Card, +1 Action, Name a card, then reveal the top card of your deck. If it is the named card, put it in your hand.",
-  "extra": " First you draw your card. Then name a card (\"Copper,\" for example - not \"Treasure\") and reveal the top card of your deck; if you named the same card you revealed, put the revealed card in your hand. If you do not name the right card, you put the revealed card back on top.",
-  "name": "Wishing Well",
+  "description": "+1 Kaart, +1 Actie, Noem een kaart. Toon de bovenste kaart van je trekstapel. Als het de genoemde kaart is: neem de kaart in je hand.",
+  "extra": " Trek eerst een kaart. Noem daarna een kaart (\"Koper,\" bijvoorbeeld - niet \"Geld\") en toon de bovenste kaart van je trekstapel. Als je de juiste kaart hebt genoemd, neem je de getoonde kaart in je hand. Heb je niet de juiste kaart genoemd, leg de kaart dan gedekt terug op je trekstapel.",
+  "name": "Wensput",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "intrigue",
+  "cardset": "intrige",
   "cost": "4",
-  "description": "+1 Buy, You may discard an Estate card. If you do, +4 Coins. Otherwise, gain an Estate card.",
-  "extra": " You are never obligated to discard an Estate, even if you have one in your hand. However, if you do not discard an Estate, you must gain an Estate (if there are any left); you cannot choose to just get +1 Buy from this Card.",
+  "description": "+1 Aanschaf, Je mag een landgoedkaart afleggen. Als he dat doet: +4 Coins. Zo niet, pak een landgoedkaart.",
+  "extra": " Je bent nooit verplicht om een landgoed kaart af te leggen, ook al heb je er een in je hand. Maar, als je er voor kiest om geen landgoedkaart af te leggen, moet je er één pakken (indien voorradig); je kunt er niet voor kiezen om alleen de extra aanschaf te nemen.",
   "name": "Baron",
   "potcost": 0,
   "types": [
@@ -488,88 +488,88 @@
   ]
  },
  {
-  "cardset": "intrigue",
+  "cardset": "intrige",
   "cost": "4",
-  "description": "+1 Buy, +1 Coin. All cards (including cards in players' hands) cost 1 Coin less this turn, but not less than 0 Coins.",
-  "extra": " Costs are 1 coin lower for all purposes. For example, if you played Village, then Bridge, then Workshop, you could use Workshop to gain a Duchy (because Duchy now costs 4 Coins due to the Bridge). Then if you played 3 Coins, you could buy a Silver (for 2 Coins) and an Estate (for 1 coin). Cards in players' decks are also affected. The effect is cumulative; if you Throne Room a Bridge, all cards will cost 2 Coins less this turn. Costs never go below 0 Coins. For this reason, if you play Bridge and then play Upgrade, you could trash a Copper (which still costs zero, even though you played Bridge) and gain a Pawn (which costs 1 after Bridge is played).",
-  "name": "Bridge",
+  "description": "+1 Aanschaf, +1 Coin. Alle kaarten (ook die in je hand) kosten deze beurt 1 Coin minder, maar nooit minder dan 0 Coins.",
+  "extra": " je betaalad voor elke afzonderlijke situatie 1 Coins minder. Bijvoorbeeld: je speelt achtereenvolgens Dorp, Brug en Wekplaats. Je kunt nu met je Werkplaats een Hertogdom pakken (omdat deze door de brug nog maar 4 Coins kost). Stel dat je daarnaast ook 3 Coins speelt, kun je een Zilver (voor 2 Coins) en een landgoed (voor 1 Coins) kopen. De Brug heeft ook invloed op de kaarten in de trekstapel van een speler. De gevolgen zijn cumulatief. Als je de troonzaal voor een brug gebruikt, kost alles je 2 Coins minder deze beurt. Kosten kunnen nooit onder de 0 Coins komen. Voorbeeld: je speelt een Brug en daarna de Opwaardering. Nu kun je een Koper vernietigen (deze is ondanks het spelen van de brug 0 waard) en een Pion pakken (die 1 waard is na het spelen van de Brug).",
+  "name": "Brug",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "intrigue",
+  "cardset": "intrige",
   "cost": "4",
-  "description": "+2 Coins. If you've played 3 or more Actions this turn (counting this): +1 Card, +1 Action.",
-  "extra": " You evaluate whether or not Conspirator gives you +1 Card and +1 Action when you play it. Action cards played later in the turn do not change this evaluation. For the purposes of counting actions, if you Throne Room an Action, that's one Action of the Throne Room, one for the selected Action played the first time, and one for the selected Action played the second time. For example, if you play Throne Room on Conspirator, the first conspirator will be your second Action, and won't give you +1 Card or +1 Action, but the second Conspirator will be your third Action, and you will get +1 Card and +1 Action for that second Conspirator. Action - Victory cards are Actions.",
-  "name": "Conspirator",
+  "description": "+2 Coins. Als je deze beurt 3 of meer acties hebt gespeeld (inclusief deze): +1 Kaart, +1 Actie.",
+  "extra": " Je moet de drie acties hebben gespeeld op het moment dat je de Samenzweerder speelt. Je krijgt de extra kaart en actie niet als je later in je beurt je derde actie speelt. Belangrijk voor het tellen van de acties: bij het gebruik van de Troonzaal geldt de Troonzaal zelf als een actie, de eerste keer dat je de gekozen kaart speelt geldt als de tweede actie en de derde keer dat je de gekozen kaart speelt als de derde actie. Als je dus bijvoorbeeld de Troonzaal voor een samenzweerder gebruikt, krijg je voor de eerste keer dat je de Samenzweerder speelt geen extra kaart en actie, maar voor de tweede keer wel. Ook gespeelde kaarten met \"ACTIE - OVERWINNING\" gelden als acties.",
+  "name": "Samenzweerder",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "intrigue",
+  "cardset": "intrige",
   "cost": "4",
-  "description": "Copper produces an extra 1 Coin this turn.",
-  "extra": " This just changes how much money you get when playing Copper. The effect is cumulative; if you use Throne Room on Coppersmith, each Copper that you play that turn will produce 3 coins.",
-  "name": "Coppersmith",
+  "description": "Elke koperkaart is deze beurt 1 Coin meer waard.",
+  "extra": " Deze kaart verandert uitsluitend de geldwaarde van Koper in deze beurt. Ook dit effect is cumulatief. Als je de Troonzaal voor een Kopersmid gebruikt, is elke koperkaart 3 coins waard.",
+  "name": "Kopersmid",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "intrigue",
+  "cardset": "intrige",
   "cost": "4",
-  "description": "Gain a card costing up to 4 Coins. If it is an... Action card, +1 Action. Treasure card, +1 Coin. Victory card, +1 Card.",
-  "extra": " The card you gain must be from the Supply and is put into your discard pile. You get a bonus depending on what type of card you gained. A card with 2 types gives you both bonuses; if you use Ironworks to gain a Great Hall, you will then draw a card (because Great Hall is a Victory card) and may play another Action (because Great Hall is an Action card). Costs of cards are affected by Bridge. [You cannot gain a card with Potion in the cost with Ironworks.]",
-  "name": "Ironworks",
+  "description": "Pak een kaart die ten hoogste 4 Coins waard is. Is het een... Actiekaart: +1 Actie. Geldkaart: +1 Coin. Overwinningskaart: +1 Kaart.",
+  "extra": " Je moet de kaart uit de voorraad pakken en op je aflegstapel leggen. Je krijgt een bonus, afhankelijk van de gekozen kaart. Voor een kaart die bij twee soorten hoort, krijg je beide bonussen. Voorbeeld: je gerbuikt de IJzergieterij om een Grote zaal te pakken. Je mag nu een kaart trekken (omdat de Grote Zall een overwinningskaart is) en je krijgt een extra actie (omdat de Grote Zaal een actiekaart is). De kosten van kaarten kunnen door de Brug beinvloed worden.]",
+  "name": "IJzergieterij",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "intrigue",
+  "cardset": "intrige",
   "cost": "4",
-  "description": "+1 Card, +2 Actions. You may trash this card immediately. If you do, +2 Coins.",
-  "extra": " You must decide whether or not to trash Mining Village or not before moving on to other actions or other phases. You get a card and +2 Actions, whether you choose to trash it or not. If you trash it you also get +2 Coins. If you Throne Room a Mining Village, you cannot trash Mining Village twice. You will get +1 Card, +2 Actions, and +2 Coins the first time you play it and trash it and when you play it the second time with the Throne Room you get +1 Card and +2 Actions but cannot trash it again.",
-  "name": "Mining Village",
+  "description": "+1 Kaart, +2 Actie. Je mag deze kaart direct vernietigen. Als je dat doet: +2 Coins.",
+  "extra": " Je moet beslissen of je het Mijndorp al dan niet vernietigt, voordat je een andere actie speelt of verdergaat met de volgende fase. Je krijgt een kaart en 2 extra acties, ongeacht deze beslissing. Als je het mijndorp vernietigt, krijg je ook +2 Coins deze beurt. Als je Troonzaal voor een Mijndorp gebruikt, kun je het Mijndorp niet tweemaal vernietigen. Voor de eerste actie krijg je +1 Kaart, +2 Acties en +2 Coins voor het vernietigen. Voor de tweede keer dat je de kaart speelt krijg je +1 Kaart en +2 Acties, maar je kunt de kaart niet nogmaals vernietigen.",
+  "name": "Mijndorp",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "intrigue",
+  "cardset": "intrige",
   "cost": "4",
-  "description": "+1 Action. Reveal the top 4 cards of your deck. Put the revealed Victory cards into your hand. Put the other cards on top of your deck in any order.",
-  "extra": " If there are fewer than 4 cards left in your deck, reveal all the cards in your deck, shuffle your discard pile (which does not include currently revealed cards), and then reveal the remainder needed. Action - Victory cards are Victory cards. Curse cards are not Victory cards. Take all revealed Victory cards into your hand; you cannot choose to leave some on top. You do not have to reveal the order that you put the cards back in.",
-  "name": "Scout",
+  "description": "+1 Actie. Toon de bovenste 4 kaarten in je hand. Leg de overige kaarten in een volgorde naar keuze gedekt op je trekstapel.",
+  "extra": " Als je minder dan 4 kaarten in je trekstapel hebt, toon dan alle kaarten van je trekstapel, schud je aflegstapel (zonder de al getoonde kaarten) en toon daarna de resterende kaarten. Kaarten met \"ACTIE - OVERWINNING\" gelden als overwinningskaarten. Vloekkaarten zijn geen overwinningskaarten. Neem alle getoonde overwinningskaarten in je hand; je mag er niet voor kiezen om er een paar bovenop te laten liggen. Je hoeft de volgorde waarin je de kaarten terugdoet niet bekend te maken.",
+  "name": "Verkenner",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "intrigue",
+  "cardset": "intrige",
   "cost": "5",
-  "description": "Worth 1 <VP> per Duchy you have.",
-  "extra": " This does nothing until the end of the game, at which time it's worth 1 VP per Duchy you have. This counts all of your cards - your Discard pile and hand are part of your Deck at that point. During set-up, place 12 Dukes in the Supply for a 3- or 4- [or 5- or 6-] player game and 8 in the Supply for a 2-player game.",
-  "name": "Duke",
+  "description": "Is 1 <VP> waard voor elke Hertogdomkaart die je hebt.",
+  "extra": " Deze kaart doet tijdens het spel niets. Aan het einde van het spel is de kaar 1 <VP> waard voor elk Hertogdom in je bezit. Dit geldt voor zowel de kaarten in je aflegstapel, in je trekstapel als in je hand. In een spel met 2 spelers gebruik je 8 Hertogkaarten, in eenspel met 3 of 4 spelers gebruik je 12 Hertogkaarten.",
+  "name": "Hertog",
   "potcost": 0,
   "types": [
    "Victory"
   ]
  },
  {
-  "cardset": "intrigue",
+  "cardset": "intrige",
   "cost": "5",
-  "description": "+1 Action, Choose one: +2 Coins; or discard your hand, +4 Cards, and each other player with at least 5 cards in hand discards his hand and draws 4 cards.",
-  "extra": " You get +1 Action whichever option you choose. The options are +2 coins, or everything after that - discarding, drawing 4 cards, and other players discarding and drawing. A player who Moats this neither discards nor draws. Other players are only affected by this if they have 5 or more cards in hand. Other players can use Secret Chamber when you play Minion even if they do not have 5 or more cards in hand. [You make your choice on how to use Minion after other players are done revealing Reactions.]",
-  "name": "Minion",
+  "description": "+1 Actie, Kies één van de volgende opties: +2 Coins; of leg alle kaarten uit je hand af, +4 kaarten en iedere andere speler met ten minste 5 kaarten in zijn hand moet al zijn handkaarten afleggen en 4 nieuwe kaarten trekken.",
+  "extra": " Je krijgt hoe dan ook 1 extra actie. Daarnaast kun je uit twee opties kiezen. Je kunt kiezen voor +2 coins. Of je legt je volledige hand af, trekt 4 kaarten en verplicht de andere spelers om hetzelfde te doen. Een speler die de slotgracht toont hoeft niets af te leggen, maar mag ook geen kaarten trekken. Een andere speler die niet getroffen wordt, mag er alsnog voor kiezen om een geheime kamer in te zetten.",
+  "name": "Dienaar",
   "potcost": 0,
   "types": [
    "Action",
@@ -579,8 +579,8 @@
  {
   "cardset": "intrigue",
   "cost": "5",
-  "description": "Each other player reveals cards from the top of his deck until revealing one costing 3 Coins or more. He trashes that card and may gain a card costing at most 2 Coins less than it. He discards the other revealed cards.",
-  "extra": " Each other player turns over the top cards of his deck until he reveals one costing 3 coins or more. If a player needs to shuffle to continue revealing cards, he does not shuffle in the already revealed cards. If he goes through all of his cards without finding a card costing 3 coins or more, he just discards everything revealed and is done. If he does find a card costing 3 coins or more, he trashes it, and then may choose to gain a card costing at most 2 coins less than the trashed card. For example, if he trashed a card costing 5 coins, he may gain a card costing up to 3 coins. The gained card must be from the Supply and is put into his discard pile, as are his revealed cards. Costs of cards are affected by Bridge.",
+  "description": "Iedere andere speler moet kaarten van zijn trekstapel tonen todat hij een kaart toont die 3 of meer waard is. Hij moet deze kaart vernietigen en mag daarna een kaart pakken die ten hoogste 2 Coins minder waard is dan de vernietigde kaart. Hij legt de andere getoonde kaarten af.",
+  "extra": " Iedere andere speler toont één voor één kaarten van zijn trekstapel totdat hij er één toont die 3 coins of meer waar is. Als een speler zijn aflegstapel voor dit doel moet schudden, schudt hij de al getoonde kaarten niet mee. Als hij al zijn kaarten heeft geschud getoond en geen kaart met een waarde van 3 of meer vindt, legt hij alle getoonde kaarten af en is klaar. Als hij er wel één vindt, moet hij deze vernietigen en een kaart pakken die ten hoogste 2 Coins minder waard is. Als hij bijvoorbeeld een kaart die 5 Coins kost vernietigt, mag hij een kaart pakken die macimaal 3 Coins kost. Hij pakt de kaart uit de voorraad en legt deze op zijn aflegstapel. De Brug beïnvloedt de kosten van de kaart.",
   "name": "Saboteur",
   "potcost": 0,
   "types": [
@@ -589,11 +589,11 @@
   ]
  },
  {
-  "cardset": "intrigue",
+  "cardset": "intrige",
   "cost": "5",
-  "description": "+3 Card, Each other player chooses one: he discards 2 cards; or he gains a Curse card, putting it in his hand.",
-  "extra": " Each other player chooses which option to suffer and then suffers it. A player can choose to gain a Curse even when there are no Curses left, in which case he doesn't gain one; and a player can choose to discard 2 cards even if he has no cards in hand or one card in hand (if he has one card, he discards that single card). Gained Curses go to the players' hands rather than their discard piles. If there aren't enough Curses left for everybody, deal them around in turn order starting with the player to your left. When the order matters (such as with very few Curses left), each player makes his decision of which fate to suffer in turn order.",
-  "name": "Torturer",
+  "description": "+3 Kaarten, iedere andere speler kiest één van de volgende opties: hij legt 2 kaarten af; of hij pakt een Vloekkaart en neemt deze in zijn hand.",
+  "extra": " Iedere andere speler kiest een optie en ondergaat deze. Een speler mag er voor kiezen om een vloekkaart te nemen, ook al zijn deze niet meer beschikbaar. Hij hoeft dan niets te doen. Een speler mer 0 of 1 kaar(en) mag er voor kiezen om 2 kaarten af te leggen. Hij legt dan uitsluitend af wat hij heeft Spelers nemen ontvangen vloekkaarten in hun hand. Als er niet voldoende vloekkaarten zijn voor iedereen, deel ze dan met de klok mee uit, te beginnen bij je linkerbuurman. Als de beurtvolgorde van belang is, beslissen de spelers met de klok mee om beurten welk lot ze ondergaan. Begin bij je linkerbuurman.",
+  "name": "Folteraar",
   "potcost": 0,
   "types": [
    "Action",
@@ -601,33 +601,33 @@
   ]
  },
  {
-  "cardset": "intrigue",
+  "cardset": "intrige",
   "cost": "5",
-  "description": "Trash 2 cards from your hand. If you do, gain a silver card; put it into your hand.",
-  "extra": " If you have 2 or more cards, you must trash exactly 2 cards and gain a Silver card. The gained Silver card goes into your hand and can be spent the same turn. If the Silver pile is empty, you do not gain a Silver card (but still trash cards if possible). If you only have one card left in your hand and you play Trading Post, you trash the one remaining card but you do not gain a Silver. If you have no cards left when you play this, nothing happens.",
-  "name": "Trading Post",
+  "description": "Vernietig 2 kaarten uit je hand. Als je dit doet, pak dan een zilverkaart en neem deze in je hand.",
+  "extra": " Als je 2 of meer kaarten in je hand hebt, moet je precies 2 kaarten vernietigen. Je krijgt dn een Zilverkaart, die je in je hand neemt en dezelfde beurt nog kunt gebruiken. Als de stapel Zilverkaarten uitgeput is, krijg je geen Zilverkaart maar moet je nog altijd 2 kaarten vernietigen (indien mogelijk). Als je maar 1 kaart in je hand hebt bij het spelen van de Handelspost, vernietig je deze laatste kaart, maar krijg je geen Zilverkaart. Als je geen kaarten in je hand hebt bij het spelen van de Handelspost gebeurt er niets.",
+  "name": "Handelspost",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "intrigue",
+  "cardset": "intrige",
   "cost": "5",
-  "description": "The player to your left reveals then discards the top 2 cards of his deck. For each differently named card revealed, if it is an... Action Card, +2 Actions; Treasure Card, +2 Coins; Victory Card, +2 Cards.",
-  "extra": " If the player after you has fewer than 2 cards left in his deck, he reveals all the cards in his deck, shuffles his discard pile (which does not include currently revealed cards), and then reveals the remainder needed. The player then discards the revealed cards. If the player after you does not have enough cards to reveal 2, he reveals what he can. You get bonuses for the types of cards revealed, counting only the different cards. A card with 2 types gives you both bonuses. So if the player to your left reveals Copper and Harem, you get +4 Coins and +2 cards; if he reveals 2 Silvers, you just get +2 coins. Curse produces no bonus.",
-  "name": "Tribute",
+  "description": "Je linkerbuurman toont de bovenste 2 kaarten van zijn trekstapel. Voor elke getoonde kaart met een verschillende naam, krijg je voor een ... Actiekaart: +2 Acties. Geldkaart: +2 Coins. Overwinningskaart: +2 Kaarten.",
+  "extra": " Als je linkerbuurman minder dan 2 kaarten in zijn trekstapel heeft, toont hij eerst de eventuele kaart van zijn trekstapel, schud daarna zijn aflegstapel (zonder de getoonde kaart) en toont daarna de resterende kaart(en). Hij legt getoonde kaarten af. Heeft hij niet voldoende kaarten, dan toont hij er zoveel mogelijk. Jij krijgt bonussen voor de getoonde kaarten. Alleen verschillende kaarten gelden. Voor een kaart die bij 2 soorten hoort, krijg je beide bonussen. Als je linkerbuurman bijvoorbeeld een koper en harem toont, krijg je 4 Coins en mag je 2 kaarten trekken. Als hij 2 zilverkaarten toont, krijg je 2 Coins. Voor getoonde vloekkaarten krijg je geen bonus.",
+  "name": "Tolheffing",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "intrigue",
+  "cardset": "intrige",
   "cost": "5",
-  "description": "+1 Card, +1 Action, Trash a card from your hand. Gain a card costing exactly 1 Coin more than it.",
-  "extra": " Draw a card first. Then, you must trash a card from your hand and gain a card costing exactly 1 coin more than the trashed card. The gained card has to be a card in the Supply, and it goes into your discard pile. If there are no cards available for that cost, you do not get one (you still trashed a card though). If you do not have a card in your hand to trash, you neither trash nor gain a card. Card costs are affected by Bridge. Since Bridge affects the costs of the card you trash and then card you gain, in most cases the Bridge will have no net effect. But since cards cannot go below zero in cost, a Bridge played before an Upgrade would allow you to trash a Copper and gain an Estate.",
-  "name": "Upgrade",
+  "description": "+1 Kaart, +1 Actie, Vernietig een kaart uit je hand. Pak een kaart die precies 1 Coins meer waard is dan de vernietigde kaart.",
+  "extra": " Trek eerst een kaart. Daarna moet je een kaart uit je hand vernietigen en een kaart pakken die precies 1 Coinsmeer waard is dan de vernietigde kaart. Je moet de kaart uit de voorraad pakken en op je aflegstapel leggen. Als er geen kaarten met deze kosten beschikbaar zijn, krijg je niets ( je moet echter wel een kaart vernietigen). Als je geen kaart kunt vernietigen, mag je ook geen kaart pakken. De kosten van kaarten worden door de Brug beïnvloed. In de meeste gevallen heeft dat geen effect, omdat je zowel op de vernietigde als de gepakte kaart 1 Coins korting krijgt. Maar omdat de kosten van een kaart nooit lager dan 0 Coins kunnen zijn, zou je met behulp van een Brug en een opwaardering een Koper (kost 0, zelfs met een Brug) kunnen vernietigen en een landgoed (kost 1 met een brug) kunnen pakken..",
+  "name": "Opwaardering",
   "potcost": 0,
   "types": [
    "Action"
