@@ -1050,55 +1050,55 @@
   ]
  },
  {
-  "cardset": "alchemy",
+  "cardset": "de alchemisten",
   "cost": "0",
-  "description": "Trash a card from your hand. If it is an...\nAction card, gain a Duchy\nTreasure card, gain a Transmute\nVictory card, gain a Gold",
-  "extra": " If you have no cards left in hand to trash, you do not get anything. If you trash a Curse to this, you do not get anything - Curse is not an Action card or Victory card or Treasure card. If you trash a card with more than one type, you get each applicable thing. For example, if you trash an Action-Victory card (such as Nobles, from Intrigue), you gain both a Duchy and a Gold. Gained cards come from the Supply and go to your discard pile. If there are no appropriate cards left to gain, you don't gain those cards.",
-  "name": "Transmute",
+  "description": "Vernietig een kaart uit je hand. Is het een ...\nActiekaart: pak een Hertogdom\nGeldkaart: pak een Transformatie\nOverwinningskaart: pak een Goud",
+  "extra": " Als je geen kaart kunt vernietigen, krijg je niets. Als je een vloekkaart vernietigt, krijg je ok niets, omdat een vloekkaart geen geld-, overwinnings- of actiekaart is. Als je een kaart vernietigt die bij meer soorten kaarten hoort, krijg je voor elke soort de bijbehorende kaart. Voorbeeld: als je een kaart met \"Actie - Overwinning\" vernietigt, krijg je zowel een Hertogdom als een Goud. Neem deze kaarten uit de voorraad en leg deze op je aflegstapel. Als een kaart niet voorradig is, krijg je deze niet.",
+  "name": "Transformatie",
   "potcost": 1,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "alchemy",
+  "cardset": "de alchemisten",
   "cost": "0",
-  "description": "Worth 1 <VP> for every 3 Action cards in your deck (rounded down).",
-  "extra": " This Kingdom card is a Victory card, not an Action card. It does nothing until the end of the game, when it is worth 1 victory point per 3 Action cards in your Deck (counting all of your cards - your Discard pile and hand are part of your Deck at that point). Round down; if you have 11 Action cards, Vineyard is worth 3 victory points. During set-up, put all 12 Vineyards in the Supply for a game with 3 or more players, but only 8 in the Supply for a 2-player game. Cards with multiple types, one of which is Action, are Actions and so are counted by Vineyard.",
-  "name": "Vineyard",
+  "description": "1 <VP> voor elke 3 actiekaarten in je deck (naar beneden afronden).",
+  "extra": " Deze koningkrijkkaart is een overwinningskaart, geen actiekaart. De Wijnberg bevindt zich uitsluitend in het spel als deze aan het begin van het spel bij de 10 uitgekozen of getrokken koningkrijkkaart behoort. De kaart doet tijdens het spel niets. Aan het einde van het spel is de Wijnber 1 <VP> waard per 3 actiekaarten in je deck (al je kaarten tellen mee, dus bijvoorbeeld ook je handkaarten). Rond naar beneden af. Voorbeeld: als je 11 actiekaarten in je deck hebt is de Wijnberg 3 <VP> waard. Een kaart die bij meerdere soorten kaarten hoort, waaronder actiekaarten, geldt als een actiekaart en wordt bij het bepalen van de overwinningspunten voor de wijnberg meegeteld. Gebruik 8 Wijnberg-kaarten in een spel met 2 spelers en 12 in een spel met 3 of meer spelers.",
+  "name": "Wijnberg",
   "potcost": 1,
   "types": [
    "Victory"
   ]
  },
  {
-  "cardset": "alchemy",
+  "cardset": "de alchemisten",
   "cost": "2",
-  "description": "+1 Card\n+1 Action\nReveal the top 4 cards of your deck. Put the revealed Coppers and Potions into your hand. Put the other cards back on top in any order.",
+  "description": "+1 Kaart\n+1 Actie\nToon de bovenste 4 kaarten van je trekstapel. Neem koperkaarten en toverdranken in je hand. Leg de resterende getoonde kaarten naar believen gedekt terug op de trekstapel.",
   "extra": " You draw a card first. Then reveal the top four cards, put the Coppers and Potions into your hand, and put the rest back on top of your deck. If there aren't four cards left in your deck, reveal what you can and shuffle to get the rest. If there still aren't enough cards, just reveal what there is. Any cards that are not Copper and are not Potion go back on top of your deck in an order your choose. You cannot choose not to take all of the Coppers and Potions. If after revealing four cards there are no cards left in your deck, the cards you put back will become the only cards in your deck.",
-  "name": "Apothecary",
+  "name": "Apotheker",
   "potcost": 1,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "alchemy",
+  "cardset": "de alchemisten",
   "cost": "2",
-  "description": "+1 Buy\n+1 Coin\nWhen you discard this from play, you may put one of your Treasures from play on top of your deck.",
-  "extra": " You get an extra coin to spend this turn, and may buy an additional card in your Buy phase. When you discard this from play (usually during Clean-up), you may choose a Treasure card you have in play, and put that card on your deck. If you have no cards in your deck, that Treasure will become the only card in your deck. You choose what order to discard cards during Clean-up; so, for example, if you have Herbalist, Potion, and Alchemist in play, you could choose to discard Alchemist first, putting it on top of your deck, then discard Herbalist, and put Potion on top of your deck. If you have multiple Herbalists in play, each one will let you put another Treasure from play onto your deck.",
-  "name": "Herbalist",
+  "description": "+1 Aanschaf\n+1 Coin\nAls je in de opschoonfase deze kaart en ten minste één geldkaart in het spel hebt, mag je één van deze geldkaarten gedekt op je trekstapel leggen.",
+  "extra": " Bij het spelen van deze kaart krijg je één extra munt om in je aanschaffase te besteden en je mag in je aanschaffase één extra aanschaf doen. Als je deze kaart in het spel hebt en aflegt (meestal tijdens de opschoonfase), mag je een gespeelde geldkaart gedekt op je trekstapel leggen. Heb je geen kaarten meer in je trekstapel, dan wordt deze geldkaart de enige kaart in je trekstapel. Je mag zelf kiezen in welke volgorde je kaarten tijdens de opschoonfase aflegt. Voorbeeld: als je een Kruidenexpert, een Alchemist en een Toverdrank hebt gespeeld, mag je eerst de Alchemist afleggen en op je trekstapel leggen, daarna de kruidenexpert afleggen en daarme de toverdrank op je trekstapel leggen. Als je meer dan één Kruidenexpert hebt gespeeld, mag je voor ieder van hen een geldkaart op je trekstapel leggen.",
+  "name": "Kruidenexpert",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "alchemy",
+  "cardset": "de alchemisten",
   "cost": "2",
-  "description": "+1 Action\nEach player (including you) reveals the top card of his deck and either discards it or puts it back, your choice. Then reveal cards from the top of your deck until revealing one that isn't an Action.\nPut all of your revealed cards into your hand.",
+  "description": "+1 Actie\nIedere speler (ook jijzelf) toont de bovenste kaart van zijn gedekte stapel. Jij beslist of hij deze moet afleggen of gedekt op zijn trekstapel moet terugleggen. Toon daarna één voor één kaarten van  je trekstapel totdat je een kaart toont die geen actiekaart is. Neem alle getoonde kaarten in je hand.",
   "extra": " First you reveal the top card of each player's deck, and either have them discard it or have them put it back. After you finish making those decisions, reveal cards from the top of your deck until you reveal a card that isn't an Action card. If you run out of cards without revealing an Action card, shuffle your discard pile and keep going. If you have no discard pile left either, stop there. Put all of the revealed Action cards into your hand, plus that first non-Action you revealed. If the very first card you revealed was not an Action, that card goes into your hand. Cards with multiple types, one of which is Action, are Actions. The only cards that go into your hand are the ones revealed as part of the revealing cards until finding a non-Action; you do not get discarded cards from the first part of what Scrying Pool did, or cards from other players' decks.",
-  "name": "Scrying Pool",
+  "name": "Visioen",
   "potcost": 1,
   "types": [
    "Action",
@@ -1106,21 +1106,21 @@
   ]
  },
  {
-  "cardset": "alchemy",
+  "cardset": "de alchemisten",
   "cost": "2",
-  "description": "+2 Actions\nYou may gain an Action card costing up to 5 Coins.",
-  "extra": " Gaining an Action card is optional. If you choose to gain one, it comes from the Supply, must cost no more than 5 coins, and goes to your discard pile. Cards with multiple types, one of which is Action, are Actions and can be gained this way. Cards with Potion in their cost can't be gained by this.",
-  "name": "University",
+  "description": "+2 Acties\nJe mag een actiekaart pakken die maximaal 5 Coins waard is.",
+  "extra": " Het is niet verplicht om een actiekaart te pakken. Als je ervoor kiest om er één te pakken, neem je deze uit de voorraad. De actiekaart mag niet meer waard zijn dan 5 Coins. Leg de kaart op je aflegstapel. Een kaart die bij meerdere soorten kaarten hoort, waaronder actiekaarten, geldt als een actiekaart en kan dus met de Universiteit worden gepakt. Het is niet mogelijk om een kaart die Potion kost op deze manier te pakken.",
+  "name": "Universiteit",
   "potcost": 1,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "alchemy",
+  "cardset": "De alchemisten",
   "cost": "3",
-  "description": "+2 Cards\n+1 Action\nWhen you discard this from play, you may put this on top of your deck if you have a Potion in play.",
-  "extra": " When you play this, you draw two cards and may play an additional Action card this turn. In the Clean-up Phase, when you discard this, if you have at least one Potion card in play, you may put Alchemist on top of your deck. This is optional and happens before drawing your new hand. If you have no cards in your deck when you do this, Alchemist becomes the only card in your deck. If you have multiple Alchemists and a Potion, you can put any or all of the Alchemists on top of your deck. You don't have to have used the Potion to buy anything, you only need to have played it.",
+  "description": "+2 Kaarten\n+1 Actie\nAls je aan het begin van de opschoonfase deze kaart en ten minste één toverdrank in het spel hebt, mag je deze kaart gedekt op je trekstapel leggen.",
+  "extra": " Bij het spelen van deze kaat trek je direct twee kaarten en je mag deze beurt een extra actiekaart spelen. Als je aan het begin van de opschoonfase deze kaart voor je hebt liggen en af gaat leggen én je hebt ten minste één toverdrank voor je, mag je de Alchemist gedekt bovenop je trekstapel leggen. Dit is niet verplicht en vindt plaats voordat je neiwe kaarten trekt. Als je geen kaarten in je trekstapel hebt, wordt de Alchemist de enige kaart in je trekstapel. Heb je meer dan één Alchemist en ten minste één toverdrank voor je liggen, dan mag je er zoveel op je trekstapel leggen als je wilt. Je hoeft de Toverdrank niet gebruikt te hebben om iets te kopen, spelen is voldoende.",
   "name": "Alchemist",
   "potcost": 1,
   "types": [
@@ -1128,11 +1128,11 @@
   ]
  },
  {
-  "cardset": "alchemy",
+  "cardset": "de alchemisten",
   "cost": "3",
-  "description": "+1 Card\n+1 Action\nEach other player gains a curse.",
-  "extra": " If there aren't enough Curses left to go around when you play Familiar, you deal them out in turn order, starting with the player to your left. If you play Familiar with no Curses remaining, you will still get +1 Card and +1 Action. A player gaining a Curse puts it face-up into his Discard pile.",
-  "name": "Familiar",
+  "description": "+1 Kaart\n+1 Actie\nIedere andere speler moet een vloekkaart pakken.",
+  "extra": " Als er niet voldoende vloekkaarten voorradig zijn, deel ze dan één voor één in beurtvolgorde uit te beginnen met de speler links van je. Speel je de Oude Bekende zonder voorradige vloekkaarten, dan krijg je alsnog + 1 Kaart en + 1 Actie. Een speler die een vloekkaart ontvangt, legt deze open op zijn aflegstapel.",
+  "name": "Oude Bekende",
   "potcost": 1,
   "types": [
    "Action",
@@ -1140,21 +1140,21 @@
   ]
  },
  {
-  "cardset": "alchemy",
+  "cardset": "de alchemisten",
   "cost": "3",
-  "description": "When you play this, count your deck and discard pile.\nWorth 1 Coin per 5 cards total between them (rounded down).",
-  "extra": " This is a Treasure card. It is a Kingdom card; it will only be in games where it is randomly dealt out as one of the 10 Kingdom cards, or otherwise selected to be one of them. It is played during your Buy phase, like other Treasure cards. When you play it, count the number of cards in your deck and discard pile combined, divide by 5, and round down. That is how many coins this produces for you. Once played, the amount of coins you get does not change even if the number of cards changes later in the turn. The next time you play it, count again. If you play multiple copies, obviously the number will be the same for all of them. It does not matter what order your discard pile is in, but the order your deck is in matters. Do not change that order while counting! You will get to look through your discard pile as you count it. You only get to count your deck and discard pile, not your hand or cards in play or set aside cards. You cannot play more Treasures after buying something in your buy phrase; so for example you cannot buy a card, then play Philosopher's Stone, then buy another card.",
-  "name": "Philosopher's Stone",
+  "description": "Tel het aantal kaarten in je trekstapel en die in je aflegstapel.\n+ 1 Coin voor elke 5 kaarten in de som van beide stapels (naar beneden afronden).",
+  "extra": " Dit is een geldkaart. Het is een koninkrijkkaart die uitsluitend in het spel is als deze aan het begin van het spel bij de 10 uitgekozen of getrokken koninkrijkkaarten behoort. De kaart kan uitsluitend tijdens je aanschaffase gespeeld worden, net als andere geldkaarten. Tel op het moment van spelen alle kaarten in je trekstapel en je aflegstapel en deel dit totaal door 5 (rond naar beneden af). Dat is de hoeveelheid geld die je in je aanschaffase extra kunt gebruiken. Dit totaal kan deze beurt niet meer veranderen ongeacht wat er in deze beurt verder nog gebeurt. Als je de kaart later in het soek nogmaals speelt, tel de kaarten dan opnieuw. Speel je meerdere Steen der Wijzen-kaarten tegelijkertijd, dan geldt de hoeveelheid geld voor elk van de kaarten. Zorg er bij het tellen van de kaarten voor dat de volgorde in de trekstapel niet verandert. De volgorde van de aflegstapel is niet van belang. Het is toegestaan om tijdens het tellen de kaarten in je aflegstapel te bekijken. Je telt uitsluitend de kaarten in je trekstapel en je aflegstapel, niet je gespeelde, opzij gelegde en handkaarten. Nadat je in je aanschaffase iets gekocht hebt, kun je geen nieuwe geldkaarten meer spelen. Voorbeeld: je mag niet eerst een kaart kopen, dan de Steen der Wijzen spelen en nog een kaart kopen.",
+  "name": "Steen der Wijzen",
   "potcost": 1,
   "types": [
    "Treasure"
   ]
  },
  {
-  "cardset": "alchemy",
+  "cardset": "de alchemisten",
   "cost": "4",
-  "description": "Reveal cards from your deck until you reveal 2 Action cards other than Golem Cards.\nDiscard the other cards, then play the Action cards in either order.",
-  "extra": " Reveal cards from the top of your deck, one at a time, until you have revealed two Action cards that are not Golem. If you run out of cards before revealing two non-Golem Actions, shuffle your discard pile (but not the revealed cards) and continue. If you run out and have no discard pile left either, you just get the Actions you found. Discard all of the revealed cards except for the non-Golem Actions you found. If you did not find any, you're done. If you found one, play it. If you found two, play them both, in either order. You cannot choose not to play one of them. These Action cards are not in your hand and so are unaffected by things that look for cards in your hand. For example, if one of them is Throne Room (from Dominion), you cannot use it on the other one.",
+  "description": "Toon kaarten van je trekstapel totdat er 2 actiekaarten (geen Golemkaarten) openliggen. Leg alle andere getoonde kaarten af en speel beide actiekaarten in een volgorde naar keuze.",
+  "extra": " Toon één voor één kaarten van je trekstapel totdat je twee actiekaarten hebt getoond die geen Golem zijn. Als je geen kaarten meer in je trekstapel hebt voordat je deze twee actiekaarten (niet-Golem) hebt getoond, schud dan je aflegstapel (zonder de tot dan toe getoonde kaarten) en ga verder. Is je trekstapel leeg en heb je ook geen aflegstapel meer voordat je de twee actiekaarten (niet-Golem) hebt gevonden, dan krijg je alleen de gevonde actiekaart. Leg alle getoonde kaarten, met uitzondering van de actiekaarten (niet-Golem), open op je aflegstapel. Heb je geen actiekaarten gevonden, dan ben je klaar. Heb je er één gevonden, speel deze dan direct. Heb je twee actiekaarten gevonden, speel deze dan direct in een volgorde naar keuze. Je mag er niet voor kiezen om ze niet te spelen. Deze actiekaarten bevinden zich niet in je hand en worden dus niet beïnvloed door kaarten die om kaarten in je hand vragen. Voorbeeld: als één van de twee kaarten een Troonzaal (uit Dominion) is, kun je deze niet gerbuiken op de andere van deze twee kaarten.",
   "name": "Golem",
   "potcost": 1,
   "types": [
@@ -1162,20 +1162,20 @@
   ]
  },
  {
-  "cardset": "alchemy",
+  "cardset": "de alchemisten",
   "cost": "5",
-  "description": "+1 Action\nTrash a card from your hand.\n+1 Card per Coin it costs.\n+2 Cards if it has Potion in its cost.",
-  "extra": " If you do not have any cards left in hand to trash, you do not draw any cards. If you trash a card costing 0 coins, such as Curse or Copper, you do not draw any cards. Otherwise you draw a card per Coin the card you trashed cost, and another two cards if it had Potion in its cost. For example, if you trash a Golem, which costs 4 Coins and 1 Potion, you draw 6 cards.",
-  "name": "Apprentice",
+  "description": "+1 Actie\nVernietig één kaart uit je hand. +1 kaert per 1 Coin dat de kaart waard is en daarnaast.\n+2 Kaarten als de kaart Potion kost.",
+  "extra": " Als je geen kaarten in je hand hebt om te vernietigen, trek je geen kaarten. Als je een kaart vernietigt die 0 Coin waards is (zoals Koper of een Vloek), trek je geen kaarten. In alle andere gevallen trek je zoveel kaarten als de waarde van de kaart in munten plus nog twee kaarten als de kaart Potion kost. Voorbeeld: als je een Golem vernietigt, die Potion 4 Coins kost, trek je 6 kaarten.",
+  "name": "Leerling",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "alchemy",
+  "cardset": "de alchemisten",
   "cost": "6",
-  "description": "The player to your left takes an extra turn after this one, in which you can see all cards he can and make all decisions for him. Any cards he would gain on that turn, you gain instead; any cards of his that are trashed are set aside and returned to his discard pile at end of turn.",
+  "description": "De speler links van je voert direct nadat jij je beurt hebt beëindigd, een axtra beurt uit. Daarbij mag jij alle kaarten zien die hij ook ziet, en maak jij alle beslissingen voor hem. Alle kaarten die hij pakt of koopt, leg je op kouw aflegstapel. Alle kaarten die hij vernietigt, legt hij opzij en legt hij aan het einde van de beurt op zijn aflegstapel",
   "extra": " You are not taking a turn with the deck of the player to your left; that player is taking a turn, with you making the decisions and gaining the cards. This is a crucial difference to keep in mind when considering card interactions - the \"you\" in all cards still refers to the player being Possessed, not the player doing the Possessing. Possession has several pieces to it: -You can see the Possessed player's cards for the entire turn, which means you will see his next hand during Clean-up. You will also see any cards he is entitled to see due to card rules; for example, you can look at cards he has set aside with Native Village (from Seaside). You can count any cards he can count. -Any cards the Possessed player would have gained in any way, you gain instead; this includes cards bought, as well as cards gained due to Actions. The cards you gain this way go to your discard pile, even if they would have gone to that player's hand or the top of his deck or somewhere else. You only gain cards he would have; you do not gain tokens he would have (for example from the Seaside card Pirate Ship). [Continued on blank tab]",
   "name": "Possession",
   "potcost": 1,
