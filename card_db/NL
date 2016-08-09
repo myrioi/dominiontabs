@@ -577,7 +577,7 @@
   ]
  },
  {
-  "cardset": "intrigue",
+  "cardset": "intrige",
   "cost": "5",
   "description": "Iedere andere speler moet kaarten van zijn trekstapel tonen todat hij een kaart toont die 3 of meer waard is. Hij moet deze kaart vernietigen en mag daarna een kaart pakken die ten hoogste 2 Coins minder waard is dan de vernietigde kaart. Hij legt de andere getoonde kaarten af.",
   "extra": " Iedere andere speler toont één voor één kaarten van zijn trekstapel totdat hij er één toont die 3 coins of meer waar is. Als een speler zijn aflegstapel voor dit doel moet schudden, schudt hij de al getoonde kaarten niet mee. Als hij al zijn kaarten heeft geschud getoond en geen kaart met een waarde van 3 of meer vindt, legt hij alle getoonde kaarten af en is klaar. Als hij er wel één vindt, moet hij deze vernietigen en een kaart pakken die ten hoogste 2 Coins minder waard is. Als hij bijvoorbeeld een kaart die 5 Coins kost vernietigt, mag hij een kaart pakken die macimaal 3 Coins kost. Hij pakt de kaart uit de voorraad en legt deze op zijn aflegstapel. De Brug beïnvloedt de kosten van de kaart.",
@@ -634,10 +634,10 @@
   ]
  },
  {
-  "cardset": "intrigue",
+  "cardset": "intrige",
   "cost": "6",
-  "description": "Worth 2 Coins, 2 <VP>",
-  "extra": " This is both a Treasure card and a Victory card. You can play it for 2 coins, just like a Silver card. At the end of the game, it's worth 2 VP. During set-up, place 12 Harems in the Supply for a 3- or 4- [or 5- or 6-] player game and 8 in the Supply for a 2-player game.",
+  "description": "2 Coins Waard, 2 <VP>",
+  "extra": " Deze kaart is zowel een geldkaart als een overwinningskaart. Je kunt de kaart net als een Zilver voor 2 Coins gebruiken. Aan het einde van het spel is de kaart 2 <VP> waard. In een spel met 2 spelers gebruik je 8 Haremkaarten, in een spel met 3 of 4 spelers 12 Haremkaarten.",
   "name": "Harem",
   "potcost": 0,
   "types": [
@@ -646,11 +646,11 @@
   ]
  },
  {
-  "cardset": "intrigue",
+  "cardset": "intrige",
   "cost": "6",
-  "description": "2 <VP>\nChoose one: +3 Cards, or +2 Actions.",
-  "extra": " This is both an Action card and a Victory card. When you play it, you choose either to draw 3 cards or to get 2 more Actions to use; you cannot mix and match. At the end of the game, this is worth 2 VP. During set-up, place 12 Nobles in the Supply for a 3- or 4- [or 5- or 6-] player game and 8 in the Supply for a 2-player game.",
-  "name": "Nobles",
+  "description": "2 <VP>\nKies één van de volgende opties: +3 Kaarten; of +2 Acties.",
+  "extra": " Deze kaart is zowel een actiekaart als een overwinningskaart. Als je de kaart speelt kies je voor het trekken van 3 kaarten of 2 extra acties. Je kunt de opties niet combineren. Aan het einde van het spel is de kaart 2 <VP> waaard. In een spel met 2 spelers gebruik je 8 adelkaarten, in een spel met 3 of 4 spelers 12 adelkaarten.",
+  "name": "Adel",
   "potcost": 0,
   "types": [
    "Action",
@@ -658,11 +658,11 @@
   ]
  },
  {
-  "cardset": "intrigue",
+  "cardset": "intrige",
   "cost": "0",
-  "description": "Worth 1 Coin.",
-  "extra": " 60 cards per game.",
-  "name": "Copper",
+  "description": "1 Coin waard.",
+  "extra": " 60 kaarten per spel.",
+  "name": "Koper",
   "potcost": 0,
   "count": 60, 
   "types": [
@@ -670,11 +670,11 @@
   ]
  },
  {
-  "cardset": "intrigue",
+  "cardset": "intrige",
   "cost": "3",
-  "description": "Worth 2 Coins.",
-  "extra": " 40 cards per game.",
-  "name": "Silver",
+  "description": "2 Coins waard.",
+  "extra": " 40 kaarten per spel.",
+  "name": "Zilver",
   "potcost": 0,
   "count": 40,
   "types": [
@@ -682,11 +682,11 @@
   ]
  },
  {
-  "cardset": "intrigue",
+  "cardset": "intrige",
   "cost": "6",
-  "description": "Worth 3 Coins.",
-  "extra": " 30 cards per game.",
-  "name": "Gold",
+  "description": "3 Coins waard.",
+  "extra": " 30 kaarten per spel.",
+  "name": "Goud",
   "potcost": 0,
   "count": 30, 
   "types": [
@@ -694,22 +694,22 @@
   ]
  },
  {
-  "cardset": "intrigue",
+  "cardset": "intrige",
   "cost": "0",
   "description": "-1 <VP>",
-  "extra": " Curses are an available pile in the Supply regardless of what other cards are in the Supply.  With 2 players, place 10 Curses in the Supply.  With 3 players, place 20 Curses in the Supply.  With 4 players, place 30 Curses in the Supply.  With 5 players, place 40 Curses in the Supply.  With 6 players, place 50 Curses in the Supply.",
-  "name": "Curse",
+  "extra": " Vloekkaarten zijn als stapel beschikbaar in de voorraad, ongeacht de andere kaarten in de voorraad. Bij 2 speler; plaats 10 vloekkaarten in de voorraad. Bij 3 spelers; plaats 20 vloekkaarten in de voorraad. Bij 4 spelers; plaats 30 vloekkaarten in de voorraad. Bij 5 spelers; plaats 40 vloekkaarten in de voorraad. Bij 6 spelers; plaats 50 vloekkaarten in de voorraad.",
+  "name": "Vloek",
   "potcost": 0,
   "types": [
    "Curse"
   ]
  },
  {
-  "cardset": "intrigue",
+  "cardset": "intrige",
   "cost": "2",
   "description": "1 <VP>",
-  "extra": " Put 8 in the Supply in a game with two players.  Put 12 in the Supply in a game with three or more players.",
-  "name": "Estate",
+  "extra": " Plaats bij 2 spelers 8 langdoedkaarten in de voorraad. Plaats bij 3 of meer spelers 12 landgoedkaarten in de voorraad.",
+  "name": "Landgoed",
   "potcost": 0,
   "count": 24, 
   "types": [
@@ -717,43 +717,43 @@
   ]
  },
  {
-  "cardset": "intrigue",
+  "cardset": "intrige",
   "cost": "5",
   "description": "3 <VP>",
-  "extra": " Put 8 in the Supply in a game with two players.  Put 12 in the Supply in a game with three or more players.",
-  "name": "Duchy",
+  "extra": " Plaats bij 2 spelers 8 langdoedkaarten in de voorraad. Plaats bij 3 of meer spelers 12 landgoedkaarten in de voorraad.",
+  "name": "Hertogdom",
   "potcost": 0,
   "types": [
    "Victory"
   ]
  },
  {
-  "cardset": "intrigue",
+  "cardset": "intrige",
   "cost": "8",
   "description": "6 <VP>",
-  "extra": " Put 8 in the Supply in a game with two players.  Put 12 in the Supply in a game with three or four players. Put 15 in the Supply in a game with five players.  Put 18 in the Supply in a game with six players.",
-  "name": "Province",
+  "extra": " Plaats bij 2 spelers 8 Provinciekaarten in de voorraad. Plaats bij 3 of 4 spelers 12 Provinciekaarten in de voorraad. Plaats bij 5 spelers 15 Provinciekaarten in de voorraad. Plaats bij 6 spelers 18 kaarten in de voorraad.",
+  "name": "Provincie",
   "potcost": 0,
   "types": [
    "Victory"
   ]
  },
  {
-  "cardset": "intrigue",
+  "cardset": "intrige",
   "cost": "",
-  "description": "Pile of trash.",
+  "description": "Vernietigde kaarten stapel.",
   "extra": "",
-  "name": "Trash",
+  "name": "Vernietigde Kaarten",
   "potcost": 0,
   "types": [
    "Trash"
   ]
  },
  {
-  "cardset": "seaside",
+  "cardset": "hijs de zeilen",
   "cost": "2",
-  "description": "+2 Coins, Trash this card. Put an Embargo token on top of a Supply pile. - When a player buys a card, he gains a Curse card per Embargo token on that pile.",
-  "extra": " You can pick any pile in the supply. If multiple Embargo cards are used to put Embargo tokens on the same pile, a player gains a Curse card for every Embargo token when they buy a card from that pile. You do not gain a Curse card if you gain a card from an Embargoed pile without buying it (for example, if you gain a card with Smugglers). If you Throne Room an Embargo, you place two Embargo tokens and they do not have to go on the same Supply pile. If you run out of Embargo tokens, use a suitable replacement to mark Embargoed piles. If there are no Curses left, Embargo tokens do nothing.",
+  "description": "+2 Coins, Vernietig deze kaart. Leg één embargofiche op één van de stapels kaarten in de voorraad. - Als een speler een kaart koopt van een stapel waarop één of meer embargofiches liggen, moet hij voor elk embargofiche op deze stapel één vloekkaart pakken.",
+  "extra": " Je kunt elke voorraadstapel kiezen. Als er meeer dan één embargofiche op een stapel ligt, moet een speler voor elk embargofiche een vloekkaart nemen als hij een kaart van deze stapel koopt. Hij hoeft alleen vloekkaarten te nemen als hij een kaart van zo'n stapel koopt, niet als hij kaart van deze stapel pakt of op een andere manier verkrijgt (door bijvoorbeeld een Smokkelaar). Als je een Troonzaal op een Embargo speelt, mag je 2 embargofiches inzetten (als je wilt ook op verschillende stapels). Embargofiches zijn niet gelimiteerd. Mochten ze opraken, gebruik dan iets anders ter vervanging. Als de vloekkaarten op zijn, hebben de embargofiches geen effect.",
   "name": "Embargo",
   "potcost": 0,
   "types": [
@@ -761,10 +761,10 @@
   ]
  },
  {
-  "cardset": "seaside",
+  "cardset": "hijs de zeilen",
   "cost": "2",
-  "description": "+1 Card, +1 Action, Set aside a card from your hand face down. At the start of your next turn, put it into your hand.",
-  "extra": " First draw a card; then choose a card from your hand and set it aside, face down. Put the set aside card on the Haven, to remind you what it's for. Other players don't get to see what you put down. You have to set aside a card; it's not optional. Haven and the card stay there until the start of your next turn, at which point you put the set aside card into your hand. Haven itself is discarded during the Clean-up phase of that subsequent turn.",
+  "description": "+1 Kaart, +1 Actie, Leg één kaart uit je hand gedekt opzij. - Aan het begin van je volgende beurt: Neem de opzijgelegde kaart in je hand.",
+  "extra": " Je trekt eerst een kaart. Daarna kies je één kaart uit je hand en legt deze gedekt op de haven. Je hoeft deze kaart niet aan de andere spelers te laten zien. Als je de haven speelt, moet je er een kaart op leggen. De haven en de kaart erop blijven tot het begin van je volgende beurt liggen. Aan het begin van je volgende beurt neem je de kaart die op de Haven ligt in je hand. In de opschoonfase van deze volgende beurt leg je de Haven op je aflegstapel.",
   "name": "Haven",
   "potcost": 0,
   "types": [
@@ -773,11 +773,11 @@
   ]
  },
  {
-  "cardset": "seaside",
+  "cardset": "hijs de zeilen",
   "cost": "2",
-  "description": "+1 Action, Now and at the start of your next turn: +1 Coin. - While this is in play, when another player plays an Attack card, it doesn't affect you.",
-  "extra": " You get an action and a coin this turn, but only a coin next turn. Attack cards played by other players don't affect you, even if you want them to. You could reveal Secret Chamber in order to draw 2 cards and put 2 cards from your hand back on top of your deck when an Attack card is played, and you will still not suffer from the Attack card. You do still gain the benefits (like +Cards) of Attack cards you play on your turn. Lighthouse is discarded during the Cleanup phase of your next turn.",
-  "name": "Lighthouse",
+  "description": "+1 Actie, Nu en aan het begin van je volgende beurt: +1 Coin. - Zolang deze kaart in het spel is, word je niet door aanvallen van andere spelers getroffen.",
+  "extra": " Je krijgt deze beurt 1 extra actie en 1 extra munt voor je aanschaffase. Aan het begin van je volgende beurt krijg je nog 1 extra munt voor je aanschaffase. Zolang de Vuurtoren voor je ligt, word je niet getroffen door aanvalskaarten, ook niet als je dat zou willen. Je kunt wel reactiekaarten spelen op aanvalskaarten om het betreffende voordeel te krijgen. Door jou gespeelde aanvalskaarten worden niet door de Vuurtoren afgeweerd. De Vuurtoren blijft tot en met de opschoonfase van je volgende beurt in het spel.",
+  "name": "Vuurtoren",
   "potcost": 0,
   "types": [
    "Action",
@@ -785,33 +785,33 @@
   ]
  },
  {
-  "cardset": "seaside",
+  "cardset": "hijs de zeilen",
   "cost": "2",
-  "description": "+2 Actions, Choose one: Set aside the top card of your deck face down on your Native Village mat; or put all the cards from your mat into your hand. You may look at the cards on your mat at any time; return them to your deck at the end of the game.",
-  "extra": " When you first gain one of these, take a Native Village player mat to put cards from this on. When you play Native Village, either take all of the set aside cards from your Native Village player mat and put them into your hand, or set aside the top card of your deck face down (shuffling first if needed) on the Native Village player mat. You may choose either option even if you have no cards on your mat or no cards in your deck. You may look at the cards on your Native Village player mat at any time. At the end of the game, any cards still on your mat return to your deck for scoring. Native Village itself does not get set aside; it goes to your discard pile during the Clean-up phase.",
-  "name": "Native Village",
+  "description": "+2 Acties, Kies één van de volgende 2 mogelijkheden: Leg de bovenste kaart van je trekstapel op je inheems dorptableau; of: Neem alle kaarten van je inheems dorptableau in je hand.",
+  "extra": " Zodra je je eerste Inheemse Dorp koopt of pakt, neem dan meteen een inheems doprtableau en leg deze voor je neer. Als je een Inheems Dorp speelt, moet je uit 2 mogelijkheden kiezen: of je bekijkt de bovenste kaart van je trekstapel en legt deze op je inheems dorptableau, of je neemt alle kaarten die op je inheems dorptableau liggen in je hand. Je mag een optie ook kiezen als je deze niet kunt uitvoeren. Je mag de kaarten op je inheems dorptableau op elk moment bekijken. Het Inheems Dorp zelf leg je in de opschoonfase zoals gebruikelijk op de aflegstapel. Aan het einde van het spel mag je alle kaarten die op je inheems dorptableau liggen weer in je deck doen.",
+  "name": "Inheems Dorp",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "seaside",
+  "cardset": "hijs de zeilen",
   "cost": "2",
-  "description": "+1 Card, +1 Action, Look at the bottom card of your deck. You may put it on top.",
-  "extra": " Draw a card before you look at the bottom card of your deck. If placing the card on top of your deck, be sure not to look at the next card on the bottom of your deck while moving the card. If you have no cards left when it's time to look at the bottom, you shuffle first.",
-  "name": "Pearl Diver",
+  "description": "+1 Kaart, +1 Actie, Bekijk de onderste kaart van je trekstapel. Je mag deze kaart gedekt op je trekstapel leggen.",
+  "extra": " Je trekt eerst je extra kaart voordat je de onderste kaart van de trekstapel bekijkt. Bekijk de onderste kaart zodanig dat je niet per ongeluk ook de volgende kaart ziet.",
+  "name": "Parelduiker",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "seaside",
+  "cardset": "hijs de zeilen",
   "cost": "3",
-  "description": "Reveal a card from your hand. Return up to 2 copies of it from your hand to the Supply. Then each other player gains a copy of it.",
-  "extra": " First you choose and reveal a card from your hand. You may place up to 2 copies of that card from your hand back in the Supply. You may choose not to put any of them back in the Supply. Then the other players each gain a copy of it from the Supply. If the pile for the chosen card runs out, some players may not get one; cards are given out in turn order starting with the next player. If you have no other cards in hand when you play this, it does nothing.",
-  "name": "Ambassador",
+  "description": "Toon een kaart uit je hand. Leg maximaal 2 van deze kaarten uit je hand terug in de voorraad. Iedere andere speler moet één zo'n kaart pakken.",
+  "extra": " Je kiest 1 kaart uit je hand en laat deze aan de andere spelers zien. Daarna mag je maximaal 2 van deze kaarten terug in de voorraad leggen. Je mag er ook voor kiezen om geen kaarten in de voorraad terug te leggen. Vervolgens moet iedere andere speler, te beginnen met de speler links van je, één zo'n kaart uit de voorraad pakken. Als de stapel uitgeput is, krijgt niemand meer kaarten. Als je na het spelen van de boodschapper geen kaarten in je hand hebt, leg je niets terug in de voorraad en krijgen de andere spelers geen kaarten. Als tijdens je beurt 3 voorraadstapels of de provinciestapel uitgeput raakt, is het spel na jouw beurt afgelopen, ook zorgt de boodschapper ervoor dat één van de stapels weer gevuld is.",
+  "name": "Boodschapper",
   "potcost": 0,
   "types": [
    "Action",
@@ -819,11 +819,11 @@
   ]
  },
  {
-  "cardset": "seaside",
+  "cardset": "hijs de zeilen",
   "cost": "3",
-  "description": "+2 Actions, +1 Coin, At the start of your next turn: +1 Action, +1 Coin.",
-  "extra": " You get a coin to spend and 2 more Actions to use this turn. At the start of your next turn you get a coin and only one more Action. This means you will be able to play 2 Actions total on your next turn (counting your normal Action). Leave this in front of you until the Clean-up phase of your next turn.",
-  "name": "Fishing Village",
+  "description": "+2 Acties, +1 Coin, Aan het begin van je volgende beurt: +1 Actie, +1 Coin.",
+  "extra": " Je krijgt deze beurt 2 extra acties en 1 Coin extra voor de aanschaffase. Aan het begin van je volgende beurt krijg je nog 1 extra actie en 1 Coin extra voor de aanschaffase. Het Vissersdorp blijft tot en met de opschoonfase van je volgende beurt in het spel.",
+  "name": "Vissersdorp",
   "potcost": 0,
   "types": [
    "Action",
@@ -831,44 +831,44 @@
   ]
  },
  {
-  "cardset": "seaside",
+  "cardset": "hijs de zeilen",
   "cost": "3",
-  "description": "+1 Action, Look at the top 3 cards of your deck. Trash one of them. Discard one of them. Put the other one on top of your deck.",
-  "extra": " If you do not have 3 cards to look at from the top of your deck, look at as many as you can and then shuffle your discard pile to look at the remaining cards. You should look at all 3 cards before deciding which to trash, which card to discard, and which card to put back on top of your deck. If the 3 cards you look at are the last 3 cards in your deck, the card you put back on top of your deck will be the only card left in your deck. If you have less than 3 cards to look at, even after shuffling, then you must follow the instructions on the card in order. If you only have one card to look at, you must trash it. If you have 2 cards to look at, you must trash one and discard one.",
-  "name": "Lookout",
+  "description": "+1 Actie, Bekijk de bovenste 3 kaarten van je trekstapel. Vernietig er één van. Leg er één van af. Leg de overgebleven kaart gedekt terug op je trekstapel.",
+  "extra": " Bekijk alle 3 de kaarten voordat je beslist welke je vernietigt, welke aflegt en welke je op je trekstapel legt. Als je minder dan 3 kaarten in je trekstapel hebt (ook na het eventueel schudden van je aflegstapel), volg je de instructies in volgorde op. Dus: eerst een kaart vernietigen, dan een kaart afleggen.",
+  "name": "Uitkijk",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "seaside",
+  "cardset": "hijs de zeilen",
   "cost": "3",
-  "description": "Gain a copy of a card costing up to 6 Coins that the player to your right gained on his last turn.",
-  "extra": " This looks at the most recent turn of the player to your right, even if you've taken multiple turns in a row. If that player gained no cards, or nothing costing 6 or less, then Smugglers does nothing. If that player gained multiple cards costing 6 or less, you choose which one to gain a copy of. Gained cards must come from the supply. They can be any card gained, whether bought or otherwise gained; you can even gain a card that the previous player gained with Smugglers. If the previous player gained a card via Black Market, you will not be able to gain a copy of it (no copies of it in the supply.) This is not an Attack; Lighthouse and Moat can't stop it. You cannot gain cards with Potion in the cost with Smugglers.",
-  "name": "Smugglers",
+  "description": "Pak één kaart die de speler rechts van je in zijn laatste beurt gepakt of gekocht heeft en die niet meer waard is dan 6 Coins.",
+  "extra": " Het is niet van belang op welke manier de speler rechts van je aan de kaart gekomen is (gekocht, gepakt, eventueel zelfs door een smokkelaar). Als de speler rechts van je in zijn beurt meerdere kaarten heeft gekocht of gepakt, mag je kiezen welke kaart jij pakt. Is de betreffende kaart niet in de voorraad, dan ontvang je niets. De Smokkelaar geldt niet als een aanval en kan niet door bijvoorbeeld een vuurtoren tegengehouden worden. Deze kaart heeft nooit betrekking op je vorige beurt. Als de speler rechts van je in zijn laatste beurt geen kaart heeft gekocht of gepakt heeft die 6 Coins of minder waard was, heeft de Smokkelaar deze beurt geen effect.",
+  "name": "Smokkelaar",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "seaside",
+  "cardset": "hijs de zeilen",
   "cost": "3",
-  "description": "+3 Card, +1 Action, Discard 3 cards.",
-  "extra": " If you do not have 3 cards to draw in your deck, draw as many as you can, shuffle your discard pile, and draw the remaining cards. If you are still not able to draw 3 cards, draw as many as you can. You will still need to discard 3 cards if you can, even if you couldn't draw 3. You may discard any combination of cards that you just drew with the Warehouse or cards that were previously in your hand.",
-  "name": "Warehouse",
+  "description": "+3 Kaarten, +1 Actie, Leg 3 kaarten uit je hand af.",
+  "extra": " Als je niet voldoende kaarten kunt trekken (ook na het eventueel schudden van je aflegstapel), trek je er zoveel mogelijk. Daarna moet je 3 kaarten afleggen, ook als je minder kaarten getrokken hebt. Heb je minder dan 3 kaarten in je hand, leg dan al je handkaarten af.",
+  "name": "Pakhuis",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "seaside",
+  "cardset": "hijs de zeilen",
   "cost": "4",
-  "description": "+1 Card, +1 Action\nAt the start of your next turn, +1 Card.",
-  "extra": " Draw a card at the start of your next turn (not before); Caravan itself is discarded during the Cleanup phase of that subsequent turn.",
-  "name": "Caravan",
+  "description": "+1 Kaart, +1 Actie\nAan het begin van je volgende beurt, +1 Kaart.",
+  "extra": " Trek aan het begin van je volgende beurt een extra kaart. De karavaan blijft tot en met de opschoonfase van je volgende beurt in het spel.",
+  "name": "Karavaan",
   "potcost": 0,
   "types": [
    "Action",
@@ -876,11 +876,11 @@
   ]
  },
  {
-  "cardset": "seaside",
+  "cardset": "hijs de zeilen",
   "cost": "4",
-  "description": "+2 Coins, Each other player discards a Copper card (or reveals a hand with no Copper).",
-  "extra": " Other players must discard one and only one Copper. If they do not have a Copper, they must reveal their hand for all players to see.",
-  "name": "Cutpurse",
+  "description": "+2 Coins, Iedere andere speler moet één Koperkaart uit zijn hand afleggen. Heeft een speler geen Koperkaart in zijn hand, dan moet hij zijn handkaarten aan de andere spelers laten zien.",
+  "extra": " Alle andere spelers moeten 1 Koperkaart uit hun hand afleggen. Een speler die geen Koperkaart in zijn hand heeft, moet zijn handkaarten aan de andere spelers laten zien.",
+  "name": "Beurzensnijder",
   "potcost": 0,
   "types": [
    "Action",
@@ -888,11 +888,11 @@
   ]
  },
  {
-  "cardset": "seaside",
+  "cardset": "hijs de zeilen",
   "cost": "4",
-  "description": "Set aside this and another card from your hand. Return them to your deck at the end of the game. 2 VP",
-  "extra": " When you first take this card, take an Island player mat. Island is both an Action card and a Victory card. Use 8 Islands in a 2 player game, 12 Islands in a 3+ player game. Island and the card set aside with it are set aside face up on the Island player mat provided. They should not be shuffled back into your deck when you shuffle your discard pile. They are returned to your deck at the end of the game in order to calculate total victory points. Island is worth 2 VP. If you have no other cards in hand when you play Island, just set Island aside by itself. If you Throne Room an Island, set aside the Island and a card from your hand, then set aside another card from your hand. You may look through the cards on your Island playing mat and other players may ask to see them as well.",
-  "name": "Island",
+  "description": "Leg deze kaart en één andere kaart uit je hand open op je eilandtableau. Doe deze kaarten aan het einde van het spel weer in je deck. 2 <VP>",
+  "extra": " Het eiland is tegelijkertijd een actie- en een overwinningskaart. Zodra je je eerste Eiland koopt of pakt, neem dan direct een eilandtableau en leg deze voor je neer. Als je een Eiland speelt, leg deze dan samen met een andere kaart uit je ahnd open op je eilandtableau. Deze blijven daar tot het einde van het spel liggen. Als je bij het spelen van het Eiland geen handkaarten handkaarten hebt, leg je uitsluitend het Eiland op je eilandtableau. Speel je een Troonzaal op een Eiland, dan leg je het Eiland en 2 kaarten uit je hand op je eilandtableau. Alle andere spelers mogen de kaarten op je eilandtalbeau op elk moment bekijken. Aan het einde van het spel doe je alle kaarten die op je eilandtableau liggen weer in je deck. Het Eiland is aan het einde van het spel 2 <VP> waard. Gebruik in een spel met 2 spelers 8 Eilandkaarten en in een spel met 3 of 4 spelers 12 Eilandkaarten.",
+  "name": "Eiland",
   "potcost": 0,
   "types": [
    "Action",
@@ -900,10 +900,10 @@
   ]
  },
  {
-  "cardset": "seaside",
+  "cardset": "Hijs de zeilen",
   "cost": "4",
-  "description": "+2 Coins, Look at the top 5 cards of your deck. Either discard all of them, or put them back on top of your deck in any order.",
-  "extra": " You discard all 5 cards or none of them. If you don't discard them, put them back in any order. If there aren't 5 cards left in your deck, look at as many as you can, then shuffle your discard pile (not including the cards you are currently looking at), and look at the rest. If there still aren't 5, you just look at however many are left, and put them back or discard them.",
+  "description": "+2 Coins, Bekijk de bovenste 5 kaarten van je trekstapel. Leg ze allemaal af of leg ze allemaal terug op je trekstapel in een volgorde naar keuze.",
+  "extra": " Je moet of alle 5 of helemaal geen kaarten afleggen. Als je de kaarten niet aflegt, mag je deze in een volgorde naar jouw keuze gedekt op je trekstapel terugleggen. Als je niet voldoende kaarten kunt trekken (ook na het eventueel schudden van je aflegstapel), trek je er zoveel mogelijk. Daarna beslis je of je ze allemaal aflegt of allemaal op je trekstapel teruglegt.",
   "name": "Navigator",
   "potcost": 0,
   "types": [
@@ -911,11 +911,11 @@
   ]
  },
  {
-  "cardset": "seaside",
+  "cardset": "hijs de zeilen",
   "cost": "4",
-  "description": "Choose one: Each other player reveals the top 2 cards of his deck, trashes a revealed Treasure that you choose, discards the rest, and if anyone trashed a Treasure you take a Coin token; or, +1 Coin per Coin token you've taken with Pirate Ships this game.",
-  "extra": " When you first take this card, take a Pirate Ship player mat. If you use the Pirate Ship to trash treasures, a player with just one card left reveals that last card and then shuffles to get the other card to reveal (without including the revealed card); a player with no cards left shuffles to get both of them. A player who still doesn't have two cards to reveal after shuffling just reveals what he can. Each player trashes one Treasure card at most, of the attacker's choice from the two revealed cards. As long as you trashed at least one Treasure card in this way, place a Coin token on your Pirate Ship player mat. You can't get more than one Coin token each time you play Pirate Ship, no matter how many treasures it trashes. If you choose not to try to trash treasures from the other players, the Pirate Ship is worth one coin for each Coin token on your Pirate Ship player mat. The Coin tokens are cumulative, so after you have used your Pirate Ships to trash coins 3 times (and you trash at least one Treasure card each time), any Pirate Ship you play could be worth 3 coins. Pirate Ship is an Action- Attack and players can reveal Secret Chamber even if you choose to use Pirate Ship for the coin value. [You make your choice on how to use Pirate Ship after other players are done revealing Reactions.]",
-  "name": "Pirate Ship",
+  "description": "Kies één van de volgende 2 mogelijkheden: Iedere speler toont de 2 bovenste kaarten van zijn trekstapell. Tonen de andere spelers één of meer geldkaarten, dan moet ieder van hen één geldkaart (naar jouw keuze) vernietigen. als je op deze manier ten minste één geldkaart hebt vernietigd, leg je 1 geldfiche op je piratenschiptableau. De spelers leggen alle overige getoonde kaarten af; of: + 1 Coin voor elk geldfiche op je piratenschiptableau.",
+  "extra": " Zodra je je eerste piratenschip koopt of pakt, neem dan direct een piratenschiptableau en leg deze voor je neer. Als je een piratenschip speelt, kies je voor één van de volgende 2 opties: of je kiest voor het verietigen van geldkaarten van de andere spelers of je kiest voor extra munten voor je aanschaffase. Kies je voor de eerste mogelijkheid, dan mag je per andere speler ten hoogste één geldkaart vernietigen. Toont een andere speler 2 geldkaarten, dan kies jij welke van de 2 wordt vernietigd. Heb je in je beurt ten minste één geldkaart vernietigd, dan krijg je 1 geldfiche, dat je op je piratenschiptableau legt. Je kunt per gespeeld Piratenschip niet meer dan 1 geldfiche verdienen, ook al vernietig je meer geldkaarten. Als je de tweede mogelijkheid kiest, krijg je +1 Coin voor elk geldfiche op je piratenschiptableau. Geldfiches blijven tot het einde van het spel op je piratenschiptableau liggen. Bijvoorbeeld: je hebt je Piratenschip 3 keer succesvol gespeeld om geldkaarten te vernietigen. Daardoor liggen er 3 geldfiches op je piratenschiptableau. De volgende keer dat je een Piratenschip speelt, kun je ervoor kiezen om + 3 Coins voor je aanschaffase te krijgen. Het spelen van een piratenschip geldt als een aanval. De andere spelers kunnen er met reactiekaarten op reageren, ook als je de extra munten kiest.]",
+  "name": "Piratenschip",
   "potcost": 0,
   "types": [
    "Action",
@@ -923,22 +923,22 @@
   ]
  },
  {
-  "cardset": "seaside",
+  "cardset": "hijs de zeilen",
   "cost": "4",
-  "description": "+1 Buy, Trash a card from your hand. +Coins equal to its cost.",
-  "extra": " If you have at least one card in your hand, then you must trash one. If you don't have a card in hand left to trash, you get no coins, but still get the +1 Buy.",
-  "name": "Salvager",
+  "description": "+1 Aanschaf, Vernietig één kaart uit je hand + geld gelijk aan de waarde van de vernietigde kaart.",
+  "extra": " Je moet een kaart uit je hand vernietigen zolang je dat nog kunt. Hbe je geen kaarten in je hand, dan krijg je geen extra munten, maar wel de extra aanschaf.",
+  "name": "Afvalverwerker",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "seaside",
+  "cardset": "hijs de zeilen",
   "cost": "4",
-  "description": "Each other player discards the top card of his deck, then gains a Curse card, putting it on top of his deck.",
-  "extra": " A player with no cards left in his deck shuffles first in order to get a card to discard. If he still has no cards, he doesn't discard one. A player discarding his last card to this has the gained Curse become the only card in his deck. If there aren't enough Curses left to go around, deal them out in turn order, starting with the player to the left of the player who played Sea Hag.",
-  "name": "Sea Hag",
+  "description": "Iedere andere speler moet de bovenste kaart van zijn trekstapel afleggen en daarna een Vloekkaart pakken, die hij op zijn trekstapel legt.",
+  "extra": " Is de trekstapel van een speler leeg, dan schud hij zijn aflegstapel en legt de bovenste kaart van zijn nieuwe trekstapel af. Daanra moeten alle andere spelers, te beginnen met de speler links van de aanvaller, vloekkaart pakken en op hun trekstapel leggen. Zijn er niet voldoende vloekkaarten in voorraad, dan worden de resterende vloekkaarten in beurtvolgorde verdeeld.",
+  "name": "Zeeheks",
   "potcost": 0,
   "types": [
    "Action",
@@ -946,21 +946,21 @@
   ]
  },
  {
-  "cardset": "seaside",
+  "cardset": "hijs de zeilen",
   "cost": "4",
-  "description": "Trash this and another copy of Treasure Map from your hand. If you do trash two Treasure Maps, gain 4 Gold cards, putting them on top of your deck.",
-  "extra": " You can play this without another Treasure Map in your hand; if you do, you trash this and gain nothing. You have to actually trash two copies of Treasure Map to gain the Golds; so for example if you Throne Room a Treasure Map, with two more Treasure Maps in hand, then the first time Treasure Map resolves you trash it and another one and gain 4 Golds, and the second time it resolves you trash your other Treasure Map but gain nothing (since you didn't actually trash the played Treasure Map that time). If there aren't enough Gold cards left, just gain what you can. The gained Golds go on top of your Deck. If your deck was empty they become the only cards in it.",
-  "name": "Treasure Map",
+  "description": "Vernietig deze Schatkaart en nog een Schatkaart uit je hand. Als je dat doet: pak 4 goudkaarten en leg deze gedekt op je trekstapel.",
+  "extra": " Je kunt deze kaart ook spelen als je geen andere Schatkaart in je hand hebt. In dat geval vernietig je de gespeelde Schatkaart, maar krijg je er niets voor. Je moet daadwerkelijk 2 Schatkaarten vernietigen om 4 goudkaarten te krijgen. Voorbeeld: je speelt een Troonzaal op een Schatkaart en één van de Schatkaarten in je hand. Vervolgens vernietig je de tweede schatkaart uit je hand, maar daar krijg je niets voor, omdat je de gespeelde Schatkaar al vernietigd had. Zijn er niet voldoende goudkaarten in voorraad, dan pak je het resterende Goud en legt dit gedekt op je trekstapel.",
+  "name": "Schatkaart",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "seaside",
+  "cardset": "hijs de zeilen",
   "cost": "5",
-  "description": "+1 Card, +2 Actions, +1 Coin.",
-  "extra": " You draw a card, get 2 more Actions to use, and get 1 more coin to spend this turn.",
+  "description": "+1 Kaart, +2 Acties, +1 Coin.",
+  "extra": " Je trekt één extra kaart, krijg 2 extra acties en + 1 Coin voor de aanschaffase.",
   "name": "Bazaar",
   "potcost": 0,
   "types": [
@@ -968,22 +968,22 @@
   ]
  },
  {
-  "cardset": "seaside",
+  "cardset": "hijs de zeilen",
   "cost": "5",
-  "description": "You may reveal a Province card from your hand. If you do, gain a Gold card, putting it into your hand. Otherwise, gain a Silver card, putting it into your hand.",
-  "extra": " You don't have to reveal a Province if you have one. If you do reveal one you gain a Gold, otherwise you gain a Silver. The gained card comes from the supply and is put into your hard; it can be spent the same turn.",
-  "name": "Explorer",
+  "description": "Je mag een Provincie uit je hand tonen. Als je dat doet: neem een Goud uit de voorraad in je hand. Als je dat niet doet: neem een Zilver uit de voorraad in je hand.",
+  "extra": " Als je een Provincie uit je hand toont, neem je direct een goudkaart uit de voorraad in je hand. Als je geen Provincie in je hand hebt of deze niet wilt tonen, neem je direct een zilverkaart uit de voorraad in je hand.",
+  "name": "Ontdekkingsreiziger",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "seaside",
+  "cardset": "hijs de zeilen",
   "cost": "5",
-  "description": "+2 Card, Each other player with 4 or more cards in hand puts cards from his hand on top of his deck until he has 3 cards in his hand.",
-  "extra": " The other players choose which cards they put on their decks and in what order. This has no effect on another player who already has only 3 cards in hand. A player with no cards left in their deck does not shuffle; the cards put back become the only cards in their deck.",
-  "name": "Ghost Ship",
+  "description": "+2 Kaarten, Iedere andere speler die ten minste 4 kaarten in zijn hand heeft, moet net zolang kaarten uit zijn hand op zijn trekstapel leggen totdat hij 3 kaarten in zijn hand heeft.",
+  "extra": " De andere spelers beslissen zelf welke kaarten ze uit hun hand op de trekstapel terugleggen en in welke volgorde. Spelers met 3 of minder handkaarten worden niet getroffen.",
+  "name": "De Vliegende Hollander",
   "potcost": 0,
   "types": [
    "Action",
@@ -991,11 +991,11 @@
   ]
  },
  {
-  "cardset": "seaside",
+  "cardset": "hijs de zeilen",
   "cost": "5",
-  "description": "Now and at the start of your next turn: +2 Coins.",
-  "extra": " You get 2 coins to spend this turn, and 2 more on your next turn. Leave this in front of you until the Clean-up phase of your next turn.",
-  "name": "Merchant Ship",
+  "description": "Nu en aan het begin van je volgende beurt: +2 Coins.",
+  "extra": " Je krijgt + 2 coins voor de aanschaffase van deze beurt en + 2 Coins voor de aanschaffase van je volgend beurt. Het Handelsschip blijft tot en met de opschoonfase van je volgende beurt in het spel.",
+  "name": "Handelsschip",
   "potcost": 0,
   "types": [
    "Action",
@@ -1003,11 +1003,11 @@
   ]
  },
  {
-  "cardset": "seaside",
+  "cardset": "hijs de zeilen",
   "cost": "5",
-  "description": "You only draw 3 cards (instead of 5) in this turn's Clean-up phase. Take an extra turn after this one. This can't cause you to take more than two consecutive turns.",
-  "extra": " The extra turn is completely normal except that your starting hand for it is only 3 cards. This means that you only drew 3 cards instead of 5 cards during the Clean-up phase of the turn when you played Outpost. Leave Outpost in front of you until the end of the extra turn. If you play Outpost as well as a \"Now and at the start of your next turn\" card, such as Merchant Ship, the turn from Outpost will be that next turn, so you'll get those coins then. If you manage to play Outpost twice in one turn, you will still only get one extra turn. If you play Outpost during an extra turn, it won't give you another turn.",
-  "name": "Outpost",
+  "description": "Trek in de volgende opschoonfase 3 in plaats van 5 kaarten. Voer daarna direct een extra beurt uit. Je kunt zo per beurt nooit meer dan één extra beurt krijgen.",
+  "extra": " De extra beurt verloopt gelijk aan een normale beurt, met als enige verschil dat je deze met 3 kaarten uitvoert in plaats van met 5. Laat de Voorpost tot en met het einde van je extra beurt voor je liggen. Als je de Voorpost tegelijk met een kaart speelt die aan het begin van je volgende beurt iets oplevert (zoals bijvoorbeeld het Handelschip), geldt je extra beurt direct voor deze kaart. Als je in je beurt meer dan één Voorpost speelt, krijg je niet meer dan één extra beurt. Ook als je tijdens je extra beurt een Voorpost speelt, krijg je geen extra beurt. Aan het einde van je extra beurt trek je zoals gebruikelijk 5 kaarten.",
+  "name": "Voorpost",
   "potcost": 0,
   "types": [
    "Action",
@@ -1015,11 +1015,11 @@
   ]
  },
  {
-  "cardset": "seaside",
+  "cardset": "hijs de zeilen",
   "cost": "5",
-  "description": "Discard your hand. If you discarded any cards this way, then at the start of your next turn, +5 Cards, +1 Buy, and +1 Action.",
-  "extra": " You wait until the start of your next turn to draw the 5 extra cards; you don't draw them at the end of the turn you played Tactician. Tactician stays out in front of you until the Clean-up phase of your next turn. Because you must discard at least one card in order to gain the bonuses from tactician, it is not possible to Throne Room a Tactician to get +10 cards, +2 Buys, and +2 Actions. You will have to discard all of your cards with the first Tactician and you will not have cards left in your hand to trigger the card drawing or the extra Buy or the extra Action when you play Tactician for the second time.",
-  "name": "Tactician",
+  "description": "Leg al je overige handkaarten af. - Als je op deze manier ten minste één kaart hebt afgelegd: Aan het begin van je volgende beurt: +5 Kaarten, + 1 Actie, + 1 Aanschaf.",
+  "extra": " Trek de 5 kaarten pas aan het begin van je volgende beurt, niet in de opschoonfase van de beurt waarin je de strateeg gespeeld hebt. De strateeg blijft tot en met de opschoonfase van je volgende beurt in het spel. Als je een Troonzaal op een Strateeg speelt, krijg je de bonus maar één keer, omdat je ook de tweede keer ten minste een kaart moet afleggen, maar die heb je na de eerste keer niet meer.",
+  "name": "Strateeg",
   "potcost": 0,
   "types": [
    "Action",
@@ -1027,22 +1027,22 @@
   ]
  },
  {
-  "cardset": "seaside",
+  "cardset": "hijs de zeilen",
   "cost": "5",
-  "description": "+1 Card, +1 Action, +1 Coin, When you discard this from play, if you didn't buy a Victory card this turn, you may put this on top of your deck.",
-  "extra": " If you buy multiple cards and at least one of them is a Victory card, then none of your Treasuries can be put on top of your deck. If you played multiple Treasuries and did not buy a Victory card this turn, then you can put any or all of the played Treasuries on top of your deck. If you forget and discard a Treasury to your discard pile, then essentially you have chosen not to use the optional ability. You may not dig through your discard pile to retrieve it later. Gaining a Victory card without buying it, such as with Smugglers, does not stop you from putting Treasury on top of your deck.",
-  "name": "Treasury",
+  "description": "+1 Kaart, +1 Actie, +1 Coin, Als je deze beurt geen overwinningskaart gekocht hebt en deze kaart is in het spel, mag je deze gedekt op je trekstapel leggen in plaats van deze af te leggen.",
+  "extra": " Als je één of meer kaarten koopt en ten minste één ervan is een overwinningskaart, dan mag je de Schatkamer niet op je trekstapel terugleggen. Heb je meerdere Schatkamers gespeeld en heb je in deze beurt geen overwinningskaart gekocht, dan mag je zoveel Schatkamers op je trekstapel terugleggen als je wilt. Als je vergeet om de Schatkamer op de trekstapel te leggen, wordt ervan uitgegaan dat je ervoor gekozen hebt om de schatkamer op de aflegstapel te leggen. Je mag de Schatkamer later niet uit je aflegstapel zoeken om deze alsnog op je trekstapel te leggen. Als je een overwinningskaart gepakt hebt (met bijvoorbeeld de Smokkelaar), mag je de Schatkamer wel op je trekstapel terugleggen.",
+  "name": "Schatkamer",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "seaside",
+  "cardset": "hijs de zeilen",
   "cost": "5",
-  "description": "Now and at the start of your next turn: +2 Cards, +1 Buy.",
-  "extra": " You draw 2 cards and get an extra Buy this turn, and then draw 2 more cards and get another extra Buy at the start of your next turn. You don't draw your extra 2 cards for the next turn until that turn actually starts. Leave this in front of you until the Clean-up phase of your next turn.",
-  "name": "Wharf",
+  "description": "Nu en aan het begin van je volgende beurt: +2 Kaarten, +1 Aanschaf.",
+  "extra": " Je trekt eerst 2 extra kaarten en krijgt 1 extra aanschaf in deze beurt. Aan het begin van je volgende beurt trek je nog 2 extra kaarten en krijg je 1 extra aanschaf in die beurt. Je trekt deze 2 kaarten pas als je volgende beurt begonnen is. De Scheepswerf blijft tot en met de opschoonfase van je volgende beurt in het spel.",
+  "name": "Scheepswerf",
   "potcost": 0,
   "types": [
    "Action",
