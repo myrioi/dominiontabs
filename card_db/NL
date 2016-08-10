@@ -1331,19 +1331,19 @@
   "cardset": "welvaart",
   "cost": "5",
   "description": "Je mag een geldkaart uit je hand tonen. Pak een gelijk exemplaar uit de voorraad.\n______________________\nAls je deze kaart koopt, vervietig alle geldkaarten die je in het spel hebt.",
-  "extra": " When you buy this, you trash all of your Treasure cards in play. You do not trash Treasure cards in your hand or elsewhere; just the ones in play, if any. If you buy multiple cards in a turn, trash your Treasures right when you buy Mint; you still have any leftover coins they produced for spending on something else. Remember you do not have to play all of the Treasures from your hand each turn (just all the ones you want producing money for you). You do not get additional chances to play Treasure cards between buys in the Buy phase; first you play Treasures, then you buy cards. When you play Mint, you reveal a Treasure card from your hand and gain a copy of it from the Supply. The gained card goes into your discard pile. The revealed card stays in your hand. The Treasure card can also have other types, like Harem (from Intrigue). If you buy a Mint and use Watchtower to put it on top of your deck or trash it, you still trash all of your Treasures from play. However, if you buy a Mint with Royal Seal in play, the Royal Seal will be gone before you can use it to put Mint on your deck.",
-  "name": "Mint",
+  "extra": " Als je deze kaart koopt, vernietig je alle geldkaarten die je op dat moment in het spel hebt (alleen deze, niet geldkaarten in je hand of ergens anders. Onthoud dat je niet al je geldkaarten hoeft te spelen. Als je meer kaarten in je berut koopt, vernietig je de geldkaarten direct nadat je de kaart \"Aanmunten\" hebt gekocht. Gespeelde geldkaarten hebben hun hgeldwaarde al \"geproduceerd\", ook als je ze vernietigt. Je kunt dus voor de totale geldwaarde kaarten kopen. Je mag echter geen nieuwe geldkaarten meer spelen nadat je een kaart gekocht hebt.\nSpeel je de kaart \"Aanmunten\", dan mag je een geldkaart uit je hand tonen en een identiek exemplaar uit de voorraad pakken en op je aflegstapel leggen. Je neemt de getoonde geldkaart weer in je hand. De getoonde kaart mag een gecombineerde kaart zijn (zoals Harem uit Dominion Intrige).\nKoop je de kaart \"Aanmunten\" en toon je de Uitkijktoren uit je hand, dan mag je de kaart \"Aanmunten\" direct op je tekstapel leggen. Ook in dat geval moet je alle geldkaarten die je in het spel hebt, vernietigen.\nAls je de kaart \"Aanmunten koopt en je hebt een Koninklijk Zegel in het spel, dan wordt het Koninklijk Zegel vernietigt voordat je de kaart \"Aanmunten\" op je trekstapel mag leggen.",
+  "name": "Aanmunten",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "prosperity",
+  "cardset": "welvaart",
   "cost": "5",
-  "description": "+2 Coins\nEach other player may discard a Curse. If he doesn't, he gains a Curse and a Copper.",
-  "extra": " This hits the other players in turn order when that matters (such as when the Curse or Copper pile is low). Each of the other players in turn chooses whether or not to discard a Curse card from his hand, and if he does not, gains a Curse and a Copper from the Supply, putting them into his discard pile. If either the Curse or Copper pile is empty, he still gains the other one. If both are empty, he does not gain either, but can still discard Curse if he wants to. A player using Moat (from Dominion) on this may not discard a Curse, and doesn't gain a Curse or Copper - you cannot Moat just part of the attack. A player using Watchtower on this can use it just to trash the Curse, just to trash the Copper, or to trash both.",
-  "name": "Mountebank",
+  "description": "+2 Coins\nIedere andere speler mag een vloekkaart afleggen. Als hij dat niet doet, pakt hij een vloekkaart en een koperkaart.",
+  "extra": " Iedere andere speler, te beginnen met de speler links van je en daarna met de klok mee, moet beslissen of hij een Vloek uit zijn hand aflegt of dat hij een Koper en een Vloek uit de voorraad pakt en op zijn aflegstapel legt. Hij mag ook voor de tweede optie kiezen als één of beide stapels leeg zijn geen kaart. Toont een speler de Slotgracht (uit Dominion basisspel), dan mag hij geen van beide opties kiezen. Hij kan niet slechts een deel van een actie afweren. Kiest een speler voor de tweede optie en toont hij de Uitkijktoren uit zijn hand, dan mag hij direct 1 of beide kaarten vernietigen.",
+  "name": "Charlatan",
   "potcost": 0,
   "types": [
    "Action",
@@ -1351,11 +1351,11 @@
   ]
  },
  {
-  "cardset": "prosperity",
+  "cardset": "welvaart",
   "cost": "5",
-  "description": "+3 Cards\nEach other player reveals the top 3 cards of his deck, discards the revealed Actions and Treasures, and puts the rest back on top in any order he chooses.",
-  "extra": " The other players shuffle if necessary to get 3 cards to reveal, and just reveal what they can if they still have fewer than 3 cards. They discard revealed Treasures and Actions and put the rest back on top in whatever order they want. Cards with more than one type match all of their types; for example if a player reveals Nobles from Intrigue, it is an Action - Victory card, which means it is an Action, so he discards it.",
-  "name": "Rabble",
+  "description": "+3 Kaarten\nIedere andere speler toont de bovenste 3 kaarten van zijn trekstapel. Hij legt getoonde actiekaarten en geldkaarten af. Hij legt de overige kaarten in een volgorde naar keuze terug op zijn trekstapel.",
+  "extra": " Trek eerst 3 kaarten. Daarna moet iedere andere speler met de klok mee, te beginnen met de speler links van je, 3 kaarten tonen. Kan hij (ook na eventueel schudden van zijn aflegstapel) dat niet, dan toont hij er zoveel mogelijk. Hij legt op deze manier getoonde actiekaarten en geldkaarten af. Kaarten met gecombineerde kaartsoorten (zoals bijvoorbeeld de Harem uit Dominion Intrige) vallen daar ook onder. Hij legt de overige getoonde kaarten in een volgorde naar zijn keuze terug op zijn trekstapel.",
+  "name": "Gespuis",
   "potcost": 0,
   "types": [
    "Action",
@@ -1363,22 +1363,22 @@
   ]
  },
  {
-  "cardset": "prosperity",
+  "cardset": "welvaart",
   "cost": "5",
-  "description": "Worth 2 Coins.\n______________________\nWhile this is in play, when you gain a card, you may put that card on top of your deck.",
-  "extra": " This is a Treasure worth 2 coins, like Silver. If you gain multiple cards with this in play, this applies to each of them - you could put any or all of them on top of your deck. If you use this ability and there are no cards left in your deck, you do not shuffle; the card you gained becomes the only card in your deck. Royal Seal applies to all cards you gain while it is in play, whether bought or gained other ways. If you play the Alchemy card Possession, and during the extra turn you have the possessed played play Royal Seal, he cannot put the card on his deck - he is not gaining the card, you are.",
-  "name": "Royal Seal",
+  "description": "2 Coins.\n______________________\nZolang je deze kaart in het spel hebt, mag je een gepakte kaart op je trekstapel leggen.",
+  "extra": " Deze geldkaart heeft geldwaarde 2 Coins, net als Zilver. Pak of koop je meer kaarten in 1 beurt, dan mag je voor elke kaart apart beslissen of je deze op je trekstapel of op je aflegstapel legt. Is je trekstapel leeg en besluit je om een kaart op de trekstapel te leggen, dan wordt dit de enige kaart in je trekstapel. Kaarten die je in de beurt van een andere speler krijgt (als gevolg van de kaart \"Bezeten\" uit Dominion de Alchemisten) mag je niet op je trekstapel leggen, omdat de kaart \"Koninklijk Zegel\" dan uitsluitend voor de \"Bezeten\" speler geldt.",
+  "name": "Koninklijk Zegel",
   "potcost": 0,
   "types": [
    "Treasure"
   ]
  },
  {
-  "cardset": "prosperity",
+  "cardset": "welvaart",
   "cost": "5",
-  "description": "+2 Cards\nDiscard any number of cards. +1 Coin per card discarded.\nEach other player may discard 2 cards. If he does, he draws a card.",
-  "extra": " \"Any number\" includes zero. You draw cards first; you can discard the cards you just drew. Each other player chooses whether or not to discard 2 cards, then discards 2 cards if he chose to, then draws a card if he did discard 2 cards. If one of the other players has just one card, he can choose to discard it, but will not draw a card. Another player who discards but then has no cards left to draw shuffles in the discards before drawing.",
-  "name": "Vault",
+  "description": "+2 Kaarten\nLeg zoveel kaarten af als je wilt +1 Coin per afgelegde kaart. Iedere andere speler mag 2 kaarten afleggen. Las hij dat doet trekt hij 1 kaart.",
+  "extra": " Trek eerst 2 kaarten. Leg daarna naar believen een aantal handkaarten af. JE mag ook 0 kaarten afleggen of kaarten afleggen die je net getrokken heeft.\nIedere andere speler, te beginnen met de speler links van je en daarna met de klok mee, beslist nu of hij handkaarten wil afleggen of niet. Wil hij dat, dan moet hij precies 2 kaarten afleggen en trekt hij 1 nieuwe kaart.",
+  "name": "Schatkelder",
   "potcost": 0,
   "types": [
    "Action"
