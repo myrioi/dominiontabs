@@ -1176,30 +1176,30 @@
   "cardset": "de alchemisten",
   "cost": "6",
   "description": "De speler links van je voert direct nadat jij je beurt hebt beëindigd, een axtra beurt uit. Daarbij mag jij alle kaarten zien die hij ook ziet, en maak jij alle beslissingen voor hem. Alle kaarten die hij pakt of koopt, leg je op kouw aflegstapel. Alle kaarten die hij vernietigt, legt hij opzij en legt hij aan het einde van de beurt op zijn aflegstapel",
-  "extra": " You are not taking a turn with the deck of the player to your left; that player is taking a turn, with you making the decisions and gaining the cards. This is a crucial difference to keep in mind when considering card interactions - the \"you\" in all cards still refers to the player being Possessed, not the player doing the Possessing. Possession has several pieces to it: -You can see the Possessed player's cards for the entire turn, which means you will see his next hand during Clean-up. You will also see any cards he is entitled to see due to card rules; for example, you can look at cards he has set aside with Native Village (from Seaside). You can count any cards he can count. -Any cards the Possessed player would have gained in any way, you gain instead; this includes cards bought, as well as cards gained due to Actions. The cards you gain this way go to your discard pile, even if they would have gone to that player's hand or the top of his deck or somewhere else. You only gain cards he would have; you do not gain tokens he would have (for example from the Seaside card Pirate Ship). [Continued on blank tab]",
-  "name": "Possession",
+  "extra": "  De speler links van je voert de beurt uit, niet jijzelf. Dat is een belangrijk verschil, omdat de woorden \"je\" en \"jij\" op de \"bezeten\"spler slaan en niet op jou. Tijdens de axtra beurt mag je het volgende doen:\n-Je mag in deze extra beurt alle kaarten zien die de \"bezeten\" speler ook ziet. Dat betekent dat je in de opschoonfase ook zijn handkaarten voor de volgende beurt ziet. Je mag ook kaarten bekijken die hij volgens de spelregels mag inzien. Voorbeeld: je kunt de kaarten bekijken die hij met Inheems dorp (uit Hijs de Zeilen!) opzij heeft gelegd. Verder mag je alle kaarten tellen die de \"bezeten\" speler ook mag tellen.\n-Je maakt alle beslissingen voor de \"bezeten\" speler, met inbegrip van de kaarten die hij in deze extra beurt speelt, de beslissingen als gevolg van het spelen van die kaarten en de kaarten die hij in deze extra beurt koopt.\n- Alle kaarten die de \"bezeten\" speler pakt, zijn voor jou. Dit geldt zowel voor gekochte kaarten als voor kaarten die als gevolg van acties worden gepakt. Leg deze kaarten op jouw aflegstapel, ook al zouden ze naar de hand, de trekstapel of naar een andere plek van de \"bezeten\"speler zijn gegaan. JE krijgt alleen gepakte kaarten, geen fiches (van bijvoorbeeld het piratenship uit Dominion Hijs de Zeilen!) .",
+  "name": "Bezeten",
   "potcost": 1,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "alchemy",
+  "cardset": "de alchemisten",
   "cost": "6",
-  "description": "-During the Possessed turn, whenever one of that player's cards is trashed, set it aside, and that player puts it into his discard pile at the end of the turn, after Clean-up. This counts as the card being trashed, so, for example, you could trash a Mining Village (from Intrigue) and get the 2 coins. Getting those cards back at end of turn does not count as those cards being gained (so for example, you won't get them). Other players' cards that are trashed during that turn are not returned.\n-If you make another player play an Attack via Possession, that Attack will hit you like it would normally. If you want to use a Reaction in response to that Attack (such as Secret Chamber from Intrigue), you would be the one revealing the Reaction, not the player being Possessed.\n-Possession is cumulative; if you play it twice in one turn, there will be two extra turns after this one.\n-Cards passed with Masquerade (from Intrigue) are not being gained or trashed, and so are passed normally. Cards returned to the Supply with Ambassador (from Seaside) are also not being trashed, and so return to the Supply normally.",
-  "extra": " -Possession causes an extra turn to be played, like the card Outpost does (from Seaside). The extra turn happens only after this turn is completely over - you will have discarded everything and drawn your next hand. Outpost only prevents itself from giving a player two consecutive turns, it does not prevent other cards or the rules from doing so. So, for example, if you play Possession in a two player game, then after the Possession turn, that player still gets his normal turn. If he played Outpost during that turn though, it would not give him an extra turn. If you play both Outpost and Possession in the same turn, the Outpost turn happens first. If you make someone play Outpost during a turn in which you Possessed them, that player will get the extra turn and make decisions during it and so forth, not you; if you make someone play Possession during a turn in which you Possessed them, that will make that player Possess the player to his left, rather than you getting to Possess anyone further. Possession turns (and other extra turns) do not count for the tiebreaker. Once the game ends, no further turns are played, including extra turns from Possession and Outpost. -Unlike Outpost, Possession is not a Duration card. It is discarded in the Clean-up phase of the turn you played it. Possession also gives the Possessing player all tokens the Possessed player would get, which includes Debt tokens.",
-  "name": "Possession 2/2",
+  "description": "- Als er een kaart van de \"bezeten\" speler wordt vernietigd, leg deze dan tijdelijk opzij. Aan het einde van de opschoonfase van de extra beurt, legt de \"bezeten\" speler de opzij gelegde kaarten op zijn aflegstaple. Deze kaarten gelden tijdens de extra beurt als vernietigd. Voorbeeld: je kunt een Mijndorp (iot Imtrige) vernietigen en het geld daarvan gebruiken voor aankopen. Als het Mijndorp aan het einde van de opschoonfase weer op de aflegstapel wordt gelegd, geldt deze dus nite als gepakt (je krijgt de kaart dus niet). Kaarten van andere spelers die tijdens deze extra beurt worden vernietigd, gaan niet terug naar de aflegstapel. \n- Kaarten die als gevolg van een Maskerade (uit Intrige) worden doorgegeven, gelden niet als vernietigd of gepakt. Daarvoor gelden dus de gebruikelijke spelregels. Kaarten die als gevolg van de Ambassadeur (uit Hijs de Zeilen!) terug in de voorraad worden gelegd, gelden ook niet als vernietigd en gaan dus zoals gebruikelijk naar de voorraad.\n- Als de \"bezeten\" speler een aanval speelt, word ook jij op de gebruikelijke manier getroffen. Als je op de aanval wilt reageren (met bijvoorbeeld een Geheimee Kamer uit Dominion Intruge), moet je deze uit je eigen hand tonen, niet uit de hand van de \"bezeten\" speler.",
+  "extra": " - de kaart \"bezeten\" heeft als gevolg dat er een extra beurt wordt gespeeld, net als bij de Voorpost (uit Hijs de Zeilen!). De extra beurt vindt pas plaats nadat je jouw beurt helemaal hebt afgerod, inclusief de opschoonfase en het trekken van nieuwe kaarten. De Voorpost kan uistluitend bij het spelen van nog éé'n of meer Voorposten voorkomen dat een speler een extra beurt krijgt, de kaart voorkomt geen extra beurten bij het spelen van andere kaarten of bij het gebruiken van bepaalde spelregels. Voorbeeld: als je de kaart \"Bezeten\" speelt  in een spel met 2 spelers, krijgt de andere speler na de beurt waarin hij \"bezeten\" raakt, zijn eigen (extra) beurt. Als hij in deze beurt de Voorpost speelt, krijgt hij daarvoor geen extra beurt (die heeft hij namelijk al gehad als gevolg van de kaart \"Bezeten\"). Als je de Voorpost en de kaart Bezeten speelt, vindt eerst de extra beurt voor de kaart Voorpost plaats. Daarna de extra beurt voor de kaart \"Bezeten\". Als een \"bezeten\" speler de Voorpost speelt, geldt deze voor hem en niet voor jou.\n- Extra beurten gelden niet bij het bepalen van de winnaar bij een gelijke stand aan het einde van het spel. Als de voorwaarden voor het einde van het spel zijn vervuld vervallen eventuele extra beurten.\n- In tegenstelling tot de Voorpost is de kaart \"Bezeten\" geen duurzame kaart. LEg deze in de opschoonfase van je beurt af.\n- De kaart \"Bezten\" werkt cumulatief. Als je twee van deze kaarten in je beurt speelt, krijg je twee extra beurten.",
+  "name": "Bezeten 2/2",
   "potcost": 1,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "alchemy",
+  "cardset": "de alchemisten",
   "cost": "4",
-  "description": "Worth 1 Potion.",
-  "extra": " This is a basic Treasure card. It costs 4 Coins and produces Potion. It is not a Kingdom card.  After you choose 10 Kingdom cards for the Supply, if any of them have Potion in the cost, add the Potion pile to the Supply. Also add the Potion pile if you are using the promotional card Black Market, and the Black Market deck includes at least one card with Potion in the cost. If you don't have any cards with Potion in the cost in the Supply or the Black Market deck, do not use the Potion pile in this game. When you have a Potion pile, put all 16 Potions in it, no matter how many players there are. In games using this pile, if the pile becomes empty, that will count towards the game ending condition.",
-  "name": "Potion",
+  "description": "1 Potion waard.",
+  "extra": " Dit is een standaard geldkaart. Deze kost 4 Coins en levert Potion op. Het is geen koninkrijkkaart. Als één of meer van de 10 te gebruiken stapels koninkrijkkaarten een Potion in de kosten heeft, leg dan de stapel toverdranken in de voorraad. Gebruik altijd alle 16 toverdranken, ongeacht het aantal spelers. Als de toverdranken op zijn, telt dit als lege stapel bij het bepalen van het einde van het spel.",
+  "name": "Toverdrank",
   "potcost": 0,
   "count": 16, 
   "types": [
@@ -1207,54 +1207,54 @@
   ]
  },
  {
-  "cardset": "prosperity",
+  "cardset": "welvaart",
   "cost": "3",
-  "description": "Worth 1 Coin.\nWhen you play this, reveal cards from your deck until you reveal a Treasure. Discard it or trash it. Discard the other cards.",
-  "extra": " This is a Treasure worth 1 coin, like Copper. When you play it, you reveal cards from the top of your deck until revealing a Treasure card, and then you decide whether to trash that card or discard it. Then you discard all of the other revealed cards. If you run out of cards before revealing a Treasure, shuffle your discard pile (but not the revealed cards) to get more; if you still do not find a Treasure, just discard all of the revealed cards. Remember that you can play Treasures in any order in the Buy phase and can choose not to play some of your Treasures if you want.",
-  "name": "Loan",
+  "description": "1 Coin.\nAls je deze kaart speelt, toon dan kaarten van je trekstapel totdat je een geldkaart toont leg deze af of vernietig deze. Leg de andere getoonde kaarten af.",
+  "extra": " Deze geldkaart heeft een geldwaarde van 1 Coin, net als Koper. Als je deze kaart speelt, toon je net zolang kaarten van je trekstapel totdat je een geldkaart toont. Vervolgend beslis je of je deze geldkaart vernietigt of aflegt. Daara leg je alle andere getoonde kaarten af. Kun je geen kaarten meer tonen (ook na het schudden van je aflegstapel), leg dan alle getoonde kaarten af. Onthoud dat je zelf de volgorde van het spelen van geldkaarten bepaalt en dat het niet verplicht is om alle geldkaarten in je hand te spelen.",
+  "name": "Lening",
   "potcost": 0,
   "types": [
    "Treasure"
   ]
  },
  {
-  "cardset": "prosperity",
+  "cardset": "welvaart",
   "cost": "3",
-  "description": "+1 Buy\n+1 Coin per token on the Trade Route mat.\nTrash a card from your hand.\n______________________\nSetup: Put a token on each Victory card Supply pile. When a card is gained from that pile, move the token to the Trade Route mat.",
-  "extra": " You get an additional Buy to use in your Buy phase. You get +1 coin per token on the Trade Route mat. Then you trash a card from your hand. If you have no cards left in hand, you do not trash one. The amount you get from Trade Route is the same as +1 coin per Victory card pile that a card has been gained from this game. If Victory cards have been gained from outside the Supply piles, for example using the promotional card Black Market, then this does not count those. Put a coin token on each Victory card pile at the start of the game. When a card is gained from a Victory card pile, move its token onto the Trade Route mat. So for example if this game includes the Intrigue card Harem, and so far Harem and Duchy have been bought, but no one has bought (or otherwise gained) Estate or Province or Colony, then Trade Route makes 2 coins. It does not matter who gained the cards or how they gained them. You do not get any extra money if a pile has had multiple cards gained from it or is empty; all that matters is if at least one card has been gained from it. It does not matter if cards have been returned to a pile, such as with Ambassador from Seaside; Trade Route only cares if a card was ever gained from the pile this game. If you are using Black Market and Trade Route is in the Black Market deck, put tokens on Victory card piles at the start of the game.",
-  "name": "Trade Route",
+  "description": "+1 Aanschaf\n+1 Coin per fiche op het handelsroutetableau.\nVernietig 1 kaart uit je hand.\n______________________\nVoorbereiding: leg 1 fiche op elke stapel overwinningskaarten. Wordt er een kaart van zo'n stapel gepakt, verplaats het fiche dan naar het handelsroutetableau.",
+  "extra": " Je krijgt 1 extra aanschaf en + 1 Coin ectra virtueel geld voor elk muntenfiche dat op het handelstableau ligt op het moment dat je de kaart \"Handelsroute\" speelt. Daarna moet je 1 kaart uit je hand vernietigen (voor zover je er ten minste 1 in je hand hebt).",
+  "name": "Handelsroute",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "prosperity",
+  "cardset": "welvaart",
   "cost": "3",
-  "description": "Draw until you have 6 cards in hand.\n______________________\nWhen you gain a card, you may reveal this from your hand. If you do, either trash that card, or put it on top of your deck.",
-  "extra": " When you play this, you draw cards one at a time until you have 6 cards in hand. If you have 6 or more cards in hand already, you do not draw any cards. When you gain a card, even on someone else's turn, you may reveal Watchtower from your hand, to either trash the gained card or put it on top of your deck. You may reveal Watchtower each time you gain a card; for example if another player plays Mountebank, you may use Watchtower to trash both the Curse and Copper, or to trash the Curse and put the Copper on top of your deck, or just to trash the Curse, and so on. You still did gain whatever card you gained; you just immediately trash it. So if Mountebank gives you a Curse and you trash it, the Curse pile will go down by one as the Curse gets moved to the trash pile. You may reveal Watchtower on your own turn as well, for example when buying a card, or gaining a card via something like Expand. If you use Watchtower to put a card on your deck but have no cards left in your deck, you do not shuffle; the gained card becomes the only card in your deck. Revealing Watchtower does not take it out of your hand; you could reveal Watchtower on multiple opponents' turns and still have it on your turn to draw up to 6 with. When cards are gained during a Possession turn (from Alchemy), the player who played Possession is the one who can use Watchtower, not the player who is being possessed. If a gained card is going somewhere other than to your discard pile, such as a card gained with Mine (from Dominion), you can still use Watchtower to trash it or put it on your deck.",
-  "name": "Watchtower",
+  "description": "Trek kaarten totdat je er 6 in je hand hebt.\n______________________\nAls je een kaart pakt, mag je de Uitkijktoren uit je hand tonen. Doe je dat, dan vernietig je de gepakte kaart of je legt deze op je trekstapel.",
+  "extra": " Als je deze kaart speelt, trek je net zolang kaarten van je trekstapel totdat je er 6 in je hand hebt. Heb je bij het spelen van de Uitkijktoren al 6 of meer kaarten in je hand, dan trek je geen kaarten.\nElke keer dat je een kaart pakt of koopt, zowel in je eigen beurt als in die van andere spelers, mag je de Uitkijktoren uit je hand tonen en vervolgens beslissen of je de nieuwe kaart vernietigd of op je trekstapel legt. Je mag de uitkijktoren meermaals per beurt tonen. Na het tonen neem je de Uitkijktoren weer in je hand. Speelt een andere speler bijvoorbeeld de Charlatan, dan mag je de Uitkijktoren bij één of bij beide kaarten (Koper en Vloek) tonen en vervolgens voor beide kaartenapart beslissen wat je ermee wilt doen. Je kunt met de Uitkijktoren op verschillende aanvallen van de andere spelers reageren en de kaart vervolgens in je eigen beurt spelen. Ook als je ervoor kiest om een kaart te vernietigen, moet je deze eerst pakken. Deze kaart blijft dus niet in de voorraad en andere kaarten die betrekking hebben op gepakte kaarten (zoals de Smokkelaar uit Dominion: Hijs de Zeilen!), kunnen daar gebruik van maken.\nAls een speler in een extra beurt als gevolg van de kaart \"Bezeten\" (uit Dominion: de Alchemisten) kaarten koopt of pakt, kun je de uitkijktoren niet uit jouw hand tonen, ondat de \"bezeten\" speler de kaarten pakt. Je mag de Uitkijktoren ook tonen als je een kaart pakt die je niet op de aflegstapel hoeft te leggen (zoals bijvoorbeeld een opgewaardeerde geldkaart met behulp van de Mijn uit Dominion basisspel).",
+  "name": "Uitkijktoren",
   "potcost": 0,
   "types": [
    "Reaction"
   ]
  },
  {
-  "cardset": "prosperity",
+  "cardset": "welvaart",
   "cost": "4",
-  "description": "+1 Coin\n+1 <VP>\nTrash a card from your hand. +<VP> equal to half its cost in coins, rounded down.\nEach other player may trash a card from his hand.",
-  "extra": " [When a player takes VP tokens, he takes a player mat to put them on. VP tokens are not private and anyone can count them. VP tokens come in 1 VP and 5 VP denominations and players can make change as needed. Tokens are unlimited and if they run out, use something else to track any further tokens. At the end of the game, players add the total value of their VP tokens to their score.] Trashing a card is optional for the other players but mandatory for you. You trash a card, then each other player may trash a card, in turn order. Only the player who played Bishop can get VP tokens from it. Potion in costs is ignored, for example if you trash Golem (from Alchemy) which costs 4 coins 1 potion, you get 3 VP tokens total (counting the 1 VP you always get from Bishop). If you have no cards left in your hand to trash, you still get the 1 coin and 1 VP token.",
-  "name": "Bishop",
+  "description": "+1 Coin\n+1 <VP>\nVernietig een kaart uit je hand. +<VP> gelijk aan de helft van de waarde van de vernietigde kaart (naar beneden afronden). Iedere andere speler mag een kaart uit zijn hand vernietigen.",
+  "extra": " Voor deze kaart zijn de overwinningspuntenfiches nodig. Je krijgt eers + 1 Coin virtueel geld en 1 overwinningspuntenfiche op je tableau. Daarna moet je een kaart uit je hand vernietigen, als je er nog ten minste 1 hebt. Nu mag je de helft van de kosten van de vernietigde kaart in overwinningsputenfiches pakken en op je tableau leggen. Daarbij wordt uitsluitend naar de Coin kosten gekeken. Kosten in Potion worden genegeerd. Als je bijvoorbeeld de Golem 4 Coins Potion (uit Dominion: De Alchemisten) vernietigt, krijg je 2 overwinningspuntenfiches op je tableau. Daarna mogen alle andere spelers om beurten met de klok mee 1 kaart uit hun hand vernietigen. Zij krijgen daar geen overwinningspuntenfiches nodig.",
+  "name": "Bisschop",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "prosperity",
+  "cardset": "welvaart",
   "cost": "4",
-  "description": "+2 Coins; +1 <VP>",
-  "extra": " [When a player takes VP tokens, he takes a player mat to put them on. VP tokens are not private and anyone can count them. VP tokens come in 1 VP and 5 VP denominations and players can make change as needed. Tokens are unlimited and if they run out, use something else to track any further tokens. At the end of the game, players add the total value of their VP tokens to their score.]",
+  "description": "+2 Coins\n+1 <VP>",
+  "extra": " Voor deze kaart zijn de overwinningspuntenfiches nodig. + x <VP> - de speler neemt x overwinningspuntenfiches (1<VP>) uit de voorraad en legt deze op zijn tableau voor overwinningspuntenfiches. Hij kan deze niet meer verliezen. Hij mag 5 van deze fiches op elk moment tegen een fiche van 5<VP> wisselen.",
   "name": "Monument",
   "potcost": 0,
   "types": [
@@ -1262,21 +1262,21 @@
   ]
  },
  {
-  "cardset": "prosperity",
+  "cardset": "welvaart",
   "cost": "4",
-  "description": "Worth 1 Coin.\n______________________\nWhile this is in play, Action cards cost 2 Coins less, but not less than 0 Coins.",
-  "extra": " This is a Treasure worth 1 coin, like Copper. While it is in play, Action cards cost 2 coins less, to a minimum of 0 coins. It is cumulative; if you play two Quarries during your Buy phase, then King's Court will only cost 3 coins, rather than the usual 7 coins. It affects the costs of cards that are Actions plus another type, such as Nobles (an Action - Victory card in Intrigue). It is also cumulative with other effects that modify costs; if you play Worker's Village in your Action phase, then two Quarries in your Buy phase, Peddler will cost 2 coins. It affects the costs of cards everywhere, such as cards in players' hands.",
-  "name": "Quarry",
+  "description": "1 Coin.\n______________________\nAls deze kaart in het spel is, kost elke actiekaart 2 Coins minder, maar nooit minder dan 0 Coins.",
+  "extra": " Deze geldkaart heeft een geldwaarde van 1 Coin, net als Koper. Als je deze kaart in het spel hebt, kost elke actiekaart 2 Coins minder. Deze korting cumulatief. Voorbeeld: je speelt in de aanschaffase 2 Steengroeves. Actiekaarten kosten nu 4 Coins minder. Ook kortingen van andere kaarten zijn cumulatief. Voorbeeld: je speelt in de actiefase een Arbeirdersdorp en in de aanschaffase 2 Steengroeves. De Venter kost nu nog maar 2 Coins. Ook de kosten van handkaarten, kaarten in de trekstapel en kaarten in de aflegstapel worden door de steengroeve veranderd. Gecombineerde kaarten (zoals Adel uit Dominion Intrige) gelden ook als actiekaarten.",
+  "name": "Steengroeve",
   "potcost": 0,
   "types": [
    "Treasure"
   ]
  },
  {
-  "cardset": "prosperity",
+  "cardset": "welvaart",
   "cost": "4",
-  "description": "Worth 1 Coin.\n______________________\nWhile this is in play, when you buy a card costing 4 Coins or less that is not a Victory card, gain a copy of it.",
-  "extra": " This is a Treasure worth 1 coin, like Copper. Each time you buy a non-Victory card costing 4 coins or less with this in play, you gain another copy of the bought card. If there are no copies left, you do not gain one. The gained card comes from the Supply and goes into your discard pile. If you have multiple Talismans, you gain an additional copy for each one; if you buy multiple cards for 4 coins or less, Talisman applies to each one. For example if you have two Talismans, four Coppers, and two Buys, you could Buy Silver and Trade Route, gaining two more Silvers and two more Trade Routes. Talisman only affects buying cards; it does not work on cards gained other ways, such as with Expand. A card if a Victory card if Victory is any of its types; for example Great Hall from Intrigue is an Action - Victory card, so it is a Victory card. Talisman only cares about the cost of the card when you buy it, not its normal cost; so for example it can get you a Peddler if you have played two Actions this turn, thus lowering Peddler's cost to 4 coins, or can get you a Grand Market if you played Quarry. [You may not choose to not gain the additional card from Talisman; you must gain an additional one for each Talisman in play if possible.]",
+  "description": "1 Coin.\n______________________\nZolang je deze kaart in het spel hebt en je koopt een kaart met een waarde van 4 Coins of minder die geen overwinningskaart is, pak dan nog een exemplaar van de gekocht kaart.",
+  "extra": " Deze geldkaart heeft een geldwaarde van 1 Coin, net als Koper. Als je deze kaart in het spel hebt en je koopt een kaart die 4 Coins of minder kost en geen overwinningskaart is, dan pak je nog een exemplaar van de gekocht kaart. Deze pak je uit de voorraad en leg je op je aflegstapel. Is er geen tweede kaart meer, dan krijg je niets. Heb je meerdere kaarten \"Talisman\" in het spel, dan pak je voor elk van deze 1 exemplaar van de gekochte kaart. Koop je meer kaarten in je beurt die aan de voorwaarde voldoen (kosten 4 Coins of minder en geen overwinningskaart), dan pak je van elk van de gekochte kaarten 1 extra exemplaar. Voorbeeld: je hebt 2 kaarten \"Talisman\" en 4 Koper gespeeld en je hebt 2 aanschaffen. Je koopt 1 Zilver en 1 Handelsroute. Je pakt nu 2 extra Zilver en 2 Extra kaarten \"Handelsroute\".\nDe kaart \"Talisman\" heeft uitsluitend effect op gekochte kaarten. Pak je een kaart op een andere manier (zoals bijvoorbeeld met de kaart \"Uitbreiden\"), dan krijg je geen extra exemplaar. Gecombineerde kaarten (zoals de Grote Zaal uit Dominion Intrige) gelden ook als puntenkaarten. Bij het bepalen van de kosten van een kaart worden eventuele kortingen meegeteld. Voorbeeld: je hebt 2 actiekaarten gespeeld en je speelt nu in de aanschaffase de Talisman. Nu kost de Venter 4 Coins, waardoor je er nog een exemplaar bij krijgt.",
   "name": "Talisman",
   "potcost": 0,
   "types": [
@@ -1284,53 +1284,53 @@
   ]
  },
  {
-  "cardset": "prosperity",
+  "cardset": "welvaart",
   "cost": "4",
-  "description": "+1 Card\n+2 Actions\n+1 Buy",
-  "extra": " You draw a card, can play two more Actions this turn, and can buy one more card in your Buy phase this turn.",
-  "name": "Worker's Village",
+  "description": "+1 Kaart\n+2 Acties\n+1 Aanschaf",
+  "extra": " Trek eerst 1 kart. Daarna mag je 2 extra actiekaarten spelen en in de aanschaffase 1 extra kaart kopen.",
+  "name": "Arbeidersdorp",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "prosperity",
+  "cardset": "welvaart",
   "cost": "5",
-  "description": "+1 Card\n+2 Actions\nIf there are one or more empty Supply piles, +1 Card. If there are two or more, +1 Coin and +1 Buy.",
-  "extra": " You draw a card and can play two more Actions no matter what. If there is just one empty pile in the Supply, you also draw another card. If there are two or more empty piles, you both draw another card, and get 1 coin to spend and an extra Buy to use in the Buy phase. There are no further bonuses if three or more piles are empty. This only checks how many piles are empty when you play it; if piles become empty later in the turn, you do not go back and get the bonuses. If a pile stops being empty due to cards being returned to it, such as with the Seaside card Ambassador, Cities played after that will not count that pile as empty. An empty trash pile does not count for this.",
-  "name": "City",
+  "description": "+1 Kaart\n+2 Acties\nAls er 1 of meer voorraadstapels leeg zijn, + 1 Kaart. Zijn er 2 of meer stapels leeg, + 1 Coin en + 1 Aanschaf.",
+  "extra": "  Je trekt eerst 1 kaart en je krijgt +2 Acties. Is precies 1 stapel van de voorraad leeg, dan trek je nog 1 kaart. Zijn 2 of meer stapels van de voorraad leeg, dan krijg je 1 extra kaart, 1 Coin extra virtueel geld en 1 extra aanschaf. Je krijgt geen bonus als 3 of meer stapels leeg zin=jn. De betreffende voorwaarden moeten gelden op het moment dat je de Stad speelt.\nDe gevolgen van de kaart worden niet met terugwerkende kracht veranderd als een stapel kaarten later leegraakt (door bijvoorbeeld de kaart \"Uitbreiden\") of opnieuw gevuld wordt (door bijvoorbeeld de Boodschapper uit Dominion: Hijs de Zeilen!).\nDe stapel \"Vernietigde Kaarten\" is geen onderdeel van de voorraad en telt niet mee bij het bepalen van lege stapels.\nVoorbeeld: er zijn 2 stapels leeg. Je speelt de Stad. Je trekt in totaal 2 extra kaarten en je krijgt in totaal 2 extra acties, 1 Coin extra virtueel geld en 1 extra aanschaf.",
+  "name": "Stad",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "prosperity",
+  "cardset": "welvaart",
   "cost": "5",
-  "description": "Worth 3 Coins.\n+1 Buy\nWhen you play this, the player to your left names a card. You can't buy that card this turn.",
-  "extra": " This is a Treasure worth 3 coins, like Gold. When you play it, you get +1 Buy, the player to your left names a card, and you cannot buy the named card this turn. This does not stop you from gaining the card in ways other than buying it (such as via Hoard). He does not have to name a card in the Supply. If you play multiple Contrabands in one turn, the player to your left names a card each time; if he names different cards, you cannot buy any of the named cards this turn. You can play Treasures in any order, and you resolve this ability right when you play it, before playing any further Treasure cards. Note that once you buy a card in the Buy phase, you cannot play more Treasures. The number of cards left in a player's hand is public information; you can ask whenever you want to know it (for example, when that player plays Contraband).",
-  "name": "Contraband",
+  "description": "3 Coins.\n+1 Aanschaf\nAls je deze kaart speelt, noemt de speler direct links van je een kaart. Je mag de genoemde kaart deze beurt niet kopen.",
+  "extra": " Deze geldkaart heeft een geldwaarde van 3 Coins, net als Goud. Als je deze kaart speelt, krijg je +1 Aanschaf. Vervolgens noemt de speler links van je welke kaart je in deze beurt niet mag kopen. Speel je meerdere kaarten \"Smokkelwaar\", dan noemt je linkerbuurman voor elk van deze kaarten 1 kaart, die je niet mag kopen. Daarom is het belangrijk dat je geldkaarten in een volgorde naar keuze mag spelen. Je kunt bijvoorbeeld eest Smokkelwaar spelen, dan afwachten welke kaart je niet mag kopen en vervolgens meer geldkaarten spelen. Het aantal kaarten dat een speler in zijn hand heeft is ten allen tijde openbaar en zichtbaar voor de andere spelers. Je mag de genoemde kaart(en) weliswaar niet kopen, maar wel pakken als het om een instructie van een andere kaart gaat (zoals Spaargeld). Onthoud dat je geen geldkaarten meer mag spelen nadat je een kaart gekocht hebt.",
+  "name": "Smokkelaar",
   "potcost": 0,
   "types": [
    "Treasure"
   ]
  },
  {
-  "cardset": "prosperity",
+  "cardset": "welvaart",
   "cost": "5",
-  "description": "Look through your discard pile, reveal any number of Copper cards from it, and put them into your hand.",
-  "extra": " This card lets you look through your discard pile, something you normally are not allowed to do. You only get to look through your discard pile when you play this. You do not have to show the other players your entire discard pile, just the Coppers you take out. After you take out the Coppers, you can leave the cards in your discard pile in any order.",
-  "name": "Counting House",
+  "description": "Bekijk je aflegstapel, toon daaruit zoveel koperkaarten als je wilt en neem deze in je hand.",
+  "extra": " Deze kaart staat je toe om je aflegstapel te bekijken (wat normaal gesproken niet mag). Je mag je aflegstapel uitsluitend bekijken als je zojuist de Boekhouding hebt gespeeld. Je hoeft niet alle kaarten van je aflegstapel aan de andere spelers te laten zien, uitsluitend de koperkaarten die je in je hand neemt. Leg, nadat je de koperkaarten in je handhebt genomen, alle overige kaarten in een volgorde naar jouw keuze op de aflegstapel terug.",
+  "name": "Boekhouding",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "prosperity",
+  "cardset": "welvaart",
   "cost": "5",
-  "description": "You may reveal a Treasure card from your hand. Gain a copy of it.\n______________________\nWhen you buy this, trash all Treasures you have in play.",
+  "description": "Je mag een geldkaart uit je hand tonen. Pak een gelijk exemplaar uit de voorraad.\n______________________\nAls je deze kaart koopt, vervietig alle geldkaarten die je in het spel hebt.",
   "extra": " When you buy this, you trash all of your Treasure cards in play. You do not trash Treasure cards in your hand or elsewhere; just the ones in play, if any. If you buy multiple cards in a turn, trash your Treasures right when you buy Mint; you still have any leftover coins they produced for spending on something else. Remember you do not have to play all of the Treasures from your hand each turn (just all the ones you want producing money for you). You do not get additional chances to play Treasure cards between buys in the Buy phase; first you play Treasures, then you buy cards. When you play Mint, you reveal a Treasure card from your hand and gain a copy of it from the Supply. The gained card goes into your discard pile. The revealed card stays in your hand. The Treasure card can also have other types, like Harem (from Intrigue). If you buy a Mint and use Watchtower to put it on top of your deck or trash it, you still trash all of your Treasures from play. However, if you buy a Mint with Royal Seal in play, the Royal Seal will be gone before you can use it to put Mint on your deck.",
   "name": "Mint",
   "potcost": 0,
