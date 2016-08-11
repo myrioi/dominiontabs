@@ -1385,22 +1385,22 @@
   ]
  },
  {
-  "cardset": "prosperity",
+  "cardset": "welvaart",
   "cost": "5",
-  "description": "Worth 1 Coin.\nWhen you play this, reveal cards from your deck until you reveal a Treasure. Discard the other cards. Play that Treasure.",
-  "extra": " This is a Treasure card worth 1 coin, like Copper. When you play it, you reveal cards from your deck until revealing a Treasure card. If you run out of cards before revealing a Treasure, shuffle your discard pile (but not the revealed cards) to get more; if you still do not find a Treasure, just discard all of the revealed cards. If you do find a Treasure, discard the other cards and play the Treasure. If that Treasure does something when played, do that something. For example if Venture finds you another Venture, you reveal cards again. Remember that you choose what order to play Treasure cards; for example if you have both Venture and Loan in hand, you can play either one first.",
-  "name": "Venture",
+  "description": "1 Coin.\nAls je deze kaart speelt, toon dan kaarten van je trekstapel totdat je een geldkaart toont. Leg de andere getoonde kaarten af. Speel de geldkaart.",
+  "extra": " Deze kaart heeft geldwaarde 1 Coin, net als Koper. Speel je deze kaart, toon dan net zolang kaarten van je trekstapel totdat je een geldkaart toont. Speel de op deze manier getoonde geldkaart direct. Leg alle andere getoonde kaarten op je aflegstapel. Als je ook na het schudden van je aflegstapel geen geldkaarten kunt tonen, leg je alle getoonde karten af. Bevat de gespeelde geldkaart instructies, voer deze dan nu uit. Als je bijvoorbeeld met een Waagstuk weer een Waagstuk toont, ton je opnieuw kaarten totdat je een volgende geldkaart \"vindt\". Denk eraan dat je de geldkaarten in je hand in een volgorde naar keuze mag spelen. Heb je bijvoorbeeld een Waagstuk en een Lening in je hand, dan mag je kiezen welke je als eerste speelt.",
+  "name": "Waagstuk",
   "potcost": 0,
   "types": [
    "Treasure"
   ]
  },
  {
-  "cardset": "prosperity",
+  "cardset": "welvaart",
   "cost": "6",
-  "description": "+1 Buy\n+2 Coins\nEach other player discards down to 3 cards in hand.\n______________________\nWhile this is in play, when you buy a card, +1 <VP>.",
-  "extra": " [When a player takes VP tokens, he takes a player mat to put them on. VP tokens are not private and anyone can count them. VP tokens come in 1 VP and 5 VP denominations and players can make change as needed. Tokens are unlimited and if they run out, use something else to track any further tokens. At the end of the game, players add the total value of their VP tokens to their score.] You get 1 VP token for each card you buy, but do not get a VP token for gaining a card some other way. Multiple copies of Goons are cumulative; if you have two Goons in play and buy a Silver, you get 2 VP tokens. However if you King's Court a Goons, despite having played the card 3 times, there is still only one copy of it in play, so buying Silver would only get you 1 VP token.",
-  "name": "Goons",
+  "description": "+1 Aanschaf\n+2 Coins\nIedere andere speler legt naar zijn keuze karten af totdat hij er 3 op handen heeft.\n______________________\nAls deze kaart in het spel is, +1 <VP> voor elke kaart die je koopt.",
+  "extra": " Voor deze kaart zijn de overwinningspuntenfiches nodig. Eerst krijg je 1 extra aanschaf en 2 Coins extra virtueel geld. Daarna moet iedere andere speler zoveel handkaarten afleggen dat hij er nog 3 in zijn hand over heeft. Voor elke kaart die je deze beurt koopt, krijg je 1 overwinningspuntenfiche, die je op je tableau legt. Heb je meer kaarten \"Domkoppen\" in het spel, dan krijg je voor elke kaart \"Domkoppen\" die je in het spel hebt 1 overwinningspuntenfiche per gekochte kaart. Speel je een kaart \"Domkoppen\" op een Koningshof of een Troonzaal 9uit Dominion basisspel), dan krijg je maar 1 overwinningspuntenfiche, omdat de kaart maar één keer in het spel is.",
+  "name": "Domkoppen",
   "potcost": 0,
   "types": [
    "Action",
@@ -1408,32 +1408,32 @@
   ]
  },
  {
-  "cardset": "prosperity",
+  "cardset": "welvaart",
   "cost": "6",
-  "description": "+1 Card\n+1 Action\n+1 Buy\n+2 Coins\n______________________\nYou can't buy this if you have any Copper in play.",
-  "extra": " You do not have to play all of the Treasures in your hand in your Buy phase. Coppers in your hand do not stop you from buying Grand Market - only Coppers in play do. Coppers that were in play earlier in the turn but are not anymore also don't stop you; if you have 11 Coppers in play and 2 Buys, you could buy a Mint, trash all of your played Treasures, and then buy a Grand Market. You can gain Grand Market other ways - for example with Expand - whether or not you have Coppers in play. Treasures other than Copper do not prevent you from buying Grand Market, even if they are worth 1 coin (such as Loan).",
-  "name": "Grand Market",
+  "description": "+1 Kaart\n+1 Actie\n+1 Aanschaf\n+2 Coins\n______________________\nJe kunt deze kaart niet kopen als je koperkaarten in het spel hebt.",
+  "extra": " JE hoeft niet alle geldkaarten die je in je hand hebt te spelen. Koperkaarten in je hand verbieden niet om de Grote Markt te kopen. Ook koperkaarten die in deze beurt in het spel waren, maar dat nu niet meer zijn, verbieden ook het kopen van de Grote Markt niet. Voorbeeld: je hebt 2 aanschaffen een 11 koper in het spel. Je koopt eerst de kaart \"Aanmunten\". Daardoor vernietig je alle geldkaarten die je in het spel hebt. Nu heb je geen koperkaarten meer in het spel en kun je de Grote Makrt kopen (zie ook de eigenschappen van de kaart \"Aanmunten\"). Als je de Grote Markt op een andere manier pakt, bijvoorbeeld met behulp met behulp van de kaart \"uitbreiden\", wordt dit ook niet verhinderd door koperkaarten in het spel. Andere geldkaarten dan koper verbieden je niet om de Grote Markt te kopen, ook niet als ze dezelfde geldwaarde hebben (zoals bijvoorbeeld de Lening).",
+  "name": "Grote Markt",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "prosperity",
+  "cardset": "welvaart",
   "cost": "6",
-  "description": "Worth 2 Coins.\n______________________\nWhile this is in play, when you buy a Victory card, gain a Gold.",
-  "extra": " This is a Treasure worth 2 coins, like Silver. When you buy a Victory card with this in play, you gain a Gold card from the Supply, putting it into your discard pile. If there are no Golds left, you do not get one. If you have multiple Hoards in play, you will gain multiple Golds from buying a single one. So for example if you had two Hoards in play and no other money, with +1 Buy, you could buy two Estates and gain four Golds. Victory cards include cards that are other types as well, such as Nobles and Harem in Intrigue. You gain a Gold even if you use Watchtower to immediately trash the Victory card you gained. Victory cards gained other than by buying them do not get you Gold.",
-  "name": "Hoard",
+  "description": "2 Coins.\n______________________\nAls deze kaart in het spel is, pak een Goud voor elke overwinningskaart die je koopt.",
+  "extra": " Deze geldkaart heeft een geldwaarde van 2 Coins, net als Zilver. Als je deze kaart in het spel hebt en je koopt een overwinningskaart, neem dan 1 extra goudkaart en leg deze op je aflegstapel. Als de goudkaarten op zijn, krijg je niets. Heb je meer kaarten \"Spaargeld\" in het spel, dan krijg je per gespeelde kaart \"Spaargeld\" 1 goudkaart voor elke gekochte overwinningskaart. Voorbeeld"je speelt 2 kaarten \"Spaargeld\" en je hebt 1 extra aanschaf. Nu zou je 2 kaarten \"Landgoed\" kunnen kopen en daardoor 4 goudkaarten krijgen. Gecombineerde kaarten (zoals Adel en Harem uit Dominion Intrige) gelden ok als overwinningskaarte. Je mag ook een goudkaart pakken als je de gekochte overwinningskaart direct vernietigt (bijvoorbeeld met een Uitkijktoren). Om een goud te mogen pakken, moet je de overwinningskaart daadwerkelijk kopen. Pak je een overwinningskaart op een andere manier, dan krijg je geen Goud.",
+  "name": "Spaargeld",
   "potcost": 0,
   "types": [
    "Treasure"
   ]
  },
  {
-  "cardset": "prosperity",
+  "cardset": "welvaart",
   "cost": "7",
-  "description": "Worth ? Coins.\nWhen you play this, it`s worth 1 Coin per Treasure card you have in play (counting this).",
-  "extra": " This is a Treasure worth a variable amount. When you play Bank, it is worth 1 coin per Treasure you have in play, counting itself. Remember, you choose what order to play Treasure cards. If you play Bank with no other Treasures in play, it is worth 1 coin. If you play two copies of Bank in a row, the one you play second will be worth 1 coin more than the first one. Bank produces money right when you play it; things that happen later in the turn will not change how much money you got from it.",
+  "description": "? Coins.\nDeze kaart is bij het spelen ervan 1 Coin waard per geldkaart die je in het spel hebt. Deze kaart telt daarbij mee.",
+  "extra": " Deze geldkaart heeft een variabele geldwaarde. De Bank is 1 Coin waard voor elke geldkaart die je op het moment van spelen in het spel hebt. Daarbij wordt de Bank zelf ook meegeteld. Daarom is het belangrijk dat je geldkaarten in een volgorde naar keuze mag spelen. Als de Bank alleen in het spel is, heeft deze een geldwaarde van 1 Coin. Speel je 2 \"Bank\" na elkaar, dan heeft de eerste Bank een geldwaarde van 1 Coin en de tweede Bank een geldwaarde van 2 Coins. De geldwaarde van de Bank wordt onmiddellijk na het spelen bepaald en kan later niet meer veranderen (bijvoorbeeld door het spelen van andere geldkaarten).",
   "name": "Bank",
   "potcost": 0,
   "types": [
@@ -1441,54 +1441,54 @@
   ]
  },
  {
-  "cardset": "prosperity",
+  "cardset": "welvaart",
   "cost": "7",
-  "description": "Trash a card from your hand. Gain a card costing up to 3 Coins more than the trashed card.",
-  "extra": " This is not in your hand after you play it, so you cannot trash it as the card trashed. The card you gain can cost up to 3 coins more than the trashed card, but it can also cost any smaller amount, even less than the cost of the trashed card. You can trash a card and gain a copy of the same card. If you have no card in hand to trash, you do not gain a card. The card you gain comes from the Supply and is put into your discard pile.",
-  "name": "Expand",
+  "description": "Vernietig een kaart uit je hand. Pak een kaart die ten hoogste 3 Coins meer waard is dan de vernietigde kaart.",
+  "extra": " Je mag de gespeelde kaart \"uitbreiden\" niet vernietigen, omdat je deze niet meer in je hand hebt op het moment dat je de instructies erop uitvoert. Heb je een andere kaart \"Uitbreiden\" in je hand, dan mag je deze wel vernietigen. Kun je geen kaart uit je hand vernietigen, dan mag je geen nieuwe kaart pakken. De nieuwe kaart mag ten hoogste 3 Coins meer kosten dan de vernietigde kaart. Je mag geen geldkaarten of virtueel geld gebruiken om dit bedrag te verhogen. Het is toegestaan om een kaart te pakken die minder kost of een kaart te pakken die gelijk is aan de vernietigde kaart. Leg de gepakte kaart op je aflegstapel.",
+  "name": "Uitbreiden",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "prosperity",
+  "cardset": "welvaart",
   "cost": "7",
-  "description": "Trash any number of cards from your hand. Gain a card with cost exactly equal to the total cost in coins of the trashed cards.",
-  "extra": " \"Any number\" includes zero. If you trash no cards, you have to gain a card costing 0 coins if you can. This is different from how cards like Expand work if you do not trash anything, because Forge looks at the total, not at any one card's cost. If there is no card at the required cost, you do not gain a card. The card you gain comes from the Supply and is put into your discard pile. Potion symbols (on cards from Alchemy) are not added, and the card you gain cannot have a potion symbol in its cost.",
-  "name": "Forge",
+  "description": "Vernietig zoveel kaarten uit je hand als je wilt. Pak een kaart met een waarde die precies gelijk is aan de totale waarde van de vernietigde kaarten.",
+  "extra": " Je mag zoveel kaarten uit je hand vernietigen als je wilt. Dat betekent dat je ook 0 kaarten mag vernietigen. In dat geval moet je een kaart pakken die 0 Coins kost. In tegenstelling tot bijvoorbeeld de kaart \"uitbreiden\" gaat het hier niet om de kosten van individuele kaarten, maar om de totale kosten van alle vernietigde kaarten samen. Bevat de voorraad geen kaarten die precies zoveel kosten als de vernietigde kaarten samen, dan mag je geen kaart pakken. Uitsluitend Coin-kosten zijn van toepassing Potion-kosten (uit Dominion: de Alchemisten) worden genegeerd. Je mag noch Potion-kosten bij het totaal tellen, noch een kaart de Potion kost pakken.",
+  "name": "Vervalsen",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "prosperity",
+  "cardset": "welvaart",
   "cost": "7",
-  "description": "You may choose an Action card in your hand. Play it three times.",
-  "extra": " This is similar to Throne Room (from Dominion), but plays the Action three times rather than twice. You pick another Action card in your hand, play it, play it again, and play it a third time. This does not use up any extra Actions you were allowed to play due to cards like Worker's Village - King's Court itself uses up one Action and that is it. You cannot play any other cards in between resolving the King's Court-ed Action card multiple times, unless that Action card specifically tells you to (such as King's Court itself does). If you King's Court a King's Court, you will play three different Actions after that, playing each one of them three times - you do not play one Action nine times. If you King's Court a card that gives you +1 Action, such as Grand Market, you will end up with 3 Actions left afterwards.",
-  "name": "King's Court",
+  "description": "Kies een actie kaart uit je hand.\nSpeel deze driemaal.",
+  "extra": " Deze kaart is gelijk aan de Troonzaal (uit Dominion basisspel) met dit verschil dat je de gekozen kaart driemaal speelt. Je kiest dus 1 kaart uit je hand, legt deze op tafel en voert de instructies erop volledig uit. Daatna neem je de kaart weer in je hand en speel je de kaart nogmaals en voer je de instructies opnieuw uit. Vervolgens doe je hetzelfde een derde keer. Dit driemalig spelen van de actiekaart kost je geen acties (het spelen van het Koningshof kost je wel 1 actie). Je mag geen andere actiekaarten spelen voordat je een gekozen actiekaart 3 keer hebt gespeeld, tenzij de gekozen actiekaart dit expliciet aangeeft (zoals bijvoorbeeld het Koningshof zelf). Kies je een kaart die je +1 Actie oplevert, dan heb je na driemaal spelen +3 Acties. Speel je een Koningshof, dan kies je na elkaar 3 kaarten en speel je deze één voor één 3 keer. Je mag dus niet 1 kaart 9 keer spelen.",
+  "name": "Koningshof",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "prosperity",
+  "cardset": "welvaart",
   "cost": "8*",
-  "description": "+1 Card; +1 Action; +2 Coin\n______________________\nDuring your Buy phase, this costs 2 Coins less per Action card you have in play, but not less than 0 Coins.",
-  "extra": " Most of the time, this costs 8 coins. During Buy phases, this costs 2 coins less per Action card you have in play. This cost applies to all Peddler cards, including ones in hands and decks. It never costs less than 0 coins. If you play King's Court on Worker's Village, for example, that is just two Action cards you have in play, even though you played the Worker's Village three times. Buying cards using the promotional card Black Market is something that does not happen during a Buy phase, so Peddler still costs 8 coins then.",
-  "name": "Peddler",
+  "description": "+1 Kaart; +1 Actie; +2 Coin\n______________________\nDeze kaart kost je in je aanschaffase 2 Coins minder voor elke actiekaart die je in het spel hebt, maar nooit minder dan 0 Coins.",
+  "extra": " Deze kaart kost in principe 8 Coins. Voor elke actiekaart die je tijdens de aanschaffase zelf in het spel hebt, kost de Venter 2 Coins minder. Deze kosten gelden ook voor Venters in je hand of in de decks van andere spelers. Een Venter kan nooit minder kosten 0 Coins. Als je bijvoorbeeld een arbeidersdorp op een Koningshof speelt, geldt dit als 2 gespeelde actiekaarten. Pak of koop je een Venter buiten de aanschaffase om, dan kost deze 8 Coins.",
+  "name": "Venter",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
 {
-  "cardset": "prosperity",
+  "cardset": "welvaart",
   "cost": "9",
-  "description": "Worth 5 Coins.",
-  "extra": " This is not a Kingdom card. You do not use it every game. It is a Treasure worth 5 coins.  If only Kingdom cards from Prosperity are being used this game, then the Platinum and Colony piles are added to the Basic cards in the Supply for the game. If a mix of Kingdom cards from Prosperity and other sets are being used, then the inclusion of Platinum and Colony in the Supply should be determined randomly, based on the proportion of Prosperity and non-Prosperity cards in use. For example, choose a random Kingdom card being used - such as the first card dealt out from the Randomizer deck [this is equivalent to rolling a d10 or choosing a card at random after all 10 have been selected] - and if it is from Prosperity, add Platinum and Colony to the Supply. Platinum and Colony are not Kingdom cards; when those are included, there are 10 Kingdom cards, plus Copper, Silver, Gold, Platinum, Estate, Duchy, Province, Colony, and Curse, in the Supply. Use 8 Colonies for a 2-player game, or 12 Colonies for a game with 3 or more players. [Use all 12 Platinum regardless of the number of players. Platinum and Colony are meant to be used together and both or neither should be used, not one or the other.]",
+  "description": "5 Coins.",
+  "extra": " Deze kaart is geen koninklijkkaart. Platina is een standaard kaart, met een waarde van 5 Coins. De spelers kunnen ervoor kiezen om de stapel Platina (12) en Kolonie (bij 2 spelers 8 kaarten, anders 12 kaarten) in de voorraad te leggen. Wij raden aan om deze stapels uitsluitend te gebruiken als er met 4 of meer koninkrijkkaarten uit Dominion: Welvaart gespeeld wordt.",
   "name": "Platinum",
   "potcost": 0,
   "types": [
@@ -1496,10 +1496,10 @@
   ]
 },
  {
-  "cardset": "prosperity",
+  "cardset": "welvaart",
   "cost": "11",
   "description": "10 <VP>",
-  "extra": " This is not a Kingdom card. You do not use it every game. It is a Victory card worth 10 VP.  If only Kingdom cards from Prosperity are being used this game, then the Platinum and Colony piles are added to the Basic cards in the Supply for the game. If a mix of Kingdom cards from Prosperity and other sets are being used, then the inclusion of Platinum and Colony in the Supply should be determined randomly, based on the proportion of Prosperity and non-Prosperity cards in use. For example, choose a random Kingdom card being used - such as the first card dealt out from the Randomizer deck [this is equivalent to rolling a d10 or choosing a card at random after all 10 have been selected] - and if it is from Prosperity, add Platinum and Colony to the Supply. Platinum and Colony are not Kingdom cards; when those are included, there are 10 Kingdom cards, plus Copper, Silver, Gold, Platinum, Estate, Duchy, Province, Colony, and Curse, in the Supply. Use 8 Colonies for a 2-player game, or 12 Colonies for a game with 3 or more players. [Use all 12 Platinum regardless of the number of players. Platinum and Colony are meant to be used together and both or neither should be used, not one or the other.]",
+  "extra": " Deze overwinningskaart is geen koninkrijkkaart. De kolonie is een standaart kaart, met een waarde van 10 VP. De spelers kunnen ervoor kiezen om de stapel Platina (12) en Kolonie (bij 2 spelers 8 kaarten, anders 12 kaarten) in de voorraad te leggen. Wij raden aan om deze stapels uitsluitend te gebruiken als er met 4 of meer koninkrijkkaarten uit Dominion: Welvaart gespeeld wordt.",
   "name": "Colony",
   "potcost": 0,
   "types": [
