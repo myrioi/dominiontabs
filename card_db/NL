@@ -1711,11 +1711,11 @@
   ]
  },
  {
-  "cardset": "cornucopia",
+  "cardset": "Overvloed",
   "cost": "0*",
-  "description": "+1 Action\nGain a Gold, putting it on top of your deck.\n(This is not in the Supply.)",
-  "extra": " The Gold you gain comes from the Supply and is put on top of your deck. If your deck has no cards in it, it becomes the only card in your deck. If there are no Golds left in the Supply, you do not gain one. This is a Prize; see the Additional Rules. ",
-  "name": "Bag of Gold",
+  "description": "+1 Actie\nPak een goudkaart en leg deze op je trekstapel.\n(Deze kaart is geen onderdeel van de voorraad.)",
+  "extra": " Het goud dat je ontvangt, komt uit de voorraad en leg je op je trekstapel. Bevat je trekstapel geen kaarten, dan wordt het Goud de enige kaart van je trekstapel. Is er geen goud meer in de voorraad dan ontvang je niets. nDit is een Prijs: zie aanvullende spelregels.",
+  "name": "Zak met Goud",
   "potcost": 0,
   "types": [
    "Action",
@@ -1723,11 +1723,11 @@
   ]
  },
  {
-  "cardset": "cornucopia",
+  "cardset": "Overvloed",
   "cost": "0*",
-  "description": "Worth 2 Coins.\nWhen you play this, +1 Coins per unused Action you have (Action, not Action card).\n(This is not in the Supply.)",
-  "extra": " This is a Treasure worth 2 coins, like Silver. You play it in your Buy phase, like other Treasures. When you play it, you get an extra +1 coin per unused Action you have. This means Actions, not Action cards. So for example if you play Farming Village (which gives you +2 Actions), then Diadem, Diadem will give you an extra + 2 coins, for 4 coins total. If you play no Action cards at all on your turn, you will have one unused Action, so you will get total from Diadem. This is a Prize; see the Additional Rules.  ",
-  "name": "Diadem",
+  "description": "2 Coins.\nAls je deze kaart speelt, +1 Coin per ongebruikte actie die je hebt.\n(Deze kaart is geen onderdeel van de Voorraad.)",
+  "extra": " Dit is een geldkaart met een waarde van 2 Coins munten, gelijk aan Zilver. Je kunt de kaart in je aanschaffase spelen, net als andere geldkaarten. Bij het spelen van deze kaart krijg je +1 Coin extra voor elke ongebruikte actie die je over hebt. Let op: het gaat om acties, niet om actiekaarten. Voorbeeld: je speelt de kaart het Boerendorp (die je 2 extra acties geeft) en daarna de Tiara. De geeft je nu +2 Coins extra. Je hebt dus +4 Coins in totaal. Speel je in je beurt geen actiekaarten, dan heb je 1 ongebruikte actie over en geeft de Tiara je in totaal +3 Coins. Dit is een prijs: zie aanvullende regels.  ",
+  "name": "Tiara",
   "potcost": 0,
   "types": [
    "Treasure",
@@ -1735,11 +1735,11 @@
   ]
  },
  {
-  "cardset": "cornucopia",
+  "cardset": "overvloed",
   "cost": "0*",
-  "description": "+2 Cards\nGain an Estate. Each other player gains a Curse and discards down to 3 cards in hand.\n(This is not in the Supply.)",
-  "extra": " Do the things in the order listed. You draw 2 cards; then you gain an Estate from the Supply, putting it into your discard pile; then each other player gains a Curse from the Supply, putting it into his discard pile; then each other player discards down to 3 cards in hand. A player with 3 or fewer cards in hand does not discard any cards. If there are no Estates left, you do not gain one. If there are not enough Curses left, deal out the remaining Curses in turn order. This is a Prize; see the Additional Rules. ",
-  "name": "Followers",
+  "description": "+2 Kaarten\nPak een Landgoed. Iedere andere speler pakt een Vloek en moet handkaarten afleggen totdat hij er 3 in zijn hand overheeft.\nDeze kaart is geen onderdeel van de voorraad.)",
+  "extra": " Doe de genoemde zaken in de aangegeven volgorde. Eerst trek je 2 kaarten, vervolgens pak je een Landgoed uit de voorraad en legt het op je aflegstapel. Iedere andere speler krijgt daarna 1 Voek uit de voorraad en legt deze op zijn aflegstapel. Tot slot moet iedere andere speler zijn hand naar 3 kaarten reduceren door handkaarten af te leggen. Een speler die met 3 of minder kaarten in zijn hand heeft, hoeft niets af te leggen. Zijn er geen Landgoedere in de voorraad, dan ontvang je niets. Zijn er niet voldoende Vloeken voor alle spelers, verdeel de resterende vloekkaarten dan in beurtvolgorde. Dit is een Prijs: zie aanvullende spelregels.",
+  "name": "Volgelingen",
   "potcost": 0,
   "types": [
    "Action",
@@ -1748,11 +1748,11 @@
   ]
  },
  {
-  "cardset": "cornucopia",
+  "cardset": "overvloed",
   "cost": "0*",
-  "description": "+1 Buy\nWhile this is in play, cards cost 2 Coins less, but not less than 0 Coins.\n(This is not in the Supply.)",
-  "extra": " This makes all cards cheaper (to a minimum of 0 coins) as long as it is in play. When it leaves play, it stops making cards cheaper. This applies to cards everywhere - cards in the Supply, cards in hand, cards in decks. For example if you played Princess, then Remake, trashing a Copper, you could gain a Silver, as Silver would cost 1 coin while Copper would still cost 0 coins. Using Throne Room (from Dominion) on Princess will not make cards cost less, as there is still only one copy of Princess in play. This is a Prize; see the Additional Rules. ",
-  "name": "Princess",
+  "description": "+1 Aanschaf\nAls deze kaart in het spel is, kosten kaarten 2 Coins minder, maar nooit minder dan 0 Coins.\n(Deze kaart is geen onderdeel van de voorraad.)",
+  "extra": " Zolang deze kaart i het spel is, zorgt deze ervoor dat alle kaarten goedkoper worden (tot een minimum van 0 Coins). Zodra de Prinses niet meer in het spel is, stopt dit effect onmiddekijk. De korting geldt voor alle kaarten, zowel die in de voorraad als in de hand en in het deckt. Voorbeeld : je speelt de Prinses en daarna de Nieuwe Versie. Je vernietigt een Kopder. Je zou nu een Zilver kunnen pakken, omdat die nu 1 Coin kost en Koper nog steeds 0 Coins. De Troonzaal (uit Dominion basisspel) verdubbelt het effect van de Prinses niet, omdat er nog altijd maar 1 Prinses in het spel is. Dit is een Prijs: zie aanvullende spelregels.",
+  "name": "Prinses",
   "potcost": 0,
   "types": [
    "Action",
@@ -1760,11 +1760,11 @@
   ]
  },
  {
-  "cardset": "cornucopia",
+  "cardset": "overvloed",
   "cost": "0*",
-  "description": "Choose two: +2 Cards; or +2 Actions; or +2 Coins; or gain 4 Silvers and put your deck into your discard pile.\n(This is not in the Supply.)",
-  "extra": " First choose any two of the four options; then do those options in the order listed. So if you choose both +2 Cards, and the last option, you will draw cards before you gain the Silvers and put your deck into your discard pile. The last option both gains you Silvers and puts your deck into your discard pile. The Silvers come from the Supply; if there are fewer than four left, just gain as many as you can. You do not get to look through your deck as you put it into your discard pile. This is a Prize; see the Additional Rules. ",
-  "name": "Trusty Steed",
+  "description": "Kies twee verschillende van de volgende: +2 Kaarten; +2 Acties; +2 Coins; pak 4 Zilver en leg je trekstpel op je aflegstapel.\n(Deze kaart is geen onderdeel van de voorraad.)",
+  "extra": " Kies eerst twee van de vier opties. Voer deze daarna in de aangegeven volgorde uit. Dus, als je bijvoorbeeld kiest voor +2 Kaarten en de laatste optie, trek je eerst 2 kaarten en pak je daarna pas de zilverkaarten en leg je je trekstapel op de aflegstapel. Pak het Zilver uit de voorraad. ZIjn er niet voldoende, pak er dan zoveel als je kunt. Je mag je trekstapel niet doorkijken, voordat je deze op je aflegstapel legt. Dit is een Prijs: zie aanvullende spelregels.",
+  "name": "Trouwe Ros",
   "potcost": 0,
   "types": [
    "Action",
@@ -1772,22 +1772,22 @@
   ]
  },
  {
-  "cardset": "cornucopia",
+  "cardset": "overvloed",
   "cost": "2",
-  "description": "+1 Card\n+1 Action\nYou may discard a card; If you do +1 Action.\nYou may discard a card; If you do +1 Buy",
-  "extra": " First draw a card, and get +1 Action. Then you may either discard one card to get another +1 Action; or you may discard one card to get +1 Buy; or you may discard two cards and get both +1 Action and +1 Buy; or you may discard no cards at all. You only get the extra +1 Action or +1 Buy if you actually discarded a card for it. You cannot discard multiple cards to get multiple +Actions or multiple +Buys. ",
-  "name": "Hamlet",
+  "description": "+1 Kaart\n+1 Actie\nJe mag een kaart afleggen. Als je dat doet, +1 Actie.\nJe mag een kaart afleggen. Als je dat doet, +1 Buy",
+  "extra": " Trek eerst een kaart en je krijgt +1 Actie. Daarna mag je of 1 kaart afleggen om nog eens +1 Actie te ontvangen, of je mag 1 kaart afleggen om +1 Aanschaf te ontvangen, of je mag 2 kaarten afleggen om zowel +1 Actie als +1 Aanschaf te ontvangen, of je mag ervoor kiezen om geen kaarten af te leggen. Je onvtangt de extra +1 Actie of +1 Aanschaf uitsluitend als je er daadwerkelijk een kaart voor hebt afgelegd. Het is niet toegestaan om meer kaarten af te leggen om meer acties of aanschaffen te verkrijgen.",
+  "name": "Gehucht",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "cornucopia",
+  "cardset": "overvloed",
   "cost": "3",
-  "description": "+2 Coin\nEach other player reveals cards from the top of his deck until he reveals a Victory of Curse card. He puts it on top and discards the other revealed cards.",
-  "extra": " Each other player reveals cards from the top of his deck until he reveals a Victory or Curse card. If he runs out of cards before finding one, he shuffles his discard pile (but not the revealed cards), and keeps revealing cards. If he still cannot find one, he just discards all of the revealed cards. If he does find one, he puts the Victory or Curse card on top of his deck, and discards the other revealed cards. If his deck has no other cards in it, it becomes the only card in his deck. A card with multiple types, one of which is Victory (such as Nobles from Dominion: Intrigue), is a Victory card. You do not choose Victory or Curse - they stop on the first card that matches either type. ",
-  "name": "Fortune Teller",
+  "description": "+2 Coin\nIedere andere speler toont kaarten van zijn trekstapele totdat hij een overwinningskaart of een vloekkaart toont. Hij legt deze terug op zijn trekstapel en de andere getonde kaarten af.",
+  "extra": " Iedere andere speler toont kaarten van zijn trekstapel totdat hij een overwinningskaart of een vloekkaart toont. Raakt je trekstapel voor de tijd op, schud dan je aflegstapel (zonder de tot dan toe getoonde kaarten) en ga door met kaarten tonen. Vind je een overwinnings- of een vloekkaart, leg deze dan op je trekstapel en leg de overige getoonde kaarten af. Bevat je trekstapel geen kaarten, dan wordt deze kaart de enige kaart van je trekstapel. Kaarten van meer soorten, waaronder Overwinning (zoals bijvoorbeeld Adel uit Dominion Intrige), gelden als overwinningskaarten en worden door de Waarzegster betroffen. Je mag niet voor één van beide soorten kiezen. Je moet stoppen met kaarten tonen als je een van beide soorten vindt.",
+  "name": "Waarzegster",
   "potcost": 0,
   "types": [
    "Action",
@@ -1795,10 +1795,10 @@
   ]
  },
  {
-  "cardset": "cornucopia",
+  "cardset": "overvloed",
   "cost": "3",
-  "description": "+1 Action\nReveal your hand.\nIf there are no duplicate cards in it, +3 Cards.\nOtherwise, +1 Card.",
-  "extra": " If there are any two or more cards in your hand with the same name, you only draw one card; if there are no matches, you draw three cards. Only the card names matter for this; Copper and Silver are different cards for example, despite both being Treasures. If you have no cards in hand at all after playing Menagerie, then you have no matching cards, and so get +3 Cards. ",
+  "description": "+1 Actie\nToon je hand.\nBevat deze geen kaarten met dezelfde titel; +3 Kaarten.\nAnders; +1 Kaart.",
+  "extra": " Heb je 2 of meer kaarten met dezelfde  titel in je hand, dan trek je 1 kaart. Heb je kaarten met allemaal verschillende titels in je hand, dan trek je 3 kaarten. Uitsluitend titels gelden als verschillend. Koper en Zilver zijn bijvoorbeeld verschillende, ondanks dat ze beide geldkaarten zijn. Hbe je geen kaarten in je hand na het spelen van Menagerie, dan heb je geen gelijke kaarten en mag je dus 3 kaarten trekken.",
   "name": "Menagerie",
   "potcost": 0,
   "types": [
@@ -1806,22 +1806,22 @@
   ]
  },
  {
-  "cardset": "cornucopia",
+  "cardset": "overvloed",
   "cost": "4",
-  "description": "+2 Actions\nReveal cards from the top of your deck until you reveal an Action or Treasure card. Put that card into your hand and discard the other cards.",
-  "extra": " Reveal cards from the top of your deck until you reveal a Treasure or Action card. If you run out of cards before finding one, shuffle your discard pile (but not the revealed cards), and keep revealing cards. If you still cannot find one, just discard all of the revealed cards. If you do find a Treasure or Action card, put it into your hand, and discard the rest of the revealed cards. A card with multiple types, one of which is Treasure or Action (for example Diadem, a Treasure - Prize), is a Treasure or Action and so will be drawn by this. You do not choose Treasure or Action – you stop on the first card matching either type. ",
-  "name": "Farming Village",
+  "description": "+2 Acties\nToon kaarten van je trekstapel totdat je een actiekaart of een geldkaart toont. Neem deze kaart in je hand en leg de andere getoonde kaarten af.",
+  "extra": " Toon kaarten van je trekstapel totdat je een geldkaart of een actiekaart toont. Raakt je trekstapel voor die tijd op, schud dan je aflegstapel (zonder de tot dan toe getoonde kaarten) en ga door met kaarten tonen. Vind je er dan nog steeds geen, leg dan uitsluitend de getoonde kaarten af. Vind je een geld- of actiekaart, neem deze dan in je hand en leg de overige getoonde kaarten af. Kaarten van meer soorten, waaronder Geld of Actie (zoals bijvoorbeeld de Tiara), gelden als geld- of actiekaarten en worden door het boerendorp betroffen. Je mag niet voor één van beide soorten kiezen. Je moet stoppen met kaarten tonen als je een van beide soorten vindt.",
+  "name": "Boerendorp",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "cornucopia",
+  "cardset": "overvloed",
   "cost": "4",
-  "description": "+1 Buy\n+3 Coin\nDiscard 2 Cards\nWhen another player plays an Attack card, you may set this aside from your hand. If you do, then at the start of your next turn, +1 Card and return this to your hand.",
-  "extra": " When you play this, you get +1 Buy and +3 coins, and discard 2 cards from your hand. If you do not have enough cards to discard, just discard what you can; you still get the +1 Buy and +3 coins. When another player plays an Attack card, before that card does anything, you may reveal this from your hand. If you do, you set it aside, and at the start of your next turn, you return it to your hand and draw a card. While it is set aside, it is not in play or in your hand, and cannot be further revealed to Attacks. Therefore it will only work on one Attack per round of turns. You can reveal it for an Attack and still play it on your next turn. You can reveal multiple Horse Traders to a single Attack. For example, if another player plays Followers, you could reveal and set aside two Horse Traders from your hand, then gain a Curse but discard no cards, as you would only have three cards in hand at that point. Then on your next turn you would pick up the two Horse Traders and also draw two cards. ",
-  "name": "Horse Traders",
+  "description": "+1 Aanschaf\n+3 Coin\nLeg 2 kaarten af.\n______________________\nAls een andere speler een aanvalskaart speelt, mag je deze kaart uit je hand opzij leggen. Als je dat doet, aan het begin van je volgende beurt: +1 Kaart en neem deze kaart terug in je hand.",
+  "extra": " Bij het spelen van deze kaart krijg je +1 Aanschaf en +3 Coins, en je moet 2 kaarten uit je hand afleggen. Heb je niet voldoende handkaarten, dan leg je af wat je kunt: dit heeft geen invloed op het ontvangen van +1 Aanschaf en +3 Coins. Speelt een andere speler een aanvalskaart, dan mag je deze kaart tonen voordat de andere speler iets met zijn aanvalskaart gedaan heeft. Doe je dit, leg dan de getoonde Paardenhandelaars opzij. Aan het begin van je volgende beurt neem je de kaart weer in je hand en trek je 1 kaart. Zolang de kaart opzijgelegd is, is deze niet in het spel en kan niet getoond worden bij volgende aanvalskaarten. Daardoor kan deze kaart maar 1 keer per ronde tegen een aanval verdedigen. Het is toegestaan om de kaart in een ronde te tonen en in de volgende tonde te spelen. Het is ook toegstaan om meer Paardenhandelaars te tonen tegen 1 aanval. Voorbeeld: een andere speler speelt Volgelingen. Je kunt nu 2 Paardenhandelaars tonen en opzijleggen. Je krijgt weliswaar een vloekkaart, maar je hoeft geen kaarten af te leggen, omdat je er nog maar 3 in je hand over hebt. In je volgende beurt mag je beide Paardenhandelaars weer in je hand nemen en 2 kaarten trekken.",
+  "name": "Paardenhandelaars",
   "potcost": 0,
   "types": [
    "Action",
@@ -1829,33 +1829,33 @@
   ]
  },
  {
-  "cardset": "cornucopia",
+  "cardset": "overvloed",
   "cost": "4",
-  "description": "Do this twice: Trash a card from your hand then gain a card costing exactly 1 more than the trashed card.",
-  "extra": " Trash a card from your hand, and gain a card costing exactly 1 coin more than it; then trash another card from your hand, and gain a card costing exactly 1 coin more than that card. If you have no cards in hand, you do not trash anything or gain anything; if you have only one card in hand, trash it and gain a card costing 1 coin more than it. Gained cards come from the Supply and are put into your discard pile. If there is no card at the exact cost needed, you do not gain a card for that trashed card. For example you could use Remake to trash an Estate, gaining a Silver, then trash a Copper, gaining nothing. ",
-  "name": "Remake",
+  "description": "Doe dit tweemaal: vernietig een kaart uit je hand en pak een kaart die 1 Coin meer waard is dan de vernietigde kaart.",
+  "extra": " Vernietig een kaart uit je hand en pak een kaart die precies 1 Coin meer waard is dan de vernietigde kaart. Vernietig daarna nog een kaart uit je hand en pak een kaart die 1 Coin meer waard is dan deze vernietigde kaart. Heb je geen kaarten in je hand, dan vernietig je deze en pak je een kaart die 1 Coin meer waard is. Gepakte kaarten komen uit de voorraad en worden op de aflegstapel gelegd. Is er geen kaart van de betreffende waarde in de voorraad, dan moet je weliswaar een kaart vernietigen, maar je pakt niets. Voorbeeld: je kunt de Nieuwe Versie gebruiken om een Landgoed te vernietigen en een Zilver te pakken en daarna een Koper vernietigen en niets te pakken.",
+  "name": "Nieuwe Versie",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "cornucopia",
+  "cardset": "overvloed",
   "cost": "4",
-  "description": "+1 Action\nEach player may reveal a Province from his hand. If you do, discard it and gain a Prize (from the Prize pile) or a Duchy, putting it on top of your deck. If no-one else does, +1 Card +1 Coin.\nPrizes: Bag of Gold, Diadem, Followers, Princess, Trusty Steed",
-  "extra": " First you get +1 Action. Then each player, including you, may reveal a Province card from his hand. Then, if you revealed a Province, discard that card, and you gain a Prize of your choice, or a Duchy, putting whatever card you took on top of your deck. If there were no cards in your deck, it becomes the only card in your deck. There are five Prizes, set out at the start of the game; see Preparation. You can only take a Prize from the Prize pile. You can take any Prize from the Prize pile; you do not have to take the top one. You can take a Duchy instead, whether or not the Prizes have run out. You can opt to take a Duchy even if the Duchy pile is empty, or a Prize even if no Prizes are left; in these cases you gain nothing. After gaining your card or not, if no other player revealed a Province, you draw a card and get +1 coin. ",
-  "name": "Tournament",
+  "description": "+1 Actie\nIedere speler mag een Provincie uit zijn hand tonen.\nDoe jij dit, leg de Provincie dan af en pak een Prijs (van de Prijsstapel) of een Hertogdom, die je op je trekstapel legt. Toont niemand anders een Provincie, +1 Kaart, +1 Coin.",
+  "extra": " Eerst krijg je +1 Actie. Daarna mag iedere speler, inclusief jijzelf, een Provincie uit zijn hand tonen. Toon jij zelf een Provincie, leg deze dan af en pak een Prijs naar keuze of een Hertogdom. Leg de gekozen kaart op je trekstapel. Heb je geen kaarten in je trekstapel, dan wordt de gekozen kaart de enige kaart van je trekstapel. Er zijn 5 Prijzen in het spel. Je mag uitsluitend Prijzen uit de voorraad pakken. Je mag zelf kiezen welke Prijs je pakt, dat hoeft dus niet de bovenste van de stapel te zijn. Ook als de Prijzen niet op zijn, mag je ervoor kiezen om een Hertogdom te pakken. Je kunt er ook voor kiezen om een Hertogdom te pakken als deze niet meer beschikbaar zijn. In dat geval pak je niets. Toon geen van de andere spelers een Provincie, dan trek je 1 kaart en je krijgt +1 Coin (ongeacht of je al dan niet een kaart gepakt). Als je een Prijs pakt, mag je vrij uit de Prijsstapel kiezen. Iedere speler mag op elk moment de Prijsstapel doorkijken.",
+  "name": "Toernooi",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "cornucopia",
+  "cardset": "overlvoed",
   "cost": "4",
-  "description": "+2 Cards\nDiscard 2 cards. Each other player may reveal a Bane card from his hand.\nIf he doesn’t, he gains a Curse.\nSetup: Add an extra Kingdom card pile costing 2 or 3 to the Supply. Cards from that pile are Bane cards.",
-  "extra": " This card causes there to be an extra pile in the Supply, called the Bane pile; see Preparation. The extra pile is just like other Kingdom card piles - it can be bought, it can be gained via cards like Horn of Plenty, it counts for the end game condition. When you play Young Witch, after you draw 2 cards and discard 2 cards, each other player may reveal a Bane card from his hand; if he does not, he gains a Curse. This attack hits other players in turn order, which matters when the Curse pile is low. Players may still respond to a Young Witch with Reaction cards like Horse Traders or Moat (from Dominion); those happen before Bane cards are revealed. If Secret Chamber (from Dominion: Intrigue) is the Bane card, first you can reveal it for its Reaction ability, and then, if it's still in your hand, you can reveal it to avoid getting a Curse. ",
-  "name": "Young Witch",
+  "description": "+2 Kaarten\nleg 2 kaarten af. Iedere andere speler moet een Bankaart uit zijn hand tonen. Doet hij dit niet, dan pakt hij een vloekkaart.\n______________________\nVoorbereiding: voeg een extra koninkrijkkaart met een waarde van 2 Coins of 3 Coins aan de voorraad toe. Kaarten van deze stapel zijn bankaarten.",
+  "extra": " Deze kaart zorgt voor een extra stapel in de voorraad. Deze noemen we de banstapel (zie voorbereiding). Voor deze stapel gelden alle spelregels die ook voor andere stapels koninkrijkkaarten gelden: de kaarten kunnen worden gekocht, worden gepakt als gevolg van kaarten zoals Hoorn des Overvloeds, en een lege banstapel telt mee bij het bepalen van het einde van het spel. Bij het spelen van de Jonge Heks trek je eerst 2 kaarten en daarna leg je er 2 af. Vervolgens mag iedere speler een bankaart uit zijn hand tonen. Doet hij dat niet, dan pakt hij een Vloek. Deze aanvalskaart treft de andere spelers in beurtvolgorde. Dit is van toepassing als de stapel Vloeken bijna leeg is. De spelers mogen op de Jonge Heks reageren met reactiekaarten zoal Paardenhandelaars of Slotgracht (uit Dominion basisspel). Deze vinden plaats vóór het tonen van bankaarten. Als de Geheime Kamer (uit Dominion Intrige) de bankaart is, mag je deze eerst tonen om zijn reactie-eigenschap te gebruiken. Heb je hem daarna nog in je hand, dan kun je hem nogmaals tonen om te voorkomen dat je een Vloek moet pakken.",
+  "name": "Jonge Heks",
   "potcost": 0,
   "types": [
    "Action",
@@ -1863,44 +1863,44 @@
   ]
  },
  {
-  "cardset": "cornucopia",
+  "cardset": "overvloed",
   "cost": "5",
-  "description": "Reveal the top 4 cards of your deck, then discard them. +1 Coin per differently named card revealed.",
-  "extra": " Reveal the top 4 cards of your deck. If there are not enough cards, reveal what you can, shuffle your discard pile, and reveal the rest. If there still are not 4 cards total to reveal, just reveal what you can. You discard the revealed cards, and get +1 coin per differently named card revealed. For example if you revealed Copper, Silver, Copper, Estate, that would be +3 coins . ",
-  "name": "Harvest",
+  "description": "Toon de bovenste 4 kaarten van je trekstapel en leg ze daarna af. +1 Coin voor elke getoonde kaart met een verschillende titel.",
+  "extra": " Toon de bovenste 4 kaarten van je trekstapel. Bevat je trekstapel niet voldoende kaarten, toon dan wat je kunt, schud je aflegstapel en toon daarna de resterende kaarten. Zijn er nog altijd niet voldoende kaarten, toon dan uitsluitend wat je kunt. Leg vervolgens de getoonde kaarten af en ontvang +1 Coin voor elke getoonde kaart met een verschillende titel. Voorbeeld: je toont Koper, Zilver, Koper, Landgoed. Je ontvangt dus +3 Coins.",
+  "name": "oogst",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "cornucopia",
+  "cardset": "overlvoed",
   "cost": "5",
-  "description": "Worth 0 Coins\nWhen you play this, gain a card costing up to 1 Coin per differently named card you have in play, counting this. If it’s a Victory card, trash this.",
-  "extra": " This is a Treasure worth 0 coins. You play it in your Buy phase, like other Treasures. It does not produce any coins to spend. However, when you play it, you gain a card costing up to per differently named card you have in play. This includes itself, other played Treasures, played Actions, and any Duration cards (from Dominion: Seaside) played on your previous turn. It only counts cards currently in play, not ones that were in play but left; for example if you played a Feast (from Dominion) this turn, you will have trashed it, so it will not count for Horn of Plenty. The card you gain must come from the Supply, and is put into your discard pile. If it is a Victory card, trash Horn of Plenty. Cards with multiple types, one of which is Victory (such as Nobles from Dominion: Intrigue) are Victory cards. You do not have to play Horn of Plenty in your Buy phase, and you choose the order that you play Treasures. You do not trash Horn of Plenty if you gain a Victory card some other way while it's in play (such as by buying one). ",
-  "name": "Horn of Plenty",
+  "description": "0 Coins\nAls je deze kaart speelt, pak dan een kaart die maximaal zoveel waard is als het aantal kaarten met een verschillende titel die je in het spel hebt, inclusief deze Hoorn de Overvloeds. Pak je een overwinningskaart, vernietig dan deze Hoorn des Overvloeds.",
+  "extra": " Dit is een geldkaart met een waarde van 0 Coins munten. De kaart heeft zelf geen geldwaarde, maar je mag een kaart pakken met een waarde van maximaal zoveel munten als het aantal kaarten met een verschillende titel die je in het spel hebt. daarbij telt de Hoorn des Overvloeds zelf ook mee, evenals gespeelde geldkaarten, actiekaarten en in de vorgie beurt gespeelde duurzame kaarten (uit dominon: Hijs de Zeilen!). Uitsluitend kaarten die nu in het spel zijn tellen mee. Voorbeeld: je hebt een Feest gespeeld en deze vernietigd om een andere kaart te pakken. Het Feest telt nu niet mee voor de Hoorn des Overvloeds. De kaart die je pakt, komt uit de voorraad en leg je op je aflegstapel. Pak je een overwinningskaart, vernietig dan de Hoorn des Overvloeds. Kaarten van meer soorten, waaronder Overwinning (zoals bijvoorbeeld Adel uit Dominion Intrige), gelden als overwinningskaarten. Je bent niet verplicht om de Hoorn des Overvloeds in je aanschaffase te spelen. Verder bepaal je zelf in welke volgorde je jouw geldkaarten speelt. Koop of pak je een overwinningskaart op een andere manier, dan vernietig je de Hoorn des Overvloeds niet.",
+  "name": "Hoorn des Overvloeds",
   "potcost": 0,
   "types": [
    "Treasure"
   ]
  },
  {
-  "cardset": "cornucopia",
+  "cardset": "overvloed",
   "cost": "5",
-  "description": "+1 Card\n+1 Action\nReveal your hand. Reveal cards from your deck until you reveal a card that isn’t in a duplicate of one in your hand and discard the rest.",
-  "extra": " First you draw a card and get +1 Action. Then you reveal your hand, and reveal cards from your deck until revealing one that is not a duplicate of one in your hand. A card is not a duplicate of one in your hand if it does not have the same name as any cards in your hand. If you run out of cards while revealing cards, shuffle your discard pile (but not the revealed cards) and keep revealing cards. If you still do not find one, just discard all of the cards revealed from your deck. If you do find a card not matching any cards in your hand, put it into your hand and discard the other cards revealed from your deck. ",
-  "name": "Hunting Party",
+  "description": "+1 Kaart\n+1 Actie\nToon je hand. Toon kaarten van je trekstapel totdat je een kaart toont die niet dezelfde titel heeft als een van je handkaarten. Neem deze in je hand en leg de andere getoonde kaarten af.",
+  "extra": " Je trekt eerst 1 kaart en je ontvangt +1 Actie. Daarna toon je je hand en toont kaarten van je trekstapel totdat je er een toont met een titel waarvan je geen exemplaar in je hand hebt. Raakt je trekstapel voor die tijd op, schud dan je aflegstapel (zonder de tot dan toe getoonde kaarten) en ga door met kaarten tonen. Vind je een kaart met een andere titel dan die van je kaarten in je hand, dan neem je deze in je hand en leg je de overige getoonde kaarten af.",
+  "name": "Jachtgezelschap",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "cornucopia",
+  "cardset": "overvloed",
   "cost": "5",
-  "description": "+2 Coins\nEach other player discards the top card of his deck. If it’s a Victory card he gains a Curse. Otherwise he gains a copy of the discarded card or you do, your choice.",
-  "extra": " Each player with no cards in his deck shuffles his discard pile in order to get a card to discard. If he still has no cards, he does not discard one. For each player who discarded a card, if it is a Victory card, he gains a Curse, and otherwise, you choose: either that player gains a copy of the card, or you do. The gained copies and Curses come from the Supply and are put into the discard piles of the players who gain them. If a card is revealed for which there are no copies in the Supply, no one gains a copy of it. This Attack hits other players in turn order, which can matter when some piles are low. A card with multiple types, one of which is Victory (such as Nobles from Dominion: Intrigue) is a Victory card. ",
-  "name": "Jester",
+  "description": "+2 Coins\nIedere andere speler legt de bovenste kaart van zijn trekstapel af. Is dit een overwinningskaart, dan pakt hij een vloekkaart. Anders mag jij kiezen of hij een exemplaar van de afgelegde kaart pakt of dat jij dat doet..",
+  "extra": " Iedere speler zonder kaarten in zijn trekstapel schudt zijn aflegstapel om een kaart te kunnen afleggen. Is ook zijn aflegstapel leeg, dan legt hij geen kaart af. Voor iedere speler die een kaart heeft afgelegd, geldt: is de afgelegde kaart een overwinningskaart, dan pakt hij een Vloek. Is de afgelegde kaart van een andere soort, dan kies jij of deze speler nog een exemplaar van de getoonde kaart pakt of dat jij dat doet. Gepakte vloekkaarten en nieuwe exemplaren komen uit de voorraad en worden op de aflegstapel gelegd van de speler die de kaart pakt. Is er geen exemplaar in de voorraad van een getoonde kaart, dan pakt niemand er een. Deze aanvalskaart treft de andere spelers in beurtvolgorde. Dit kan van toepassing zijn als bepaalde stapels bijna leeg zijn. Kaarten van meer soorten, waaronder Overwinning (zoals bijvoorbeeld Adel uit Dominion Intrige), gelden als overwinningskaarten.",
+  "name": "Nar",
   "potcost": 0,
   "types": [
    "Action",
@@ -1908,21 +1908,21 @@
   ]
  },
  {
-  "cardset": "cornucopia",
+  "cardset": "overvloed",
   "cost": "6",
-  "description": "Worth 2 <VP> for every 5 differently named cards in your deck (rounded down)",
-  "extra": " At the end of the game, this is worth 2 VP per 5 differently named cards in your deck, rounded down. So if you have 0-4 different cards, it is worth 0 VP; if you have 5-9, it is worth 2 VP; if you have 10-14, it is worth 4 VP; if you have 15-19, it is worth 6; and so on. By default there are only 17 differently named cards available in a game, but sometimes there may be more cards, such as via Young Witch's setup rule, or due to Tournament. Use 8 Fairgrounds in a game with 2 players, and 12 for a game with 3 or more players. ",
-  "name": "Fairgrounds",
+  "description": "Is 2 <VP> waard voor elke 5 kaarten met een verschillende titel in je deack (naar beneden afgerond).",
+  "extra": " Deze kaart is aan het einde van het spel 2 <VP> waard oer 5 kaarten met een verschillende titel in je deck (rond naar beneden af). Heb je dus 0-4 verschillende kaarten in je deck, dan is het Kermisterrein 0<VP> waard. Bij 5-9 verschillende kaarten 2<VP>, bij 10-14 verschillende kaarten 4<VP>, enzovoort. Normaal gesproken zijn er altijd 17 verschillende kaarten in het spel, maar dat kan meer worden door bijvoorbeeld de Jonge Heks of het Toernooi. Gebruik 8 Kermisterreinen in een spel met 2 spelers en 12 kermisterreinen in een spel met 3 of meer spelers.",
+  "name": "Kermisterrein",
   "potcost": 0,
   "types": [
    "Victory"
   ]
  },
  {
-  "cardset": "cornucopia extras",
+  "cardset": "overvloed aanvullende spelregels",
   "cost": "0*",
-  "description": "Prizes are never in the supply. They can only be obtained via Tournament.\nBag of Gold: +1 Action; Gain a Gold, putting it on top of your deck.\nDiadem: +2 Coins; When you play this, +1 Coins per unused Action you have.\nFollowers: +2 Cards; Gain an Estate. Each other player gains a Curse and discards down to 3 cards in hand.\nPrincess: +1 Buy; While this is in play, cards cost 2 Coins less, but not less than 0 Coins.\nTrusty Steed: Choose two: +2 Cards; or +2 Actions; or +2 Coins; or gain 4 Silvers and put your deck into your discard pile.",
-  "extra": " Prizes are never in the supply. They can only be obtained via Tournament. When Tournament is one of the Kingdom cards, set out the pile of five Prizes at the start of the game. ",
+  "description": "Er zijn 5 Prijzen:\nZak met Goud,\nTiara,\nVolgelingen,\nPrinses en\nTrouwe ors.",
+  "extra": "Deze kaarten zijn nooit onderdeel van de voorraad. Dit is de enige regel voor Prijzen, maar dit heeft verschillende gevolgen. Is de stapel Prijzen leeg, dan telt deze niet mee bij het bepalen van het einde van het spel. Prijzen kunnen niet worden gekocht of worden gepakt als gevolg van bepaalde kaarten (zoals bijvoorbeeld Hoorn des Overvloeds). Ze kunnen uitsluitend via de kaart Toornooi worden gepakt of als gevolg van kaarten die geen betrekking op de voorraad hebben (zoals bijvoorbeeld de Dief uit het basisspel). De Boodschapper (uit Dominon Hijs de Zeilen!) kan geen Prijzen naar de Prijsstapel terugsturen. Vernietigde Prijzen komen zoals gebruikelijk op de stapel Vernietigde Kaarten. Prijzen kunnen niet worden gekocht, maar hebben een waarde van 0 Coins, die van belang is voor kaarten zoals bijvoorbeeld Nieuwe Versie.",
   "name": "Prizes",
   "potcost": 0,
   "count": 0,
