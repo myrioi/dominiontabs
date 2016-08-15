@@ -1931,33 +1931,33 @@
   ]
  },
  {
-  "cardset": "hinterlands",
+  "cardset": "het achterland",
   "cost": "2",
-  "description": "Reveal your hand.\n+1 Card per Victory card revealed. If this is the first time you played a Crossroads this turn, +3 Actions.",
-  "extra": " First reveal your hand, and draw a card for each Victory card you revealed, if any. The revealed cards all stay in your hand. Cards with two types, one of which is Victory, are Victory cards. Then, if this is the first time you played a Crossroads this turn, you get +3 Actions. Subsequent Crossroads this turn will give you cards but not Actions. Using a card that lets you play a card several times (like Throne Room from Dominion) on Crossroads, you will play Crossroads multiple times, getting +3 Actions the first time but not the others. ",
-  "name": "Crossroads",
+  "description": "Toon je hand.\n+1 Kaart per getoonde overwinningskaart. Als dit de eerste keer is dat je in deze beurt Splitsing speelt, +3 Acties.",
+  "extra": " Toon Eerst je hand en trek daarna 1 kart voor elke overwinningskaart die je toonde (als je die hebt). Je houdt de getoonde kaarten in je hand. Kaarten van 2 soorten, waaronder Overwinning, velden als ovewinningskaarten. Is dit de eerste splitsing die je in deze beurt speelt, dan krijg je 3 extra acties. Elk volgende Splitsing die je deze beurt speelt, leveren je mogelijk kaarten, maar geen acties. Speel je een kaart die je toestaat om een andere kaart meermaals te spelen (zoals de Troonzaal uit het basisspel) op de Splitsing, dan krijg je voor de eerste keer 3 acties, maar voor de volgende niet.",
+  "name": "Splitsing",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "hinterlands",
+  "cardset": "het achterland",
   "cost": "2",
-  "description": "+2 Coins\nEach player (including you) looks at the top card of his deck, and discards it or puts it back.\n______________________\nIn games using this, when you gain a Duchy, you may gain a Duchess.",
-  "extra": " When you play this, you get +2 coins, and each player, including you, looks at the top card of his own deck and either discards it or puts it back on top, his choice. Any player with no cards in his deck shuffles his discard pile first; any player who still has no cards to look at does not look at one. When a player gains a Duchy in a game with Duchess in the Supply, that player may also gain a Duchess from the Supply. This works whether the player gained a Duchy due to buying one, or gained a Duchy some other way. Duchess does not interact in any special way with the promotional card Black Market. ",
-  "name": "Duchess",
+  "description": "+2 Coins\nIedere speler (ook jij) bekijkt de bovenste kaart van zijn trekstapele en legt deze af of legt deze terug op zijn strekstapel.\n______________________\nAls je een Hertogdom pakt, mag je een Hertogin pakken.",
+  "extra": " Bij het spelen van deze kaart krijg je +2 Coins en iedere speler (met inbegrip van jezelf) bekijkt de bovenste kaart van zijn eigen trekstapel en legt deze naar eigen keuze af of terug op zijn trekstapel. Een speler zonder trekstapel schudt zijn aflegstapel. Heeft een speler ook geen kaarten in zijn aflegstapel, dan bekijkt hij geen kaart, Pakt een speler in een spel met de Hertogin een Hertogdom, dan mag hij direct een Hertogin pakken. Dit geldt zowel bij het kopen als het op een andere manier pakken van een Hertogdom. ",
+  "name": "Hertogin",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "hinterlands",
+  "cardset": "het achterland",
   "cost": "2",
-  "description": "If this is the first time you played a Fool's Gold this turn, this is worth 1 coin, otherwise it's worth 4 coins.\n______________________\nWhen another player gains a Province, you may trash this from your hand. If you do, gain a Gold, putting it on your deck.",
-  "extra": " This is both a Treasure and a Reaction. It can be played in your Buy phase like other Treasures. When you play it, it is worth 1 coin if this is the first time you played a Fool's Gold this turn, and otherwise it is worth 4 coins. So if your lay three Fool's Golds in the same turn, the first is worth 1 coin, the second is worth 4 coins, and the third is worth 4 coins. Fool's Gold is also a Reaction. When another player gains a Province, you may trash Fool's Gold from your hand; if you do, you gain a Gold from the Supply, putting it on top of your deck rather than into your discard pile. If there are no cards in your deck, the Gold becomes the only card in your deck. If there are no Gold cards left in the Supply, you do not gain one, but can still trash Fool's Gold. This Reaction is only usable when another player gains a Province, not you. It is usable whether a Province was gained due to being bought, or gained some other way. ",
-  "name": "Fool's Gold",
+  "description": "Als dit de eerste keer in deze beurt is dat je Klatergoud speelt, is deze 1 coin munt waard, anders 4 Coins munten.\n______________________\nAls een andere speler een Provincie pakt, mag je deze kaart uit je hand vernietigen. Doe je dat, pak dan een Goud en leg deze op je trekstapel.",
+  "extra": " Deze kaart is zowel een geld- als een reactiekaart. Je kunt de kaart tijdens de aanschaffase spelen, net als andere geldkaarten, Is dit het eerste Klartergoud dat je deze beurt speelt, dan is de kaart 1 Coin munt waard, anders 4 Coins munten. Voorbeeld: een speler speelt in zijn beurt 3 kaarten Klatergoud. De eerste is 1 Coin munt waard, de tweede 4 Coins en de derde ook 4 Coins. Klatergoud is ook een reactiekaart. Pak een andere speler een Provincie, dan mag jij Klatergoud uit je hand vernietigen. Doe je dat, dan pak je een Goud uit de voorraad en leg deze op je trekstapel (in plaats van op je legstapel). Heb je geen kaarten in je trekstapel, dan wordt dit Goud de enige kaart in je trekstapel. Is er geen Goud meer in de voorraad, dan kun je nog wel Klatergoud vernietigen, maar geen Goud pakken. Deze Reactiekaart kun je uitsluitend gebruiken als een andere speler een Provincie pakt, niet als jij dat doet. Je kunt de Reactiekaart gebruiken in alle gevallen waarin een andere speler een Provincie pakt (nadat hij er een koopt of er een op een andere manier pakt). ",
+  "name": "Klatergoud",
   "potcost": 0,
   "types": [
    "Treasure",
@@ -1965,11 +1965,11 @@
   ]
  },
  {
-  "cardset": "hinterlands",
+  "cardset": "het achterland",
   "cost": "3",
-  "description": "Trash a card from your hand. Gain a card costing exactly 1 coin more than it and a card costing exactly 1 less than it, in either order, putting them on top of your deck.",
-  "extra": " First trash a card from your hand, if you have any cards in hand. Develop itself is no longer in your hand and so cannot trash itself (though it can trash other copies of Develop). If you trashed a card, gain two cards, one costing exactly 1 coin more than the trashed card, and one costing exactly 1 coin less than the trashed card. The gained cards come from the Supply; gain them in either order. If there is no card in the Supply at one of the costs, you still gain the other card if you can. Put the gained cards on top of your deck rather than into your discard pile. If you trash a Copper with Develop, which costs 0 coins, you will try and fail to gain a card costing -1 coins (and also try to gain a card costing 1 coin). ",
-  "name": "Develop",
+  "description": "Vernietig een kaart uit je hand. Pak 1 kaart die 1 Coin meer waard is en 1 Kaart die 1 Coin minder waard is dan de vernietigde kaart. Leg beide kaarten op je trekstapel in een volgorde naar keuze.",
+  "extra": " Vernietig een kaart uit je hand (als je die hebt). De kaart Ontwikkelen bevindt zich niet meer in je hand, dus deze kan zichzelf niet vernietigen (maar wel andere exemplaren van Ontwikkelen die zich eventueel in je hand bevinden). Als je een kaart vernietigd, pak dan 2 kaarten, waarvan de een 1 Coin meer waard is en de ander 1 Coin minder waard is dan de vernietigde kaart. Pak deze kaarten uit de voorraad in een volgorde naar keuze. Is een kaart met een gevraagde waarde niet voorradig, dan pak je uitsluitend de kaart van de andere waarde. Leg de gepakte kaarten op je trekstapel (in plaats van op je trekstapel). Vernietig je met Ontwikkelen een Koper, die 0 Coin waardt is, dan kun je geen kaart pakken die -1 Coins waard is, maar wellicht wel een die 1 Coin waard is. ",
+  "name": "Ontwikkelen",
   "potcost": 0,
   "types": [
    "Action"
