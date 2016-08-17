@@ -2305,54 +2305,54 @@
   ]
  },
  {
-  "cardset": "dark ages",
+  "cardset": "de donkere middeleeuwen",
   "cost": "2",
-  "description": "+1 Coin\nChoose one: +2 Actions; or +2 Buys; or gain a Silver.\n______________________\nWhen you trash this, gain an Action card.",
-  "extra": " When you play this, you get +1 Coins, and your choice of either +2 Actions, +2 Buys, or gaining a Silver. The Silver comes from the Supply and is put into your discard pile. If Squire is trashed somehow, you gain an Attack card; the Attack card comes from the Supply and is put into your discard pile. You can gain any Attack card available in the Supply, but if no Attack card is available, you do not gain one.",
-  "name": "Squire",
+  "description": "+1 Coin\nKies één van de drie volgende: +2 Acties; of +2 Aanschaffen; of pak een Zilver.\n______________________\nAls je deze kaart vernietigt, pak dan een aanvalskaart.",
+  "extra": " Bij het spelen van deze kaart krijg je +1 Coin en je mag kiezen voor een van de volgende: +2 Acties, +2 Aanschaffen of 1 Zilver pakken. Pak het Zilver uit de voorraad en leg het op je aflegstapel. Wordt je Schildknaap op welke manier dan ook vernietigd, dan pak je een aanvalskaart uit de voorraad, die je op je aflegstapel legt. Je kunt vrij kiezen welke aanvalskaart je uit de voorraad neemt, maar bevat de voorraad geen aanvalskaarten (meer), dan pak je er geen.",
+  "name": "Schildknaap",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "dark ages",
+  "cardset": "de donkere middeleeuwen",
   "cost": "2",
-  "description": "+1 Card, +1 Action\nReveal the top card of your deck. If it's a Curse, Ruins, Shelter, or Victory card, put it into your hand.",
-  "extra": " You draw a card before revealing your top card. If the top card of your deck is a Curse, Ruins, Shelter, or Victory card, it goes into your hand; otherwise it goes back on top. A card with multiple types goes into your hand if at least one of the types is Curse, Ruins, Shelter, or Victory.",
-  "name": "Vagrant",
+  "description": "+1 Kaart, +1 Actie\nToon de bovenste kaart van je trekstapel. Is het een vloek-,ruïne-,onderdak- of overwinningskaart, neem de kaart dan in je hand.",
+  "extra": " Je trekt een kaart voordat je de bovenste kaart van je trekstapel toont. Is de bovenste kaart van je trekstapel een vloek-, ruïne-, onderdak- of overwinningskaart, neem deze dan in je hand, anders leg je de getoonde kaart weer terug op je trekstapel. Neem een kaart van meerdere soorten waaronder Vloek, Ruïne, Onderdak of Overwinning in je hand.",
+  "name": "Landloper",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "dark ages",
+  "cardset": "de donkere middeleeuwen",
   "cost": "3",
-  "description": "Look through your discard pile. You may trash a card from your discard pile or hand that is not a Treasure. Gain a card costing up to 3 Coins.\nWhen you discard this from play, if you did not buy any cards this turn, trash this and gain a Madman from the Madman pile.",
-  "extra": " When you play this, look through your discard pile, and then you may choose to trash a card that is not a Treasure, from either your hand or your discard pile. You do not have to trash a card and cannot trash Treasures. A card with multiple types, one of which is Treasure (such as Harem from Intrigue), is a Treasure. After trashing or not, you gain a card costing up to 3 Coins. The card you gain comes from the Supply and is put into your discard pile. Gaining a card is mandatory if it is possible. Then, when you discard Hermit from play - normally, in Clean-up, after playing it in your Action phase - if you did not buy any cards this turn, you trash Hermit and gain a Madman. The Madman comes from the Madman pile, which is not in the Supply, and is put into your discard pile. It does not matter whether or not you gained cards other ways, only whether or not you bought a card. If there are no Madman cards left, you do not gain one. If Hermit is not discarded from play during Clean-up - for example, if you put it on your deck with Scheme (from Hinterlands) - then the ability that trashes it will not trigger.",
-  "name": "Hermit",
+  "description": "Bekijk de kaarten van je aflegstapel. Je mag een kaart uit je hand of aflegstapel vernietigen (geen geldkaart). Pak een kaart met een waarde van ten hoogste 3 Coins.\n______________________\nAls je deze kaart, nadat je deze gespeeld hebt, in de opschoonfase aflegt zonder in je beurt ten minste 1 kaart gekocht te hebben, vernietig dan deze kaart en pak een Krankzinnige van de Krankzinnigestapel.",
+  "extra": " Bij het spelen van deze kaart bekijk je je aflegstapel. Daarna mag je 1 kaart (geen geldkaart) uit je hand of je aflegstapel vernietigen. Dit is niet verplicht. Een kaart van meerdere soorten waaronder Geld (zoals Harem uit Dominion Intrige) geldt als een geldkaart. Ongeacht het voorgaande pak je een kaart met een waarde van ten hoogste 3 Coins. Pak deze uit de voorraad en leg hem op je aflegstapel. Het pakken van de kaart is verplicht, mits mogelijk. Als je de Kluizenaar, nadat je deze gespeeld hebt, in de opschoonfase aflegt en je hebt deze beurt geen kaarten gekocht, vernietig dan de Kluizenaar en pak een Krankzinnige. Pak de Krankzinnige van de stapel Krankzinnigen, die geen onderdeel is van de voorraad, en leg deze op je aflegstapel. Het is niet van belang of je al dan niet op andere manieren kaarten hebt gepakt, het gaat alleen om het al dan niet kopen van een kaart. Zijn er geen Krankzinnigen in voorraad, dan pak je er geen. Wordt de Kluizenaar op een ander moment dan de opschoonfase afgelegd (je legt hem bijvoorbeeld op je trekstapel met een Gekonkel uit Dominion: Het Achterland), dan wordt de vernietigeigenschap niet geactiveerd.",
+  "name": "Kluizenaar",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "dark ages",
+  "cardset": "de donkere middeleeuwen",
   "cost": "3",
-  "description": "+1 Action\nReveal cards from the top of your deck until you reveal one costing 3 Coins or more. Put that card into your hand and discard the rest.",
-  "extra": " If you run out of cards while revealing cards, shuffle your discard pile (not including the revealed cards) and continue. If you run out of cards to reveal and have no cards in your discard pile, stop there; discard everything revealed, and you do not get a card. If you find a card costing 3 Coins or more, put that one into your hand and discard the rest. For example you might reveal Copper, then Copper, then Curse, then Province; Province costs 8 Coins, so you would stop there, put Province in your hand, and discard the two Coppers and the Curse.",
-  "name": "Sage",
+  "description": "+1 Actie\nToon kaarten van je trekstapel totdat je er een toont met een waarde van ten minste 3 Coins. Neem deze kaart in je hand en leg de rest af.",
+  "extra": " Is je trekstapel leeg voordat je alle kaarten hebt getoond, schud dan je aflegstapel (zonder de tot dan toe getoonde kaarten) en ga door met tonen. Zijn je trekstapel en je aflegstapel beide leeg, stop dan met tonen. Leg alle getoonde kaarten af, je krijgt geen kaart. Vind je een kaart die ten minste 3 Coins waard is, neem deze dan in je hand en leg de resterend getoonde kaarten af. Voorbeeld: je toont achtereenvolgens Koper, Koper, Vloek, Provincie. De Provincie kost 8 Coins, dus je stopt daar. Je neemt de Provincie in je hand en legt de 2 Koper en de Vloek af.",
+  "name": "Wijsgeer",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "dark ages",
+  "cardset": "de donkere middeleeuwen",
   "cost": "4",
-  "description": "Worth 1 <VP> for every 3 Silvers in your deck (round down).\n______________________\nWhen you trash this, gain 3 Silvers.",
-  "extra": " This is a Victory card. Play with 8 for games with 2 players, or 12 cards for games with 3 or more players. At the end of the game, each Feodum is worth 1 Victory for every 3 Silvers in your deck, rounded down. For example, if you have 11 Silvers, your Feodums are worth 3 Victory each. If a Feodum is trashed, you gain 3 Silvers. The Silvers come from the Supply and are put into your discard pile. If there are not enough Silvers left, gain as many as you can.",
+  "description": "Is 1 <VP> voor elke 3 Zilver in je trekstapel (naar beneden afgerond).\n______________________\nAls je deze kaart vernietigt, pak dan 3 Zilver.",
+  "extra": " Dit is een overwinningskaart. Gebruik 8 exemplaren in een spel met 2 spelers en 12 exemplaren bij 3 of meer spelers. Elk Feodum is aan het einde van het spel 1<VP> waard voor elke 3 zilverkaarten in je deck (rond naar beneden af). Voorbeeld: je hebt 11 Zilver. Elk van je Feaodumkaarten is 3<VP> waard. Wordt een Feodum van jou vernietigd, dan pak je 3 Zilver. Pak deze uit de voorraad en leg ze op je aflegstapel. Is er niet voldoende Zilver in voorraad, pak er dan zoveel je kunt.",
   "name": "Feodum",
   "potcost": 0,
   "types": [
@@ -2360,22 +2360,22 @@
   ]
  },
  {
-  "cardset": "dark ages",
+  "cardset": "de donkere middeleeuwen",
   "cost": "4",
-  "description": "+1 Card, +2 Actions\n______________________\nWhen you trash this, put it into your hand.",
-  "extra": " When you play this, you draw a card and get +2 Actions. If this is trashed, you take it from the trash and put it into your hand. This happens no matter whose turn it is when Fortress is trashed. It is not optional. You still trashed Fortress, even though you get it back; for example if you play Death Cart and choose to trash Fortress, the \"if you do\" on Death Cart is true, you did trash an Action, so you do not trash Death Cart.",
-  "name": "Fortress",
+  "description": "+1 Kaart, +2 Acties\n______________________\nAls je deze kaart vernietigt, neem deze dan in je hand.",
+  "extra": " Bij het spelen van deze kaart trek je een kaart en krijg je +2 Acties. Vernietig je je Vesting, dan neem je de kaart uit de stapel \"Vernietigde Kaarten\" in je hand. Dit is verplicht. Hoewel je de Vesting terugkrijgt, geldt dit toch als vernietiging. Voorbeeld: je speelt een Dodenkar en kiest ervoor om een Versting te vernietigen. \"Doe je dat\" op de Dodenkar is daarmee waar. Je vernietigt de Dodenkar dan niet.",
+  "name": "Vesting",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "dark ages",
+  "cardset": "de donkere middeleeuwen",
   "cost": "4",
-  "description": "+1 Card, +1 Action\nReveal the top card of your deck; you may discard it. Either way, if it is an…\nAction card, +1 Action\nTreasure card, +1 Coin\nVictory card, +1 Card",
-  "extra": " First you draw a card, then you reveal the top card of your deck, then you either discard that card or put it back on top of your deck. Then you get bonuses based on the types of the card you revealed. A card with 2 types gives you both bonuses; for example, if you revealed Harem (from Intrigue), you would both draw a card and get +1 Coins.",
-  "name": "Ironmonger",
+  "description": "+1 Kaart\n+1 Actie\nToon de bovenste kaart van je trekstapel. Je mag deze afleggen. Hoe dan ook, is de getoonde kaart een…\nActiekaart: +1 Actie\nGeldkaart: +1 Coin\nOverwinningskaart: +1 Kaart",
+  "extra": " Trek eerst een kaart en toon daarna de bovenste kaart van je trekstapel. Leg deze kaart af of leg hem terug op je trekstapel. Daarna krijg je bonussen op basis van de soort(en) van de getoonde kaart. Een kaart van 2 soorten geeft je beide bonussen. Voorbeeld: je toont een Harem (uit Dominion Intrige). Je trekt een kaart en krijgt +1 Coins.",
+  "name": "Metaalhandelaar",
   "potcost": 0,
   "types": [
    "Action"
