@@ -2223,11 +2223,11 @@
   ]
  },
  {
-  "cardset": "dark ages",
+  "cardset": "de donkere middeleeuwen",
   "cost": "0",
-  "description": "Abandoned Mine: +1 Coin\nRuined Library: +1 Card\nRuined Market: +1 Buy\nRuined Village: +1 Action\nSurvivors: Look at the top 2 cards of your deck. Discard them or put them back in any order.",
-  "extra": " See Additional Rules for Dark Ages and Preparation. Abandoned Mine: When you play this, you just get +1 Coin. Ruined Library: When you play this, you draw a card. Ruined Market: When you play this, you just get +1 Buy. Ruined Village: When you play this, you just get +1 Action. Survivors: You either discard both cards, or put both cards back on top; you cannot just discard one card.",
-  "name": "Ruins",
+  "description": "Verlaten mijn: +1 Coin\nIngestarte Bibliotheek: +1 Kaar\nVerwoeste Markt: +1 Aanschaf\nVernield Dorp: +1 Actie\nOverlevenden: Bekijk de 2 bovenste kaarten van je trekstapel. Leg deze af of leg ze terug in een volgorde naar keuze.",
+  "extra": " Zie aanvullende spelregels en voorbereiding.\nVerlaten Mijn: bij het spelen van deze kaart krijg je alleen +1 Coin.\nIngestorte Biliotheek: bij het spelen van deze kaart trek je een kaart.\nVerwoeste Markt: bij het spelen van deze kaart krijg je +1 Aanschaf.\nVernield Dorp: bij het spelen van deze kaart krijg je +1 Actie.\nOverlevenden: leg beide kaarten uit je hand af of leg ze beide terug op de trekstapel; je kunt er niet voor kiezen om er slechts 1 af te leggen.",
+  "name": "Ruïne",
   "potcost": 0,
   "types": [
    "Action",
@@ -2235,22 +2235,22 @@
   ]
  },
  {
-  "cardset": "dark ages",
+  "cardset": "de donkere middeleeuwen",
   "cost": "0*",
-  "description": "+2 Actions\nReturn this to the Madman pile. If you do, +1 Card per card in your hand.\n(This card is not in the supply.)",
-  "extra": " This card is not in the Supply; it can only be obtained via Hermit. When you play it, you get +2 Actions, return it to the Madman pile if you can (this is not optional), and if you did return it, you draw a card per card in your hand. For example if you had three cards in hand after playing Madman, you would draw three cards. Normally, nothing will prevent you from returning Madman to the Madman pile, but you may fail to due to playing Madman twice via Procession, Throne Room (from Dominion), or King's Court (from Prosperity). So, for example, if you Procession a Madman, you will get +2 Actions, return Madman to the Madman pile, draw a card per card in your hand, get another +2 Actions, fail to return Madman and so not draw cards the second time, fail to trash Madman, and then gain an Action card costing exactly 1 Coin if you can.",
-  "name": "Madman",
+  "description": "+2 Actie\nJe mag deze kaart op de stapel Krankzinnigekaarten leggen. Doe je dat: +1 kaart per kaart in je hand.\n(Deze kaarten zijn geen onderdeel van de voorrraad.)",
+  "extra": " Deze kaart bevindt zich niet in de voorraad en kan uitsluitend via de Kluizenaar worden verkregen. Speel je de Krankzinnige, dan krijg je +2 acties en moet je hem op de stapel Krankzinningen terugleggen indien mogelijk (dit is verplicht). Lukt dat, dan trek je een kaart voor elke kaart in je hand. Voorbeeld: je hebt 3 kaarten in je hand na het spelen van de Krankzinnige. Je trekt nu 3 kaarten. Normaal gesproken houdt niets je tegen om de Krankzinnige terug op de stapel te leggen, maar dit zou kunnen mislukken bij meermaals gebruik als gevolg van een Optocht, Troonzaal (uit Dominion basisspel) of Koningshof (uit Dominion: Welvaart). Voorbeeld: Als je een Optocht op een Krankzinnige speelt, krijg je +2 Acties. Je legt de Kranzinnige terug op de stapel Krankzinnigen en trekt een kaart voor elke kaart in je hand. Vervolgens krijg je opnieuw +2 Acties, maar je kunt de Krankzinnige niet terug op de stpel Krankzinnigen leggen, dus je trekt geen kaarten. Je kunt de Krankzinnige ook niet vernietigen. Tot slot pak je een kaart met een waarde van ten hoogste 1 Coin indien mogelijk.",
+  "name": "Krankzinnige",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "dark ages",
+  "cardset": "de donkere middeleeuwen",
   "cost": "0*",
-  "description": "Worth 3 Coins\nWhen you play this, return it to the Spoils pile.\n(This is not in the Supply.)",
-  "extra": " This is never in the Supply; it can only be obtained via Bandit Camp, Marauder, and Pillage. When you play Spoils, you get +3 Coins to spend this turn, and return that copy of Spoils to its pile. You are not forced to play Treasures in your hand.",
-  "name": "Spoils",
+  "description": " 3 Coins\nSpeel je deze kaart, leg hem dan terug op de stapel buitkaarten.\n(Deze kaarten zijn geen onderdeel van de voorraad.)",
+  "extra": " Deze kaart is nooit onderdeel van de voorraad en kan uitsluitend via het Bandietenkamp, de Stroper en de Plundering verkregen worden. Bij het spelen van een Buit krijg je +3 Coins om in de betreffende beurt te besteden. Daarna leg je de Buit direct terug op de buitstapel. Je bent nooit verplicht om geldkaarten in je hand te spelen.",
+  "name": "Buit",
   "potcost": 0,
   "count": 15,
   "types": [
@@ -2258,11 +2258,11 @@
   ]
  },
  {
-  "cardset": "dark ages",
+  "cardset": "de donkere middeleeuwen",
   "cost": "1",
-  "description": "When you buy a Victory card, you may trash this from your hand.",
-  "extra": " This is a Shelter; see Preparation. It is never in the Supply. When you buy a Victory card, if Hovel is in your hand, you may trash the Hovel. A card with multiple types, one of which is Victory, is a Victory card. You do not get anything for trashing Hovel; you just get to get rid of it.",
-  "name": "Hovel",
+  "description": "Als je een overwinningskaart koopt, mag je het Hutje uit je hand vernietigen.",
+  "extra": " Dit is een onderdakkaart; zie Voorbereiding. Deze bevindt zich nooit in de voorraad. Koop je een overwinnigskaart als je een Hutje in je hand hebt, dan mag je het hutje vernietigen. Een kaart van meerdere soorten waaronder Overwinning geldt als een overwinningskaart. Je krijgt niets voor het vernietigen van een Hutje, je bent er alleen vanaf.",
+  "name": "Hutje",
   "potcost": 0,
   "types": [
    "Reaction",
@@ -2270,10 +2270,10 @@
   ]
  },
  {
-  "cardset": "dark ages",
+  "cardset": "de donkere middeleeuwen",
   "cost": "1",
-  "description": "+2 Actions",
-  "extra": " This is a Shelter; see Preparation. It is never in the Supply. It is an Action card; when you play it, you get +2 Actions.",
+  "description": "+2 Acties",
+  "extra": " Dit is een onderdakkaart (zie voorbereiding) en is nooit onderdeel van de voorraad. Dit is een actiekaart. Bij het spelen ervan krijg je +2 Acties.",
   "name": "Necropolis",
   "potcost": 0,
   "types": [
@@ -2282,11 +2282,11 @@
   ]
  },
  {
-  "cardset": "dark ages",
+  "cardset": "de donkere middeleeuwen",
   "cost": "1",
-  "description": "0 <VP>\n______________________\nWhen you trash this, +1 Card.",
-  "extra": " This is a Shelter; see Preparation. It is never in the Supply. It is a Victory card despite being worth 0 Victory. If this is trashed, you draw a card, right then, even in the middle of resolving another card. For example, if you use Altar to trash Overgrown Estate, you first draw a card, then gain a card costing up to 5 Coins. This card does not give you a way to trash itself, it merely does something if you manage to trash it.",
-  "name": "Overgrown Estate",
+  "description": "0 <VP>\n______________________\nAls je deze kaart vernietigd: +1 Kaart.",
+  "extra": " Dit is een onderdakkaart (zie voorbereiding) en is nooit onderdeel van de voorraad. Dit is een overwinningskaart, ook al is deze 0<VP> waard. Wordt deze kaart vernietigd, dan trek je direct een kaart. ook al ben je nog met de acties van een andere kaart bezig. Voorbeeld: gebruik je het Altaar om een Verwilderd Landgoed te vernietigen, dan trek je eerst een kaart en daarna pak je een kaart met een waarde van ten hoogste 5 Coins. Deze kaart kan zelf geen kaarten vernietigen, maar doet alleen iets als het je lukt om hem te vernietigen.",
+  "name": "Verwilderd Landgoed",
   "potcost": 0,
   "types": [
    "Victory",
@@ -2294,11 +2294,11 @@
   ]
  },
  {
-  "cardset": "dark ages",
+  "cardset": "de donkere middeleeuwen",
   "cost": "1",
-  "description": "+4 Coins\nReveal your hand. -1 Coin per Treasure card in your hand, to a minimum of 0 Coins.",
-  "extra": " First you get +4 Coins. Then you reveal your hand, and lose 1 Coin per Treasure card in it. You can lose more than 4 Coins this way, but the amount of coins you have available to spend can never go below 0 Coins. Cards with two types, one of which is Treasure (such as Harem from Intrigue) are Treasure cards.",
-  "name": "Poor House",
+  "description": "+4 Coins\nRToon je hand. -1 Coin per geldkaart in je hand met een minimum van 0 Coins.",
+  "extra": " Eerst krijg je +4 Coins. Daarna toon je je hand en verlies je 1 Coin munt per geldkaart in je hand. Je kunt op deze manier meer dan 4 Coins munten verliezen, maar de totale hoeveelheid munten die je in je beurt kunt besteden, kan nooit lager zijn dan 0 Coins. Kaarten van meerdere soorten waaronder geld (zoals Harem uit Dominion Intrige) gelden als geldkaarten.",
+  "name": "Armenhuis",
   "potcost": 0,
   "types": [
    "Action"
