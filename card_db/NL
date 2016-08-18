@@ -2382,22 +2382,22 @@
   ]
  },
  {
-  "cardset": "dark ages",
+  "cardset": "de donkere middeleeuwen",
   "cost": "4",
-  "description": "You may play an Action card from your hand twice. Trash it. Gain an Action card costing exactly 1 Coin more than it.",
-  "extra": " Playing an Action card from your hand is optional. If you do play one, you then play it a second time, then trash it, then gain an Action card costing exactly 1 Coin more than it (even if somehow you failed to trash it). Gaining a card is not optional once you choose to play an Action card, but will fail to happen if no card in the Supply costs the exact amount needed. If something happens due to trashing the card - for example drawing 3 cards due to trashing a Cultist - that will resolve before you gain a card. The gained card comes from the Supply and is put into your discard pile. This does not use up any extra Actions you were allowed to play due to cards like Fortress - Procession itself uses up one Action and that is it. You cannot play any other cards in between resolving the Procession-ed Action card multiple times, unless that Action card specifically tells you to (such as Procession itself does). If you Procession a Procession, you will play one Action twice, trash it, gain an Action card costing 1 Coin more, then play another Action twice, trash it, gain an Action card costing 1 Coin more, then trash the Procession and gain an Action costing 1 Coin more than it. If you Procession a card that gives you +1 Action, such as Vagrant, you will end up with 2 Actions to use afterwards, rather than the one you would have left if you just played two Vagrants. If you use Procession on a Duration card (from Seaside), Procession will stay out until your next turn and the Duration card will have its effect twice on your next turn, even though the Duration card is trashed.",
-  "name": "Procession",
+  "description": "Je mag een actiekaart uit je hand tweemaal spelen. Vernietig deze daarna. Pak een actiekaart die 1 Coin meer waard is dan de vernietigde kaart.",
+  "extra": " Het is niet verplicht om een actiekaart uit je hand te spelen. Als je dat doet, speel je deze nogmaals. Daarna vernietig je hem en pak je een actiekaart die 1 Coin meer waard is dan de vernietigde kaart (ook als het niet gelukt is om de kaart te vernietigen). Het pakken van een kaart is verplicht als je ervoor gekozen hebt om een actiekaart te spelen, maar kan niet als er geen kaarten in voorraad zijn die precies het benodigde aantal munten kosten. Gebeurt er iets bij het vernietigen van de kaart (bijvoorbeeld het trekken van 3 kaarten bij de Cultist), dan gebeurt dat vóór het pakken van een kaart. Pak de kaart uit de voorraad en leg deze op je aflegstapel. Dit kost geen extra acties van bijvoorbeeld een Vesting. De Optocht gebruikt 1 actie en dat is het. Je mag geen andere kaarten spelen tijdens het meermaals uitvoeren van de door de Optocht gespeelde actiekaart, tenzij de betreffende actiekaart dat expliciet aangeeft (zoals de Optocht zelf doet). Speel je een Optocht op een Optocht, dan speel je 1 actiekaart twemaal. Daarna vernietig je deze en pak je een actiekaart die 1 Coin meer waard is. Vervolgens speel je een andere actiekaart tweemaal. vernietig je deze en pak je een actiekaart die 1 Coin meer waard is. Tot slot vernietig je de Optocht en pak je een kaart die 1 Coin meer waard is. Speel je een Optocht op een kaart die +1 Actie geeft, zoals de Landloper, dan levert dat in totaal +2 Acties op, 1 Actie meer dan als je de 2 Landlopers na elkaar zou hebben gespeeld. Speel je de Optocht op een duurzame kaart (uit dominion: Hijs de Zeilen!), dan blijft de Optocht tot je volgende beurt liggen en je voert de eigenschappen van de duurzame kaart in je volgende beurt tweemaal uit, ondanks dat deze inmiddels is vernietigd.",
+  "name": "Optocht",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "dark ages",
+  "cardset": "de donkere middeleeuwen",
   "cost": "4",
-  "description": "+1 Card, +1 Action\nGain a Rats. Trash a card from your hand other than a Rats (or reveal a hand of all Rats).\n______________________\nWhen you trash this, +1 Card.",
-  "extra": " Follow the instructions in order. First draw a card; then gain a Rats from the Supply, putting it into your discard pile; then trash a card from your hand that is not a Rats card. If there are no Rats cards left, you do not gain one. If you have no cards in your hand other than Rats, reveal your hand and you do not trash a card. If Rats is trashed, you draw a card. This happens whether it is your turn or another player's, and regardless of which player has the card that trashed Rats. There are 20 copies of Rats, rather than the usual 10; the pile starts with all 20, regardless of the number of players.",
-  "name": "Rats",
+  "description": "+1 Kaart, +1 Actie\nPak een Ratten. Vernietig een kaart uit je hand (geen Ratten) of toon een hand vol Ratten.\n______________________\nAls je deze vernietigt: +1 Kaart.",
+  "extra": " Volg de instructies in volgorde op. Trek eerst een kaart. Pak daarna een Ratten uit de voorraad en leg deze op je aflegstapel. Vernietig vervolgens een kaart uit je hand (geen Ratten). Zijn er geen Ratten in voorraad, dan pak je er geen. Heb je uitsluitend Ratten in je hand, toon dan je hand. Je vernietigt in dat geval geen kaart. Wordt een van je Ratten vernietigd, trek dan een kaart. Het is niet van belang in wiens beurt dat gebeurt en wie de kaart vernietigt. De rattenstapel bevat 20 exemplaren in plaats van de gebruikelijke 10. Ze worden allemaal gebruikt, ongeacht het aantal spelers.",
+  "name": "Ratten",
   "potcost": 0,
   "count": 20, 
   "types": [
@@ -2405,43 +2405,43 @@
   ]
  },
  {
-  "cardset": "dark ages",
+  "cardset": "de donkere middeleeuwen",
   "cost": "5",
-  "description": "Play this as if it were an Action card in the Supply costing less than it that you choose.\nThis is that card until it leaves play.",
-  "extra": " When you play this, you pick an Action card from the Supply that costs less than it, and treat this card as if it were the card you chose. Normally this will just mean that you follow the instructions on the card you picked. So, if you play Band of Misfits and Fortress is in the Supply, you could pick that and then you would draw a card and get +2 Actions, since that is what Fortress does when you play it. Band of Misfits also gets the chosen card's cost, name, and types. If you use Band of Misfits as a card that trashes itself, such as Death Cart, you will trash the Band of Misfits (at which point it will just be a Band of Misfits card in the trash). If you use Band of Misfits as a duration card (from Seaside), Band of Misfits will stay in play until next turn, just like the duration card would. If you use Band of Misfits as a Throne Room (from Dominion), King's Court (from Prosperity), or Procession, and use that effect to play a duration card, Band of Misfits will similarly stay in play. If you use Throne Room, King's Court, or Procession to play a Band of Misfits card multiple times, you only pick what to play it as the first time; the other times it is still copying the same card. For example, if you use Procession to play Band of Misfits twice and choose Fortress the first time, you will automatically replay it as Fortress, then trash the Band of Misfits, return it to your hand (it is a Fortress when it's trashed, and Fortress has a when-trashed ability that returns it to your hand), and gain an Action card costing exactly 6 Coins(1 Coin more than Band of Misfits, which has left play and so is no longer copying Fortress). If you use Band of Misfits as a card that does something during Clean-up, such as Hermit, it will do that thing during Clean-up. When you play Horn of Plenty (from Cornucopia), it counts Band of Misfits as whatever Band of Misfits was played as; for example if you play a Band of Misfits as a Fortress, and then play another Band of Misfits as a Scavenger, and then play Horn of Plenty, you will gain a card costing up to 3 Coins. Band of Misfits can only be played as a card that is visible in the Supply; it cannot be played as a card after its pile runs out, and cannot be played as a non-Supply card like Mercenary; it can be played as the top card of the Ruins pile, but no other Ruins, and can only be played as Sir Martin when that is the top card of the Knights pile",
-  "name": "Band of Misfits",
+  "description": "Speel deze kaart als een actiekaart naar keuze uit de voorraad die minder waard is dan deze kaart.\nZolang deze kaart in het spel is, geldt deze als de gekozen kaart.",
+  "extra": " Bij het spelen van deze kaart kies je een actiekaart uit de voorraad die minder waard is dan de Groep Mislukkelingen. De Groep Mislukkelingen geldt als de gekozen kaart. Dit betekent normaal gesproken dat je de instructies op de gekozen kaart uitvoert. Je trekt dus een kaart en krijgt +2 Acties. De Groep Mislukkelingen neemt ook de kosten, titel en soort(en) van de gekozen kaart aan. Gebruik je de Groep Mislukkelingen als een kaart die zichzelf vernietigt (zoals de Dodenkar), dan vernietig je de Groep Mislukkelingen dus (in de stapel Vernietigde Kaarten geldt de kaart weer als Groep Mislukkelingen). Gebruik je de Groep Mislukkelingen als duurzame kaart (uit Dominion: Hijs de Zeilen!), dan blijft de Groep Mislukkelingen tot de volgende beurt in het spel, net als de gekoze duurzame kaart zou doen. Gebruik je de Groep Mislukkelingen als Troonzaal (uit Dominion basisspel), Koningshof (uit Dominion: Welvaart) of Optocht en speel je deze op een duurzame kaart, dan blijft de Groep Mislukkelingen om dezelfde reden in het spel. Als je de Troonzaal, het Koningshof of de Optocht op de Groep Mislukkelingen speelt, kies je maar één keer een kaart. Daarna wordt deze kaart steeds gekopieerd. Gebruik je de Groep Mislukkelingen als een kaart die iets tijdens de opschoonfase doet, zoals de Kluizenaar, dan gebeurt dit ook tijdens de opschoonfase. Speel je een Hoorn des Overvloeds (uit Dominion: Overvloed), dan beschouwt deze de Groep Mislukkelingen als de gekozen kaart. Een Groep Mislukkelingen kan uitsluitend gespeeld worden als een kaart die zichtbaar in de voorraad ligt; dus niet als een kaart waarvan de stapel leeg is of als bijvoorbeeld een Huurling, die niet bij de voorraad hoort. De Groep Mislukkelingen kan echter gespeeld worden als de bovenste kaart van de stapel Ruínes en als Sir Martin als dat de bovenste kaart van de stapel Ridders is.",
+  "name": "Groep Mislukkelingen",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "dark ages",
+  "cardset": "de donkere middeleeuwen",
   "cost": "5",
-  "description": "+1 Card, +2 Actions\nGain a Spoils from the Spoils pile.",
-  "extra": " Draw a card before gaining a Spoils. The Spoils comes from the Spoils pile, which is not part of the Supply, and is put into your discard pile. If there are no Spoils cards left, you do not get one.",
-  "name": "Bandit Camp",
+  "description": "+1 Kaart\n+2 Acties\nPak een buitkaart van de buitstapel.",
+  "extra": " Trek een kaart voordat je een Buit pakt. Pak de Buit van de stapel buitkaarten, die geen onderdeel van de voorraad is, en leg deze op je aflegstapel. Zijn er geen buitenkaart meer, dan krijg je er geen.",
+  "name": "Bandietenkamp",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "dark ages",
+  "cardset": "de donkere middeleeuwen",
   "cost": "5",
-  "description": "Choose one: Discard 2 cards; or put a card from your hand on top of your deck; or gain a Copper.\nChoose one: +3 Coins; or trash your hand; or gain a Duchy.",
-  "extra": " This card gives you two separate choices: first you either discard 2 cards, put a card from your hand on top of your deck, or gain a Copper; after resolving that, you either get +3 Coins, trash your hand, or gain a Duchy. For example, you might choose to discard 2 cards, then gain a Duchy. Gained cards come from the Supply and are put into your discard pile. You can choose an option even if you cannot do it. If you trash multiple cards that do something when trashed at once, trash them all, then choose an order to resolve the things that happen due to them being trashed.",
-  "name": "Count",
+  "description": "Kies één van de drie volgende: leg 2 kaarten af; of leg een kaart uit je hand op je trekstapel; of pak een Koper.\nKies één van de drie volgende: +3 Coins; of vernietig alle kaarten uit je hand; of pak een Hertogdom.",
+  "extra": " Deze kaart geeft je twe gescheiden keuzes uit 3 opties: eerst leg je 3 kaarten af, leg je een kaart uit je hand op de trekstapel of pak je een Koper; nadat je één van deze mogelijkheden hebt gekozen, krijg je +3 Coins, vernietig je je hand of pak je een Hertogdom. Voorbeeld: je kunt ervoor kiezen om 2 kaarten af te leggen en een Hertogdom te pakken. Pak kaarten uit de voorraad en leg deze op je aflegstapel. Het is toegestaan om een optie te kiezen die je niet kunt uitvoeren. Vernietig je meerdere kaarten in één keer, vernietig ze dan eerst allemaal en kies dan zelf in welke volgorde je eventuele gevolgen daarvan uitvoert.",
+  "name": "Graaf",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "dark ages",
+  "cardset": "de donkere middeleeuwen",
   "cost": "5",
-  "description": "+2 Cards\nEach other player gains a Ruins. You may play a Cultist from your hand.\n______________________\nWhen you trash this, +3 Cards.",
-  "extra": " When you play this, you draw two cards, then each other player gains a Ruins. These come from the Ruins pile in the Supply, and are put into discard piles. Go in turn order starting to your left; each player takes the top Ruins, revealing the next one each time. If the Ruins pile runs out, players stop gaining them at that point. After giving out Ruins, you may play another Cultist from your hand. It can be one you just drew from playing Cultist, or one you already had in your hand. Playing a Cultist this way does not use up any extra Actions you were allowed to play due to cards like Fortress - the original Cultist uses up one Action and that is it. When you trash a Cultist of yours, you draw three cards. This happens whether or not it is your turn, and whether or not the card that causes Cultist to be trashed was yours. If you trash a Cultist while revealing cards, such as to a Knight attack, you do not draw the revealed cards that are about to be discarded.",
+  "description": "+2 Kaarten\nIedere andere speler pakt een Ruïne. Jij mag een Cultist uit je hand spelen.\n______________________\nAls je deze kaart vernietigt: +3 Cards.",
+  "extra": " Bij het spelen van deze kaart trek je 2 kaarten, daarna pakt iedere andere speler in beurtvolgorde (te beginnen bij de speler links van jou) 1 Ruïne van de stapel ruïnekaarten in de voorraad en legt deze op zijn aflegstapel. Draai de bovenste Ruïne steeds open voordat een speler er een pakt. Is de ruïnestapel leeg, dan pakken de spelers vanaf dat moment geen Ruïnes meer. Na het pakken van Ruïnes mag je nog een Cultist uit je hand spelen. Dat kan er een zijn die je zojuist hebt getrokken of een die ja al in je hand had. Het op deze manier spelen van een Cultist kost geen extra acties. Vernietig je een eigen Cultist, dan trek je 3 kaarten. Het is niet van belang wiens beurt het is of van wie de kaart is die de Cultist vernietigt. Vernietig je een Cultist terwijl je kaarten aan het tonen bent (zoals bij een Ridderaanval), dan trek je geen getoonde kaarten die afgelegd gaan worden.",
   "name": "Cultist",
   "potcost": 0,
   "types": [
@@ -2451,22 +2451,22 @@
   ]
  },
  {
-  "cardset": "dark ages",
+  "cardset": "de donkere middeleeuwen",
   "cost": "5",
-  "description": "Choose one: Gain a card from the trash costing from 3 Coins to 6 Coins, putting it on top of your deck; or trash an Action card from your hand and gain a card costing up to 3 Coins more than it.",
-  "extra": " You choose either option, then do as much of it as you can; you can choose an option even if you will not be able to do it. You can look through the trash at any time. If you choose to gain a card from the trash, the other players get to see what it is, and it goes on top of your deck. If there were no cards in your deck, it becomes the only card in your deck. If there is no card in the trash costing from 3 Coins to 6 Coins, you will fail to gain one. Cards with Potion in the cost (from Alchemy) do not cost from 3 Coins to 6 Coins. If you choose to trash an Action card from your hand, the card you gain comes from the Supply and is put into your discard pile.",
-  "name": "Graverobber",
+  "description": "Jies één van de twee volgende: pak een kaart van de stapel vernietigde kaarten met een waarde van 3 Coins, 4 Coins, 5 Coins of 6 Coins, en leg deze op je trekstapel; of vernietig een actiekaart uit je hand en pak een kaart die ten hoogste 3 Coins meer waard is dan de vernietigde kaart.",
+  "extra": " Kies één van de opties en voer zoveel daarvan uit als je kunt. Ook al kun je een optie niet uitvoeren, dan mag je deze toch kiezen. Je mag de stapel \"Vernietigde Kaarten\" op elk moment doorkijken. Pak je een kaart van de stapel \"Vernietigde Kaarten\", laat deze dan aan de andere spelers zien en leg hem daarna op je trekstapel. Is die leeg, dan wordt deze kaart de enige in je trekstapel. Bevat de stapel \"Vernietigde Kaarten\" geen kaarten met een waarde van 3 Coins, 4 Coins, 5 Coins of 6 Coins, dan kun je er geen pakken. Kaarten die ten minste een Potion kosten (uit Dominion: De Alchemisten), kunnen niet gepakt worden (deze kosten geen 3 Coins, 4 Coins, 5 Coins of 6 Coins). Kies je ervoor om een actiekaart uit je hand te vernietigen, pak dan je nieuwe kaart uit de voorraad en leg deze op je aflegstapel.",
+  "name": "Grafrover",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "dark ages",
+  "cardset": "de donkere middeleeuwen",
   "cost": "5",
-  "description": "Trash this. Each other player with 5 or more cards in hand reveals his hand and discards a card that you choose.\nGain 2 Spoils from the Spoils pile.",
-  "extra": " First trash Pillage. Then each other player with 5 or more cards in hand reveals his hand and discards a card of your choice. This happens in turn order, starting with the player to your left. Then you gain two Spoils cards. The two Spoils cards come from the Spoils pile, which is not part of the Supply, and are put into your discard pile. If there are no Spoils cards left, you do not get one; if there is only one, you just get one.",
-  "name": "Pillage",
+  "description": "Vernietig deze kaart.\nIedere andere speler met ten minste 5 handkaarten moet zijn hand tonen en legt 1 kaart naar jouw keuze af.\nPak 2 buitkaarten van de buitstapel.",
+  "extra": " Vernietig eerst de Plundering. Daarna toont iedere andere speler met 5 of meer kaarten zijn hand en legt daarvan 1 kaart naar jouw keuze af. Dit gebeurt in beurtvolgorde, te beginnen met de speler links van je. Vervolgens pak je 2 buitkaarten van de stapel buitkaarten, die geen onderdeel van de voorraad is, en legt deze op je aflegstapel. Zijn er niet voldoende buitkaarten in voorraad, dan pak je er zoveel je kunt.",
+  "name": "Plundering",
   "potcost": 0,
   "types": [
    "Action",
