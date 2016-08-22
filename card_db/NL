@@ -2474,32 +2474,32 @@
   ]
  },
  {
-  "cardset": "dark ages",
+  "cardset": "de donkere middeleeuwen",
   "cost": "4",
-  "description": "+2 Coins\nYou may put your deck into your discard pile. Look through your discard pile and put one card from it on top of your deck.",
-  "extra": " Putting your deck into your discard pile is optional, but putting a card from your discard pile on top of your deck is not; you do it unless there are no cards in your discard pile. Putting your deck into your discard pile will not trigger Tunnel (from Hinterlands). If your deck has no cards in it, such as from putting them into your discard pile, then the card you put on top of your deck will be the only card in your deck.",
-  "name": "Scavenger",
+  "description": "+2 Coins\nJe mag je trekstapel op je aflegstapel leggen. Bekijk de kaarten van je aflegstapel en leg er één van op je trekstapel.",
+  "extra": " Je trekstapel op je aflegstapel leggen is niet verplicht, maar een kaart van je aflegstapel op je trekstapel leggen wel: je doet dat, tenzij je aflegstapel leeg is. Je trekstapel op je aflegstapel leggen activeert de Tunnel (uit Dominion: Het Achterland) niet. Bevat je trekstapel geen kaarten, dan wordt de kaart die je erop legt de enige kaart van je trekstapel.",
+  "name": "Scharrelaar",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "dark ages",
+  "cardset": "de donkere middeleeuwen",
   "cost": "6",
-  "description": "Trash a card from your hand. Gain a card costing up to 5 Coins.",
-  "extra": " You trash a card from your hand if you can, and then gain a card whether or not you trashed one. The gained card comes from the Supply and is put into your discard pile.",
-  "name": "Altar",
+  "description": "Vernietig een kaart uit je hand. Pak een kaart met een waarde van ten hoogste 5 Coins.",
+  "extra": " Vernietig een kaart uit je hand (indien mogelijk) en pak daarna een kaart (het is niet van belang of je al dan niet een kaart hebt vernietigd). Pak de kaart uit de voorraad en leg deze op je aflegstapel.",
+  "name": "Altaar",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "dark ages",
+  "cardset": "de donkere middeleeuwen",
   "cost": "4",
-  "description": "Gain a card costing up to 4 Coins, putting it on top of your deck.",
-  "extra": " The card you gain comes from the Supply and is put on top of your deck.",
+  "description": "Pak een kaart met een waarde van ten hoogste 4 Coins, en leg deze op je trekstapel.",
+  "extra": " Pak de kaart uit de voorraad en leg deze op de aflegstapel.",
   "name": "Armory",
   "potcost": 0,
   "types": [
@@ -2507,11 +2507,11 @@
   ]
  },
  {
-  "cardset": "dark ages",
+  "cardset": "de donkere middeleeuwen",
   "cost": "2",
-  "description": "Gain 3 Coppers, putting them into your hand.\n______________________\nWhen another player plays an Attack card, you may discard this.\nIf you do, gain two Silvers, putting one on top of your deck.",
-  "extra": " When you play this, you gain three Coppers from the Supply, putting them into your hand. If there are not three Coppers left, just gain as many as you can. When another player plays an Attack card, you may discard this from your hand. If you do, you gain two Silvers from the Supply, putting one on your deck and the other into your discard pile. If there is only one Silver left, put it on your deck; if there are no Silvers left, you do not gain any.",
-  "name": "Beggar",
+  "description": "Pak 3 Koper en neem deze in je hand.\n______________________\nSpeelt een andere speler een aanvalskaart, dan mag je deze kaart afleggen. Doe je dat, dan pak je 2 Zilver, waarvan je er 1 op je trekstapel legt.",
+  "extra": " Bij het spelen van deze kaart pak je 3 Koper uit de voorraad en neemt deze in je hand. Is er niet voldoende Koper in de Voorraad, dan pak je er zoveel als je kunt. Speelt een andere speler een aanvalskaart, dan mag je de Bedelaar uit je hand afleggen. Doe je dat, dan pak je 2 Zilver uit de voorraad, waarvan je er 1 op je trekstapel en 1 op je aflegstapel legt. Is er maar 1 Zilver in voorraad, leg dit dan op je trekstapel. Is er geen Zilver in voorraad, dan pak je niets.",
+  "name": "Bedelaar",
   "potcost": 0,
   "types": [
    "Action",
@@ -2519,33 +2519,33 @@
   ]
  },
  {
-  "cardset": "dark ages",
+  "cardset": "de donkere middeleeuwen",
   "cost": "5",
-  "description": "Look at the top 3 cards of your deck.\nChoose one: Put them into your hand;\nor discard them and +3 Cards.\n______________________\nWhen you trash this, gain a cheaper card.",
-  "extra": " When you play this, you look at the top 3 cards of your deck, and either put all 3 into your hand, or discard all 3 and draw the next 3 cards. If you discard them and have to shuffle to draw 3 cards, you will shuffle in the cards you discarded and may end up drawing some of them. When you trash Catacombs, you gain a card costing less than it. This happens whether Catacombs is trashed on your turn or someone else's, and no matter who has the card that trashed it. The gained card comes from the Supply and is put into your discard pile.",
-  "name": "Catacombs",
+  "description": "Bekijk de bovenste 3 kaarten van je trekstapel. Kies één van de twee volgende: neem de kaarten in je hand; of leg de kaarten af en +3 Kaarten.\n______________________\nAls je deze kaart vernietigt, pak dan een kaart met een waarde die lager is dan die van deze kaart.",
+  "extra": " Bij het spelen van deze bekijk je de bovenste 3 kaarten van je trekstapel, die je of alle 3 in je hand neemt, of alle 3 aflegt door 3 nieuwe te trekken kaarten vervangt. Leg je de kaarten af en moet je schudden om 3 nieuwe kaarten te kunnen trekken, schud dan de afgelegde kaarten mee. Het is dus mogelijk dat je dezelfde kaarten trekt. Vernietig je de Gewelven, dan pak je een kaart die minder waard is. Het is niet van belang in wiens beurt de Gewelven worden vernietigd en wie de eigenaar van de kaart is die de Gewelven vernietigt. Pak de kaart uit de voorraad en leg deze op de aflegstapel.",
+  "name": "Gewelven",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "dark ages",
+  "cardset": "de donkere middeleeuwen",
   "cost": "5",
-  "description": "Worth 1 Coin\n+1 Buy\nWhen you play this, you may play a Treasure from your hand twice. If you do, trash that Treasure",
-  "extra": " This is a Treasure worth 1 Coin. You play it in your Buy phase, like other Treasures. When you play it, you also get +1 Buy, and you may play an additional Treasure card from your hand twice. If you choose to do that, you trash that Treasure. You still get any coins that Treasure gave you from playing it, despite trashing it. If you use Counterfeit to play Spoils twice, you will get + 6 Coins, (in addition to the 1 Coin, from Counterfeit) and return Spoils to the Spoils pile; you will be unable to trash it. If you use Counterfeit to play a Treasure that does something special when you play it, you will do that thing twice. Cards with two types, one of which is Treasure (such as Harem from Intrigue) are Treasures and so can be played via Counterfeit.",
-  "name": "Counterfeit",
+  "description": "1 Coin\n+1 Aanschaf\nSpeel je deze kaart, dan mag je 1 geldkaart uit je hand tweemaal spelen. Doe je dat, vernietig dan de betreffende geldkaart.",
+  "extra": " Dit is een geldkaart met een waarde vna 1 Coin. Je speelt deze kaart in de aanschaffase, net als andere geldkaarten. Bij het spelen van deze kaart krijg je +1 Aanschaf en mag je een andere geldkaart uit je hand tweemaal spelen. Doe je dat, dan vernietig je de betreffende geldkaart. Je mag de munten die de vernietigde kaart gaf gewoon gebruiken. Gebruik je Vals Geld om een Buit tweemaal te spelen, dan krijg je +6 Coins (bovenop de 1 Coin van Vals Geld zelf), maar moet je de Buit na de eerste keer spelen op de buitstapel terugleggen (daardoor kan Vals Geld deze niet vernietigen). Gebruik je Vals Geld om een Geldkaart met extra instructies tweemaal te spelen, dan voer je ook de instructies tweemaal uit. Kaarten van twee soorten waaronder Geld (zoals Harem uit Dominion Intrige) gelde als geldkaarten en kunnen dus met Vals Geld worden gespeeld.",
+  "name": "Vals Geld",
   "potcost": 0,
   "types": [
    "Treasure"
   ]
  },
  {
-  "cardset": "dark ages",
+  "cardset": "de donkere middeleeuwen",
   "cost": "4",
-  "description": "+5 Coins\nYou may trash an Action card from your hand. If you don’t, trash this.\n______________________\nWhen you gain this, gain 2 Ruins.",
-  "extra": " When you play Death Cart, you get + 5 Coins, and either trash an Action card from your hand, or trash the Death Cart. If you have no Action card in your hand, you will have to trash the Death Cart, but you can trash the Death Cart whether or not you have an Action card in hand. A card with multiple types, one of which is Action, is an Action card. When you gain a Death Cart, either from buying it or from gaining it some other way, you also gain 2 Ruins. You just take the top 2, whatever they are. If there are not enough Ruins left, take as many as you can. The Ruins come from the Supply and are put into your discard pile. The other players get to see which ones you got. The player gaining Death Cart is the one who gains Ruins; if Possession (from Alchemy) is used to make another player buy Death Cart, the player actually gaining the Death Cart (the one who played Possession) gains the Ruins. If you use Trader (from Hinterlands) to take a Silver instead of a Death Cart, you do not gain any Ruins. It doesn't matter whose turn it is; if you use Ambassador (from Seaside) to give Death Carts to each other player, those players also gain Ruins. Passing cards with Masquerade (from Intrigue) does not count as gaining them.",
-  "name": "Death Cart",
+  "description": "+5 Coins\nJe mag een actiekaart uit je hand vernietigen. Doe je dat niet, vernietig dan deze kaart.\n______________________\nAls je deze kaart pakt, pak dan 2 Ruïnes.",
+  "extra": " Bij het spelen van deze kaart krijg je +5 Coins en moet je een actiekaart uit je hand of de Dodenkar vernietigen. Heb je geen actiekaart in je hand, dan ben je verplicht om de Dodenkar te vernietigen. Een kaart van meer soorten waaronder Actie geldt als een actiekaart. Pak je een Dodenkar (door kopen of op een andere manier pakken), dan pak je 2 Ruïnes van de stapel ruïnekaarten uit de voorraad en leg je deze op je aflegstapel. Je moet altijd de bovenste 2 nemen. Laat de gepakte Ruïnes aan andere spelers zien. Zijn er niet voldoende Ruïnes in voorraad, pak er dan zoveel als je kunt. De speler die de Dodenkaart pakt, is degene die de Ruïnes pakt. Gebruik je de Handelaar (uit Dominion: Het Achterland) om een Zilver te pakken in plaats van een Dodenkar, dan pak je geen Ruïnes. Het is niet van belang wiens beurt het is. Het doorgeven van kaarten met Maskerade (uit Dominion Intrige) geldt niet als het pakken van kaarten.",
+  "name": "Dodenkar",
   "potcost": 0,
   "types": [
    "Action",
@@ -2553,55 +2553,55 @@
   ]
  },
  {
-  "cardset": "dark ages",
+  "cardset": "de donkere middeleeuwen",
   "cost": "3",
-  "description": "+1 Action\n+1 Buy\nTrash a card from your hand.\n+1 Coin per differently named Treasure\nin the trash.",
-  "extra": " Trash a card from your hand if you can. Whether or not you can, you still get +1 Coin er differently named Treasure in the trash, plus +1 Action and +1 Buy. Multiple copies of the same Treasure card do not increase how much you get. For example, if the trash has four Coppers, a Counterfeit, and six Estates, you get +2 Coins. Cards with multiple types, one of which is Treasure (such as Harem from Intrigue), are Treasures.",
-  "name": "Forager",
+  "description": "+1 Actie\n+1 Aanschaf\nVernietig een kaart uit je hand.\n+1 Coin per voor elke geldkaart met een verschillende titel in de stapel vernietigde kaarten.",
+  "extra": " Vernietig een kaart uit je hand 9indien mogelijk). Ongeacht het voorgaande krijg je +1 Coin voor elke geldkaart met een verschillende titel in de stapel \"Vernietigde Kaarten\", +1 Actie en +1 Aanschaf. Meerdere exemplaren van dezelfde geldkaart verhogen je inkomsten niet. Voorbeeld: de stapel \"Vernietigde Kaarten\" bevat 4 Koper, 1 Vals geld en 6 Landgoederen. Je krijgt +2 Coins. Een kaart van vershillende soorten, waaronder geld (zoals Harem uit Dominion Intrige), geldt als een geldkaart.",
+  "name": "Jager-Verzamelaar",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "dark ages",
+  "cardset": "de donkere middeleeuwen",
   "cost": "5",
-  "description": "+1 Card\n+1 Action\n+1 Coin\nTrash a card from your hand.",
-  "extra": " You have to trash a card from your hand if you can. You draw before trashing.",
-  "name": "Junk Dealer",
+  "description": "+1 Kaart\n+1 Actie\n+1 Coin\nVernietig een kaart uit je hand.",
+  "extra": " Indien mogelijk moet je een kaart uit je hand vernietigen. Je trekt een kaart voordat je er een vernietigt.",
+  "name": "Opkoper",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "dark ages",
+  "cardset": "de donkere middeleeuwen",
   "cost": "5",
-  "description": "This is a pile in which each card is different. There is the same basic ability on each card, but also another ability unique to that card in the pile, and they all have different names. Shuffle the Knights pile before playing with it, keeping it face down except for the top one, which is the only card that can be gained from the pile. See Additional Rules for Dark Ages and Preparation. Follow the rules on Knights in order from top to bottom; Sir Michael causes players to discard before it trashes cards.",
-  "extra": " The ability Knights have in common is that each other player reveals the top 2 cards of his deck, trashes one of them that he chooses that costs from 3 Coins to 6 Coins, and discards the rest; then, if a Knight was trashed, you trash the Knight you played that caused this trashing. Resolve this ability in turn order, starting with the player to your left. Cards with Potion in the cost (from Alchemy) do not cost from 3 Coins to 6 Coins. The player losing a card only gets a choice if both cards revealed cost from 3 Coins to 6 Coins; if they both do and one is a Knight but the player picks the other card, that will not cause the played Knight to be trashed.  When Sir Martin is the top card of the pile, it can be gained with an Armory and so on. If Sir Vander is trashed, you gain a Gold; this happens whether it is trashed on your turn or someone else's. The player who had Sir Vander is the one who gains the Gold, regardless of who played the card that trashed it. The Gold from Sir Vander, and the card gained for Dame Natalie, comes from the Supply and is put into your discard pile. When playing Dame Anna, you may choose to trash zero, one, or two cards from your hand. Dame Josephine is also a Victory card, worth 2 Victory at the end of the game. The Knight pile is not a Victory pile though, and does not get a counter for Trade Route (from Prosperity) even if Dame Josephine starts on top. If you choose to use the Knights with Black Market (a promotional card), put a Knight directly into the Black Market deck, rather than using the randomizer card. Sir Martin only costs 4 Coins, though the other Knights all cost 5 Coins.",
-  "name": "Knights",
+  "description": "Deze stapel bevat uitsluitend verschillende kaarten. Elke kaart heeft dezelfde eigenschap, maar daarnaast ook een unike eigenschap en titel. Schud de ridderstapel vóór het spel. Leg deze zoals gebruikelijk als gedekte stapel in de voorraad, maar draai de bovenste kaart ervan open. Dit is de enige kaart die van de stapel gepakt of gekocht kan worden. Zie ook de Aanvullende spelregels en de Voorbereiding. Volg de instructies op een Ridder van boven naar beneden op. Sir Michael laat spelers bijvoorbeeld eerst afleggen voordat hij kaarten vernietigt.",
+  "extra": "  De eigenschap die alle Ridders gemeen hebben: iedere andere speler toont de bovenste 2 kaarten van zijn trekstapel, vernietigt er één van die een waarde van 3 Coins, 4 Coins, 5 Coins of 6 Coins heeft en legt de rest af. Wordt daarbij een Ridder vernietigd, dan moet jij de door jou gespeelde Ridder die dit veroorzaakt heeft ook vernietigen. Handel deze eigenschap in beurtvolgorde af, te beginnen met de speler links van je. Kaarten die ten minste een Potion Kosten (uit Dominion: De Alchemisten), Kunnen zo niet vernietigd worden (deze kosten niet 3 Coins, 4 Coins, 5 Coins of 6 Coins). Een speler heeft uitsluitend een keuze als beide getoonde kaarten eenw aarde van 3 Coins, 4 Coins, 5 Coins of 6 Coins hebben. Als dat het geval is en één ervan is een Ridder, maar de speler kiest de andere kaart, dan word de door jou gespeelde Ridder niet vernietigd.",
+  "name": "Ridders",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "dark ages",
+  "cardset": "de donkere middeleeuwen",
   "cost": "4",
-  "description": "Gain a Spoils from the Spoils pile.\nEach other player gains a Ruins.",
-  "extra": " First you gain a Spoils. It comes from the Spoils pile, which is not part of the Supply, and is put into your discard pile. If there are no Spoils cards left, you do not get one. Then each other player gains a Ruins. These come from the Ruins pile in the Supply, and are put into discard piles. Go in turn order starting to your left; each player takes the top Ruins, revealing the next one each time. If the Ruins pile runs out, players stop gaining them at that point.",
-  "name": "Marauder",
+  "description": "Pak een buitkaart van de buitstapel.\nIedere andere speler pakt een Ruïne.",
+  "extra": " Eerst pak je een Buit van de stapel buitkaarten, die geen onderdeel van de voorraad is, en legt deze op je aflegstapel. Zijn er geen buitkaarten in voorraad, dan pak je er geen. Daarna pakt iedere andere speler 1 Ruïne van de stapel ruïnekaarten en legt deze op zijn aflegstapel. Doe dit in beurtvolgorde, te beginnen bij de speler links van je. Draai de bovenste Ruïne steeps open voordat een speler er een pakt. Is de ruïnestapel leeg, dan pakken de spelers vanaf dat moment geen Ruïnes meer.",
+  "name": "Stroper",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "dark ages",
+  "cardset": "de donkere middeleeuwen",
   "cost": "3",
-  "description": "+1 Card\n+1 Action\n+1 Buy\n______________________\nWhen one of your cards is trashed,\nyou may discard this from your\nhand. If you do, gain a Gold.",
-  "extra": " When you play this, you draw a card and get +1 Action and +1 Buy. When one of your cards is trashed, you may discard Market Square from your hand. If you do, you gain a Gold. The Gold comes from the Supply and is put into your discard pile. If there is no Gold left in the Supply, you do not gain one. You may discard multiple Market Squares when a single card of yours is trashed.",
-  "name": "Market Square",
+  "description": "+1 Kaart\n+1 Actie\n+1 Aanschaf\n______________________\nAls een van je kaarten wordt vernietigd, mag je het Martkplein uit je hand afleggen. Doe je dat, pak dan een Goud.",
+  "extra": " Bij het spelen van deze kaart trek je 1 kaart en krijg je +1 Actie en +1 Aanschaf. Wordt een van je kaarten vernietigd, dan mag je het Marktplein uit je hand afleggen. Doe je dat, dan pak je een Goud uit de voorraad en leg je dit op je aflegstapel. Is er geen Goud in voorraad, dan pak je er geen. Je mag meerdere Markpleinen afleggen, ook al wordt er maar 1 kaart van je vernietigd.",
+  "name": "Marktplein",
   "potcost": 0,
   "types": [
    "Action",
@@ -2609,22 +2609,22 @@
   ]
  },
  {
-  "cardset": "dark ages",
+  "cardset": "de donkere middeleeuwen",
   "cost": "5",
-  "description": "+ 1 Action\nName a card. Reveal cards from the top of your deck until you reveal a Victory card that is not the named card. Discard the other cards. Trash the Victory card and gain a Victory card costing up to 3 Coins more than it.",
-  "extra": " You can name any card, whether or not it is being used this game or is a Victory card. Then reveal cards from your deck until you reveal a Victory card that is not what you named. If you run out of cards, shuffle your discard pile and continue, without shuffling in the revealed cards. If you run out of cards with no cards left in your discard pile, stop there, discard everything, and nothing more happens. If you did find a Victory card that was not what you named, you discard the other revealed cards, trash the Victory card, and gain a Victory card costing up to 3 Coins more than the trashed card. The card you gain comes from the Supply and is put into your discard pile.",
-  "name": "Rebuild",
+  "description": "+ 1 Actie\nNoem de titel van een kaart. Toon kaarten van je trekstapel totdat je een overwinningskaart toont die niet de genoemde kaart is. Leg de andere getoonde kaarten af. Vernietig de betreffende overwinningskaart en pak een overwiningskaart die ten hoogste 3 Coins meer waard is dan de vernietigde kaart.",
+  "extra": " Je mag elke kaart noemen, ook al wordt deze in dit spel niet gebruikt of is het geen overwinningskaart. Toon kaarten van je trekstapel totdat je een overwinningskaart toont die je niet noemde. Raakt je trekstapel leeg, schud dan je aflegstapel (zonder de tot dan toe getoonde kaarten) en gebruik deze als nieuwe trekstapel. Is ook je aflegstapel leeg, leg dan alle getoonde kaarten af. Er gebeurt verder niets. Toon je een overwinningskaart die je noemde, leg dan alle getoonde kaarten af, vernietig de betreffende overwinningskaart en pak een overwinningskaart die ten hoogste 3 Coins meer waard is dan de vernietigde kaart. Pak deze uit de voorraad en leg hem op je aflegstapel.",
+  "name": "Wederopbouw",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "dark ages",
+  "cardset": "de donkere middeleeuwen",
   "cost": "5",
-  "description": "+ 2 Coins\nIf there are any cards in the trash costing from 3 Coins to 6 Coins, gain one of them. Otherwise, each other player reveals the top 2 cards of his deck, trashes one of them costing from 3 Coins to 6 Coins, and discards the rest.",
-  "extra": " If there is a card in the trash costing from 3 Coins to 6 Coins, you have to gain one of them; it is not optional. You can look through the trash at any time. The other players get to see what card you took. The gained card goes into your discard pile. Cards with Potion in the cost (from Alchemy) do not cost from 3 Coins to 6 Coins. If there was no card in the trash costing from 3 Coins to 6 Coins, you instead have each other player reveal the top 2 cards of his deck, trash one of them of his choice that costs from 3 Coins to 6 Coins (if possible), and discard the rest. Go in turn order, starting with the player to your left.",
-  "name": "Rogue",
+  "description": "+2 Coins\nAls er ten minste 1 kaart met een waarde van 3 Coins, 4 Coins, 5 Coins of 6 Coins in de stapel vernietigde kaarten is, pak er dan één van. Zo niet, dan toont iedere speler de bovenste 2 kaarten van zijn trekstapel. Hij vernietigt één van deze kaarten als deze 3 Coins, 4 Coins, 5 Coins of 6 Coins waard is en legt de rest af.",
+  "extra": " Zijn er kaarten in de stapel \"Vernietigde Kaarten\" die 3 Coins, 4 Coins, 5 Coins of 6 Coins waard zijn, dan moet je er één pakken. Je mag de stapel \"Vernietigde Kaarten\" op elk moment doorkijken. Laat de gekozen kaart aan de andere spelers zien en leg deze op de trekstapel. Kaarten die ten minste een Potion kosten, kunnen niet worden gepakt (deze zijn geen 3 Coins, 4 Coins, 5 Coins of 6 Coins waard). Zijn er geen kaarten in de stapel \"Vernietigde Kaarten\" die 3 Coins, 4 Coins, 5 Coins of 6 Coins waard zijn, dan moet iedere andere speler de bovenste 2 kaarten van zijn trekstapel tonen en er één naar zijn keuze vernietigen die 3 Coins, 4 Coins, 5 Coins of 6 Coins waard is (indien mogelijk0. Hij legt de rest van de kaarten af. Doe dit in beurtvolgorde, te beginnen met de speler links van je.",
+  "name": "Schurk",
   "potcost": 0,
   "types": [
    "Action",
@@ -2632,22 +2632,22 @@
   ]
  },
  {
-  "cardset": "dark ages",
+  "cardset": "de donkere middeleeuwen",
   "cost": "3",
-  "description": "+ 1 Buy\nDiscard any number of cards.\n+1 Card per card discarded.\nDiscard any number of cards.\n+ 1 Coins per card discarded the second time.",
-  "extra": " Discard any number of cards from your hand, and draw as many cards as you discarded. Then, discard any number of cards - which could include cards you just drew - and you get +1 Coins per card you discarded that time.",
-  "name": "Storeroom",
+  "description": "+ 1 Aanschaf\nLeg een aantal kaarten uit je hand af: +1 Kaart per afgelede kaart.\nLeg (opnieuw) een aantal kaarten af: +1 Coin per afgelegde kaart.",
+  "extra": " Leg zoveel kaarten uit je hand af als je wilt en trek er daarna evenveel van je trekstapel. Leg vervolgens zoveel kaarten af als je wilt (dat mogen ook zojuits getrokken kaarten zijn) en ontvang +1 Coins per (bij de tweede keer) afgelegde kaart.",
+  "name": "Berghok",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "dark ages",
+  "cardset": "de donkere middeleeuwen",
   "cost": "3",
-  "description": "+1 Card\n+1 Action\nEach other player discards down to 4 cards in hand.\n______________________\nWhen you play another Attack card with this in play, you may trash this.\nIf you do, gain a Mercenary from the Mercenary pile.",
-  "extra": " When you play this, you draw a card and get +1 Action, then each other player discards down to 4 cards in hand. Players who already have 4 or fewer cards in hand do not do anything. While Urchin is in play, when you play another Attack card, before resolving it, you may trash the Urchin. If you do, you gain a Mercenary. The Mercenary comes from the Mercenary pile, which is not in the Supply, and is put into your discard pile. If there are no Mercenaries left you do not gain one. If you play the same Urchin twice in one turn, such as via Procession, that does not let you trash it for a Mercenary. If you play two different Urchins however, playing the second one will let you trash the first one.",
-  "name": "Urchin",
+  "description": "+1 Kaart\n+1 Actie\nIedere andere speler legt handkaarten af totdat hij er 4 overheeft.\n______________________\nAls deze kaart in het spel is en je speelt een andere aanvalskaart, dan mag je de Straatjongen vernietigen. Doe je dat, pak dan een Huurling van de huurlingenstapel.",
+  "extra": " Bij het spelen van deze kaart trek je een kaart en krijg je +1 Actie. Daarna legt iedere andere speler kaarten uit zijn hand af totdat hij er 4 overheeft. Een speler die al 4 of minder kaarten in zijn hand heeft, doet niets. Speel je een aanvalskaart terwijl de Straatjongen in het spel is, dan mag je voordat je de gevolgen van de aanvalskaart afhandelt de Straatjongen vernietigen. Doe je dat, dan pak je een Huurling van de huurlingenstapel (die geen onderdeel van de voorraad is) en leg je deze op je aflegstapel. Zijn er geen Huurlingen in voorraad, dan pak je er geen. Speel je dezelfde Straatjongen tweemaal in één beurt (zoals bij de Optocht), dan mag je daardoor de Straatjongen niet vernietigen in ruil voor een Huurling. Speel je twee verschillende Straatjongens, dan zorgt de tweede ervoor dat je de eerste mag vernietigen.",
+  "name": "Straatjongen",
   "potcost": 0,
   "types": [
    "Action",
@@ -2655,33 +2655,33 @@
   ]
  },
  {
-  "cardset": "dark ages",
+  "cardset": "de donkere middeleeuwen",
   "cost": "4",
-  "description": "+1 Card\n+2 Actions\nReveal the top 3 cards of your deck.\nPut the Actions back on top in any order and discard the rest.",
-  "extra": " First draw a card, then reveal the top 3 cards of your deck, shuffling your discard pile if there are not enough cards in your deck. If there still are not enough after shuffling, just reveal what you can. Put the revealed Action cards on top of your deck in any order, and discard the other cards. A card with multiple types, one of which is Action, is an Action card. If you didn't reveal any Action cards, no cards will be put on top.",
-  "name": "Wandering Minstrel",
+  "description": "+1 Kaart\n+2 Acties\nToon de bovenste 3 kaarten van je trekstapel. Leg getoonde actiekaarten in een volgorde naar keuze terug op je trekstapel en leg de rest af.",
+  "extra": " Trek eerst een kaart en toon daarna de bovenste 3 kaarten van je trekstapel. Zijn er niet voldoende kaarten in je trekstapel, schud dan je aflegstapel (zonder de tot dan toe getoonde kaarten) en ga door. Zijn er dan nog altijd niet voldoende kaarten, toon er dan zoveel je kunt. Leg getoonde actiekaarten in een volgorde naar keuze terug op je trekstapel en leg de andere getoonde kaarten af. Een kaart van meerdere soorten waaronder Actie geldt als een actiekaart. Toon je geen actiekaarten, dan leg je geen kaarten terug op je trekstapel.",
+  "name": "Reizende Minstreel",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "dark ages",
+  "cardset": "de donkere middeleeuwen",
   "cost": "6",
-  "description": "+ 4 Cards\n______________________\nWhen you trash this,\ngain a Duchy or 3 Estates.",
-  "extra": " When you play this, draw 4 cards. If this is trashed, you either gain a Duchy or 3 Estates, your choice. These cards come from the Supply and are put into your discard pile. If you choose the 3 Estates and there are not 3 left, just gain as many as you can.",
-  "name": "Hunting Grounds",
+  "description": "+ 4 Kaarten\n______________________\nAls je deze kaart vernietigt, pak dan een Hertogdom of 3 Landgoederen.",
+  "extra": " Bij het spelen van deze kaart trek je 4 kaarten. Wordt een van je Jachtvelden vernietigd, dan pak je naar jouw keuze 1 Hertogdom of 3 Landgoederen. Pak deze uit de voorraad en leg ze op je aflegstapel. Kies je de Landgoederen en zijn er niet voldoende in voorraad, pak er dan zoveel je kunt.",
+  "name": "Jachtvelden",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "dark ages",
+  "cardset": "de donkere middeleeuwen",
   "cost": "0*",
-  "description": "You may trash 2 cards from your hand.\nIf you do, +2 Cards, + 2 Coins,\nand each other player discards down to 3 cards in hand.\n(This is not in the Supply.)",
-  "extra": " This card is not in the Supply; it can only be obtained via Urchin. When you play it, you may trash 2 cards from your hand. If you do, you draw two cards, get +2 Coins, and each other player discards down to 3 cards in hand. Players who already have 3 or fewer cards in hand do nothing. Players responding to this Attack with cards like Beggar must choose to do so before you decide whether or not to trash 2 cards from your hand. If you play this with only one card in hand, you may choose to trash that card, but then will fail the \"if you do\" and will not draw cards and so on. If the cards you trash do things when trashed, first trash them both, then choose what order to resolve the things they do when trashed.",
-  "name": "Mercenary",
+  "description": "Je mag 2 kaarten uit je hand vernietigen.\nDoe je dat: +2 kaarten, + 2 Coins en iedere andere speler moet handkaarten afleggen totdat hij er 3 overheeft.\n.(deze kaarten zijn geen onderdeel van de voorraad)",
+  "extra": " Deze kaart bevindt zich niet in de voorraad en kan uitsluitend via de straatjongen worden verkregen. Bij het spelen van deze kaart mag je 2 kaarten uit je hand vernietigen. Doe je dat, dan trek je 2 kaarten, krijg je +2 Coins en iedere andere speler moet zijn hand tot 3 kaarten reduceren. Spelers die op deze aanval willen reageren met kaarten zoals de Bedelaar moeten dat doen voordat jij bepaalt of je al dan niet 2 kaarten uit je hand vernietigt.",
+  "name": "Huurling",
   "potcost": 0,
   "types": [
    "Action",
@@ -2689,33 +2689,33 @@
   ]
  },
  {
-  "cardset": "dark ages",
+  "cardset": "de donkere middeleeuwen",
   "cost": "5",
-  "description": "+1 Action\n+ 2 Coins\nName a card.\nReveal the top card of your deck.\nIf it’s the named card, put it into your hand.",
-  "extra": " You get +1 Action and +2 Coins. Then name a card (\"Copper,\" for example - not \"Treasure\") and reveal the top card of your deck; if you named the same card you revealed, put the revealed card into your hand. If you do not name the right card, put the revealed card back on top. You do not need to name a card being used this game. Names need to match exactly for you to get the card; for example Sir Destry and Sir Martin do not match. You do not need to name a card available in the Supply.",
-  "name": "Mystic",
+  "description": "+1 Actie\n+ 2 Coins\nNoem een titel van een kaart.\nToon de bovenste kaart van je trekstapel. Is het de genoemde kaart, neem deze dan in je hand.",
+  "extra": " Je krijgt +1 Actie en +2 Coins. Noem daarna een kaart (bijvoorbeeld \"Koper\", dus geen \"Geld\") en toon de bovenste kaart van je trekstapel. Noem je de correcte kaart, neem de getoonde kaart dan in je hand. Zoniet, leg de getoonde kaart dan terug op je trekstapel. Je bent niet verplicht een titel te noemen die in dit spel wordt gebruikt. De titel moet precies kloppen om de kaart in je hand te krijgen (Sir Destry en Sir Martin zijn bijvoorbeeld niet gelijk). Je bent niet verplichtom een kaart te noemen die in voorraad is.",
+  "name": "Toverfeeks",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "dark ages extras",
+  "cardset": "de donkere middeleeuwen extras",
   "cost": "1",
   "description": "Hovel: When you buy a Victory card, you may trash this from your hand.\nNecropolis: +2 Actions\nOvergrown Estate: 0 <VP>; when you trash this, +1 Card.",
   "extra": " See Preparation. A shelter is never in the supply.  Hovel: When you buy a Victory card, if Hovel is in your hand, you may trash the Hovel. A card with multiple types, one of which is Victory, is a Victory card. You do not get anything for trashing Hovel; you just get to get rid of it.  Overgrown Estate: It is a Victory card despite being worth 0 Victory. If this is trashed, you draw a card, right then, even in the middle of resolving another card. For example, if you use Altar to trash Overgrown Estate, you first draw a card, then gain a card costing up to 5 Coins. This card does not give you a way to trash itself, it merely does something if you manage to trash it.  Necropolis: This is an Action card; when you play it, you get +2 Actions. ",
-  "name": "Shelters",
+  "name": "Onderdak",
   "potcost": 0,
   "types": [
    "Shelters"
   ]
  },
  {
-  "cardset": "dark ages extras",
+  "cardset": "de donkere middeleeuwen extras",
   "cost": "3",
-  "description": "Urchin: When you play this, you draw a card and get +1 Action, then each other player discards down to 4 cards in hand. Players who already have 4 or fewer cards in hand do not do anything. While Urchin is in play, when you play another Attack card, before resolving it, you may trash the Urchin. If you do, you gain a Mercenary. If there are no Mercenaries left you do not gain one. If you play the same Urchin twice in one turn, such as via Procession, that does not let you trash it for a Mercenary. If you play two different Urchins however, playing the second one will let you trash the first one.",
-  "extra": " Mercenary: This card is not in the Supply; it can only be obtained via Urchin. When you play it, you may trash 2 cards from your hand. If you do, you draw two cards, get +2 Coins, and each other player discards down to 3 cards in hand. Players who already have 3 or fewer cards in hand do nothing. Players responding to this Attack with cards like Beggar must choose to do so before you decide whether or not to trash 2 cards from your hand. If you play this with only one card in hand, you may choose to trash that card, but then will fail the \"if you do\" and will not draw cards and so on. If the cards you trash do things when trashed, first trash them both, then choose what order to resolve the things they do when trashed. ",
-  "name": "Urchin / Mercenary",
+  "description": "Straatjongen: Bij het spelen van deze kaart trek je een kaart en krijg je +1 Actie. Daarna legt iedere andere speler kaarten uit zijn hand af totdat hij er 4 overheeft. Een speler die al 4 of minder kaarten in zijn hand heeft, doet niets. Speel je een aanvalskaart terwijl de Straatjongen in het spel is, dan mag je voordat je de gevolgen van de aanvalskaart afhandelt de Straatjongen vernietigen. Doe je dat, dan pak je een Huurling van de huurlingenstapel (die geen onderdeel van de voorraad is) en leg je deze op je aflegstapel. Zijn er geen Huurlingen in voorraad, dan pak je er geen. Speel je dezelfde Straatjongen tweemaal in één beurt (zoals bij de Optocht), dan mag je daardoor de Straatjongen niet vernietigen in ruil voor een Huurling. Speel je twee verschillende Straatjongens, dan zorgt de tweede ervoor dat je de eerste mag vernietigen.",
+  "extra": " Huurling: Deze kaart bevindt zich niet in de voorraad en kan uitsluitend via de straatjongen worden verkregen. Bij het spelen van deze kaart mag je 2 kaarten uit je hand vernietigen. Doe je dat, dan trek je 2 kaarten, krijg je +2 Coins en iedere andere speler moet zijn hand tot 3 kaarten reduceren. Spelers die op deze aanval willen reageren met kaarten zoals de Bedelaar moeten dat doen voordat jij bepaalt of je al dan niet 2 kaarten uit je hand vernietigt. ",
+  "name": "Straatjongen / Huurling",
   "potcost": 0,
   "count": 0,
   "types": [
@@ -2723,11 +2723,11 @@
   ]
  },
  {
-  "cardset": "dark ages extras",
+  "cardset": "de donkere middeleeuwen extras",
   "cost": "3",
-  "description": "Hermit: When you play this, look through your discard pile, and then you may choose to trash a card that is not a Treasure, from either your hand or your discard pile. You do not have to trash a card and cannot trash Treasures. A card with multiple types, one of which is Treasure (such as Harem from Intrigue), is a Treasure. After trashing or not, you gain a card costing up to 3 Coins. The card you gain comes from the Supply and is put into your discard pile. Gaining a card is mandatory if it is possible. Then, when you discard Hermit from play - normally, in Clean-up, after playing it in your Action phase - if you did not buy any cards this turn, you trash Hermit and gain a Madman. It does not matter whether or not you gained cards other ways, only whether or not you bought a card. If there are no Madman cards left, you do not gain one. If Hermit is not discarded from play during Clean-up - for example, if you put it on your deck with Scheme (from Hinterlands) - then the ability that trashes it will not trigger.",
-  "extra": " Madman: This card is not in the Supply; it can only be obtained via Hermit. When you play it, you get +2 Actions, return it to the Madman pile if you can (this is not optional), and if you did return it, you draw a card per card in your hand. For example if you had three cards in hand after playing Madman, you would draw three cards. Normally, nothing will prevent you from returning Madman to the Madman pile, but you may fail to due to playing Madman twice via Procession, Throne Room (from Dominion), or King's Court (from Prosperity). So, for example, if you Procession a Madman, you will get +2 Actions, return Madman to the Madman pile, draw a card per card in your hand, get another +2 Actions, fail to return Madman and so not draw cards the second time, fail to trash Madman, and then gain an Action card costing exactly 1 Coin if you can. ",
-  "name": "Hermit / Madman",
+  "description": "Kluizenaar: Bij het spelen van deze kaart bekijk je je aflegstapel. Daarna mag je 1 kaart (geen geldkaart) uit je hand of je aflegstapel vernietigen. Dit is niet verplicht. Een kaart van meerdere soorten waaronder Geld (zoals Harem uit Dominion Intrige) geldt als een geldkaart. Ongeacht het voorgaande pak je een kaart met een waarde van ten hoogste 3 Coins. Pak deze uit de voorraad en leg hem op je aflegstapel. Het pakken van de kaart is verplicht, mits mogelijk. Als je de Kluizenaar, nadat je deze gespeeld hebt, in de opschoonfase aflegt en je hebt deze beurt geen kaarten gekocht, vernietig dan de Kluizenaar en pak een Krankzinnige. Pak de Krankzinnige van de stapel Krankzinnigen, die geen onderdeel is van de voorraad, en leg deze op je aflegstapel. Het is niet van belang of je al dan niet op andere manieren kaarten hebt gepakt, het gaat alleen om het al dan niet kopen van een kaart. Zijn er geen Krankzinnigen in voorraad, dan pak je er geen. Wordt de Kluizenaar op een ander moment dan de opschoonfase afgelegd (je legt hem bijvoorbeeld op je trekstapel met een Gekonkel uit Dominion: Het Achterland), dan wordt de vernietigeigenschap niet geactiveerd.",
+  "extra": " Krankzinnige: Deze kaart bevindt zich niet in de voorraad en kan uitsluitend via de Kluizenaar worden verkregen. Speel je de Krankzinnige, dan krijg je +2 acties en moet je hem op de stapel Krankzinningen terugleggen indien mogelijk (dit is verplicht). Lukt dat, dan trek je een kaart voor elke kaart in je hand. Voorbeeld: je hebt 3 kaarten in je hand na het spelen van de Krankzinnige. Je trekt nu 3 kaarten. Normaal gesproken houdt niets je tegen om de Krankzinnige terug op de stapel te leggen, maar dit zou kunnen mislukken bij meermaals gebruik als gevolg van een Optocht, Troonzaal (uit Dominion basisspel) of Koningshof (uit Dominion: Welvaart). Voorbeeld: Als je een Optocht op een Krankzinnige speelt, krijg je +2 Acties. Je legt de Kranzinnige terug op de stapel Krankzinnigen en trekt een kaart voor elke kaart in je hand. Vervolgens krijg je opnieuw +2 Acties, maar je kunt de Krankzinnige niet terug op de stpel Krankzinnigen leggen, dus je trekt geen kaarten. Je kunt de Krankzinnige ook niet vernietigen. Tot slot pak je een kaart met een waarde van ten hoogste 1 Coin indien mogelijk. ",
+  "name": "Kluizenaar / Krankzinnige",
   "potcost": 0,
   "count": 0,
   "types": [
