@@ -2735,109 +2735,109 @@
   ]
  },
  {
-  "cardset": "guilds",
+  "cardset": "gilden",
   "cost": "4",
-  "description": "+1 Action\nReveal the top 3 cards of your deck.  The player to your left chooses one of them.  Discard that card.  Put the other cards into your hand.",
-  "extra": " If there are not three cards in your deck, reveal what you can, then shuffle your discard pile into your deck to get the other cards. If there still are not enough, just reveal what you can. No matter how many you revealed, the player to your left chooses one for you to discard, and the remaining cards go into your hand. ",
-  "name": "Advisor",
+  "description": "+1 Actie\nToon de bovenste 3 kaarten van je trekstapel. Je linkerbuurman kiest er één van. Leg die kaart af. Neem de andere kaarten in je hand.",
+  "extra": " Bevat je trekstapel minder dan 3 kaarten, toon dan zoveel je kunt, schud daarna je aflegstapel (zonder de tot dan toe getoonde kaarten) en vorm daarmee je nieuwe trekstapel. Toon nu de resterende kaarten. Zijn er nog altijd niet voldoende kaarten, toon dan zoveel je kunt. Ongeacht het aantal getoonde kaarten, kiest je linkerbuurman er één. Deze leg je af, de andere getoonde kaarten neem je in je hand. ",
+  "name": "Adviseur",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "guilds",
+  "cardset": "gilden",
   "cost": "5",
-  "description": "+1 Card\n+1 Action\nTake a Coin token.\n______________________\nSetup: Each player takes a Coin token.",
-  "extra": " When you play this, you draw a card, get +1 Action, and take a Coin token. In games using this card, each player starts the game with a Coin token. This includes games using the promo card Black Market in which Baker is in the Black Market deck. ",
-  "name": "Baker",
+  "description": "+1 Kaart\n+1 Actie\nNeem 1 munt.\n______________________\nVoorbereiding: iedere speler krijgt 1 munt.",
+  "extra": " Bij het spelen van deze kaart trek je 1 kaart, krijg je +1 Actie en neem je 1 munt. In een spel met deze kaart krijgt iedere speler aan het begin van het spel 1 munt. ",
+  "name": "Bakker",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "guilds",
+  "cardset": "gilden",
   "cost": "5",
-  "description": "Take two Coin tokens.  You may trash a card from your hand and then pay any number of Coin tokens.  If you did trash a card, gain a card with a cost of up to the cost of the trashed card plus the number of Coin tokens you paid.",
-  "extra": " First take two Coin tokens. Then you may trash a card from your hand and pay any number of Coin tokens (returning them to the pile). The number of Coin tokens you pay can be zero. Butcher itself is no longer in your hand and so cannot trash itself (though it can trash another copy of Butcher). If you trashed a card, you gain a card costing up to the cost of the trashed card plus the number of Coin tokens you paid. For example, you could trash an Estate and pay six Coin tokens to gain a Province, or you could trash another Butcher and pay zero Coin tokens to gain a Duchy. You can pay the Coin tokens you just got. Paying Coin tokens for this ability does not get you coins to spend, it just changes what cards you can gain with this ability. ",
-  "name": "Butcher",
+  "description": "Neem 2 munten. Je mag een kaart uit je hand vernietigen en daarna zoveel munten betalen als je wilt. Heb je een kaart vernietigd, dan pak je een kaart met een waarde die gelijk is aan de waarde van je vernietigde kaart plus het aantal door jou betaalde munten.",
+  "extra": " Neem eerst 2 munten. Daarna mag je een kaart uit je hand vernietigen en zoveel munten in de voorraad terugleggen als je wilt. Dit aantal mag 0 zijn. De gespeelde Slager is geen onderdeel meer van je hand en kan niet vernietigd worden (een andere slager in je hand wel). Heb je een kaart vernietigd, dan pak je een kaart die maximaal zoveel waard is als de vernietigde kaart plus het aantal betaalde munten. Het is toegestaan om de met deze kaart ontvangen munten direct uit te geven. De op deze manier uitgegeven munten kun je niet gebruiken om in de aancshaffase kaarten te kopen. ",
+  "name": "Slager",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "guilds",
+  "cardset": "gilden",
   "cost": "2",
-  "description": "+1 Action\n+1 Buy\nTake a Coin token.",
-  "extra": " You get +1 Action and +1 Buy, and take a Coin token. ",
-  "name": "Candlestick Maker",
+  "description": "+1 Actie\n+1 Aanschaf\nNeem 1 munt.",
+  "extra": " Je kijgt +1 Actie en +1 Aanschaf, en je neemt 1 munt. ",
+  "name": "Kandelaarmaker",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "guilds",
+  "cardset": "gilden",
   "cost": "3+",
-  "description": "Name a card.  Reveal the top 3 cards of your deck.  Trash the matches.  Put the rest back on top in any order.\n______________________\nWhen you buy this, you may overpay for it.  For each 1 Coin you overpaid, look at the top card of your deck; trash it, discard it, or put it back.",
-  "extra": " When you play this, you name a card, reveal the top three cards of your deck, trash each of those cards that has that name, and put the other cards back on your deck in any order. You do not have to name a card being used this game. If there are fewer than three cards left in your deck, reveal the remaining cards, and shuffle your discard pile (which does not include those cards) to get the remainder needed to reveal. If there are still not enough cards, just reveal as many as you can. When you buy this, for each extra 1 Coin you pay over the cost, you look at the top card of your deck, and either trash it, discard it, or put it back on top. If there are no cards left in your deck, shuffle your discard pile into your deck (including any cards already discarded to this overpay ability this turn), and if there still are no cards in it, you do not look at one. If you overpay more than 1 Coin, you may do different things for each card you look at, and you will look at the same card again if you put it back on top. For example if you bought Doctor for 7 Coins, you would look at the top card four times; you might end up first trashing a Copper, then discarding a Province, then putting a Silver back on top, then putting that Silver back on top again. ",
-  "name": "Doctor",
+  "description": "Noem een kaart. Toon de bovenste 3 kaarten vn je trekstapel en vernietig de genoemde kaarten. Leg andere getoonde kaarten naar believen op je trekstapel terug.\n______________________\nAls je deze kaart koopt, mag je ervoor overbetalen. Voor elke 1 Coin die je méér betaalt, bekijk je de bovenste kaart van je trekstapel: leg deze af, vernietig hem of leg hem op je trekstapel terug.",
+  "extra": " Bij het spelen van deze kaart noem je een kaart, toon je de bovenste 3 kaarten van je trekstapel, vernietig je elk van de getoonde kaarten met de genoemde titel en leg je de resterende getoonde kaarten in een volgorde naar keuze terug op je trekstapel. Het is niet verplicht om een titel te noemen die in dit spel wordt gebruikt. Bevat je trekstapele minder dan 3 kaarten, toon dan zoveel je kunt, schud daarna je aflegstapel (zonder de tot dan toe getoonde kaarten) en vorm daarme je nieuwe trekstapel. Toon nu de resterende kaarten. Zijn er nog altijd niet voldoende kaarten, toon dan zoveel je kunt. Als je de Arts koopt, bekijk je voor elke 1 Coin die je meer betaalt dan de kosten, de bovenste kaart van je trekstapel. Deze vernietig je, leg je af of leg je terug op je trekstapel. Is je trekstapel leeg, schud dan de aflegstapel (inclusief door deze overbetaling afgelegde kaarten) en gebruik deze als nieuwe trekstapel. Is deze ook leeg, dan kun je geen kaarten meer bekijken. Betaal je meer dan 1 Coin, dan mag je voor elke kaart die je bekijkt een andere actie kiezen. Leg je een kaart terug op je trekstapel, dan bekijk je dezelfde kaart nogmaals. ",
+  "name": "Arts",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "guilds",
+  "cardset": "gilden",
   "cost": "4+",
-  "description": "+1 Card\n+1 Action\nReveal the top card of your deck.  If it is an Action, play it.\n______________________\nWhen you buy this, you may overpay for it.  For each 1 Coin you overpaid, look through your discard pile and put a card from it on top of your deck.",
-  "extra": " When you play this, first draw a card and get +1 Action, then reveal the top card of your deck. If it is an Action card, play it; this is not optional. Playing the Action card does not \"use up\" one of your Action plays for the turn. Cards with multiple types, one of which is Action (such as Great Hall from Dominion: Intrigue), are Action cards. If Herald plays a Duration card (from Dominion: Seaside), the Herald is still discarded normally at end of turn, as it is not needed to track anything. When you buy this, you put one card from your discard pile on top of your deck for each extra 1 Coin you pay over the cost. For example, if you buy Herald for 6 Coins, you will put two cards from your discard pile on top of your deck. This card lets you look through your discard pile; normally you cannot. You cannot look through your discard pile first to see how much you want to overpay, and once you overpay you must put the appropriate number of cards on top of your deck if possible. If you overpay enough to put more cards on your deck than there are cards in your discard pile, you just put all of your discard pile onto your deck. You may not look through your discard pile if you buy Herald without overpaying for it. When you put multiple cards on your deck due to overpaying for a Herald, put them on your deck in any order. ",
-  "name": "Herald",
+  "description": "+1 Kaart\n+1 Actie\nToon de bovenste kaart van je trekstapel. Is het een actiekaart, speel deze dan.\n______________________\nAls je deze kaart koopt, mag je er voor overbetalen. Voor elke 1 Coin die je meer betaalt, kies je een kaart uit je aflegstapel, die je op je trekstapel legt.",
+  "extra": " Bij het spelen van deze kaart trek je 1 kaart en krijg je +1 Actie. Daarna toon je de bovenste kaart van je trekstapel. Is dit een actiekaart, dan moet je deze spelen. Het spelen ervan kost je echter geen van je in deze beurt beschikbare acties. Gecombineerde kaarten waarvan een van de soorten Actie is, gelden als actiekaarten (zoals de Grote Zaal uit Dominion Intrige). Is de als gevolg van de Heraut gespeelde kaart een duurzame kaart (uit Dominion: Hijs de Zeilen!), dan wordt de Heraut in de opschoonfase zoals gebruikelijk afgelegd. Als je deze kaart koopt, leg je voor elke 1 Coin die je meer betaalt dan de kosten ervan 1 kaart uit je aflegstapel op je trekstapel. Deze kaart staat je toe om je aflegstapel door te kijken, iets dat normaal gesproken niet mag. Je mag niet eerst je aflegstapel doorkijken en dan beslissen hoeveel je overbetaalt. Nadat je hebt overbetaald, moet je het betreffende aantal kaarten op je trekstapel leggen, indien mogelijk. Betaal je meer over dan je kaarten in je aflegstapel hebt, dan leg je alle kaarten uit je aflegstapel op je trekstapel. Betaal je niet over, dan mag je je aflegstapel niet doorkijken. Mag je als gevolg van overbetaling meer dan 1 kaart uit je aflegstapel op je trekstapel leggen, dan bepaal je zelf de volgorde. ",
+  "name": "Heraut",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "guilds",
+  "cardset": "gilden",
   "cost": "5",
-  "description": "Name a card.  Reveal cards from the top of your deck until you reveal 3 cards that are not the named card.  Put those cards into your hand and discard the rest.",
-  "extra": " This draws you three cards that are not a particular card. First name a card. It does not have to be a card being used this game. Then reveal cards from the top of your deck until you have revealed three cards that are not the named card. If you run out of cards without finding three, shuffle your discard pile into your deck and continue. If you still cannot find three, stop. Put the cards you found that were not the named card into your hand and discard the rest. ",
-  "name": "Journeyman",
+  "description": "Noem een kaart. Toon kaarten van je gedekte stapel totdat je 3 niet genoemde kaarten hebt getoond. Neem deze in je hand en leg de resterende kaarten af.",
+  "extra": " noem eerst een kaart. Dit hoeft geen titel te zijn die in het spel is. Toon daarna kaarten van je trekstapel totdat je 3 kaarten gevonden hebt die je niet hebt genoemd. Raakt je trekstapel tijdens het tonen leeg, schud dan je aflegstapel, vorm daarmee een nieuwe trekstapel en vervolg het tonen. Heb je dan nog altijd geen 3 kaarten gevonden, stop dan. Neem de niet genoemde getoonde kaarten in je hand en leg de resterende getoonde kaarten af. ",
+  "name": "Gezel",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "guilds",
+  "cardset": "gilden",
   "cost": "3+",
-  "description": "Worth 1 Coin.\n______________________\nWhen you buy this, you may overpay for it.  If you do, gain a Silver per 1 Coin you overpaid.",
-  "extra": " This is a Treasure worth 1 Coin, like Copper. When you buy it, you gain a Silver for each extra 1 Coin you pay over the cost. For example, if you buy a Masterpiece for 6 Coins, you gain three Silvers. ",
-  "name": "Masterpiece",
+  "description": "1 Coin.\n______________________\nAls je deze kaart koopt, mag je er voor overbetalen. Voor elke 1 Coin die je meer betaald, pak je 1 Zilver.",
+  "extra": " Deze geldkaart is 1 Coin waard, net als Koper. Als je een Meesterwerk koopt, pak je voor elke 1 Coin die je meer betaalt dan de kostern ervan 1 Zilver. ",
+  "name": "Meesterwerk",
   "potcost": 0,
   "types": [
    "Treasure"
   ]
  },
  {
-  "cardset": "guilds",
+  "cardset": "gilden",
   "cost": "5",
-  "description": "+1 Buy\n+1 Coin\n______________________\nWhile this is in play, when you buy a card, take a Coin token.",
-  "extra": " When you play this, you get +1 Buy and +1 Coin. While this is in play, any time you buy a card you also take a Coin token. Remember that you may only spend Coin tokens prior to buying cards, so you will not be able to immediately spend that Coin token. This ability is cumulative; if you have two Merchant Guilds in play, each card you buy will get you two Coin tokens. However if you play a Merchant Guild multiple times but only have one in play, such as with Throne Room (from Dominion) or King's Court (from Dominion: Prosperity), you will only get one Coin token when you buy a card. ",
-  "name": "Merchant Guild",
+  "description": "+1 Aanschaf\n+1 Coin\n______________________\nZolang deze kaart in het spel is, neem je elke keer dat je een kaart koopt 1 munt.",
+  "extra": " Bij het spelen van deze kaaart ktijg je +1 Aanschaf en +1 Coin. Zolang deze kaart in het spel is, neem je elke keer dat je een kaart koopt 1 munt. Onthoud dat je munten uitsluitend kunt spenderen vóórdat je kaarten koopt, dus munten die je als gevolg van het Koopmansgilde neemt, kun je in deze beurt niet gebruiken. Deze eigenschap is cumulatief: heb je bijvoorbeeld 2 Koopmans, dan neem je voor elke kaart die je koopt 2 munten. Speel je het Koopmansgilde echter meermaals, maar heb je er maar 1 in het spel (zoals bij de Troonzaal uit het basisspel of het Koningshof uit Dominion: Welvaart), dan neem je voor elke kaart die je koopt 1 munt. ",
+  "name": "Koopmansgilde",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "guilds",
+  "cardset": "gilden",
   "cost": "4",
-  "description": "+1 Card\n+2 Actions\nYou may discard a Treasure card.  If you do, take a Coin token.",
-  "extra": " First you draw a card and get +2 Actions; then you may discard a Treasure. You can discard the card you drew if it is a Treasure. If you discarded a Treasure card, you take a Coin token. Cards with multiple types, one of which is Treasure (such as Harem from Dominion: Intrigue), are Treasures. ",
+  "description": "+1 Kaart\n+2 Acties\nJe mag 1 geldkaart afleggen. Doe je dat, neem je 1 munt.",
+  "extra": " Trek eerst 1 kaart en ontvang +2 Acties. Daarna mag je een geldkaart afleggen. Je mag de zojuist getrokken kaart afleggen als het om een geldkaart. Leg je een geldkaart af, dan neem je 1 munt. Gecombineerde kaarten waarvan een van de soorten Geld is (zoals Harem uit Dominion Intrige), gelden als geldkaarten. ",
   "name": "Plaza",
   "potcost": 0,
   "types": [
@@ -2845,11 +2845,11 @@
   ]
  },
  {
-  "cardset": "guilds",
+  "cardset": "gilden",
   "cost": "5",
-  "description": "Gain a Gold.  Each other player gains a Curse.  Each player who did draws a card.",
-  "extra": " The Gold and Curses come from the Supply and go into discard piles. If there is no Gold left, you do not gain one. If there are not enough Curses left to go around, deal them out in turn order, starting with the player to your left. Each player who gained a Curse draws a card. This is not optional. A player who did not gain a Curse, whether due to the Curses running out or due to some other reason, does not draw a card. A player who uses Watchtower (from Dominion: Prosperity) to trash the Curse did gain a Curse and so draws a card; a player who uses Trader (from Dominion: Hinterlands) to gain a Silver instead did not gain a Curse and so does not draw a card. ",
-  "name": "Soothsayer",
+  "description": "Pak 1 Goud. Iedere andere speler pakt 1 Vloek. Iedere speler die dit deed, trekt 1 kaart.",
+  "extra": " Het Goud en de Vloeken komen uit de voorraad en worden op aflegstapels gelegd. Is er geen Goud in voorraad, dan pak je er geen. Zijn er niet voldoende Vloeken voor alle andere spelers, dan pakt eerst je linkerbuurman er één, gevolgd door zijn linkerbuurman, enzovoort, totdat ze op zijn. Iedere speler die een Vloek pakt, moet een kaart trekken. Een speler die de Uitkijktoren (uit Dominion: Welvaart) gebruikt om de Vloek te vernietigen, heeft een Vloek gepakt en moet een kaart trekken. Een speler die de Handelaar (uit Dominion: Achterland) gebruikt om in plaats vna een Vloek een Zilver te pakken, heeft geen Vloek gepakt en trekt dus geen kaart. ",
+  "name": "Helderziende",
   "potcost": 0,
   "types": [
    "Action",
@@ -2857,22 +2857,22 @@
   ]
  },
  {
-  "cardset": "guilds",
+  "cardset": "gilden",
   "cost": "2+",
-  "description": "Trash a card from your hand.  Gain 2 cards each costing less than it.\n______________________\nWhen you buy this, you may overpay for it.  If you do, gain 2 Action cards each costing the amount you overpaid.",
-  "extra": " When you play this, trash a card from your hand, and gain two cards, each costing less than the card you trashed. Trashing a card is not optional. If you do not have any cards left in your hand to trash, you do not gain any cards. The two cards you gain can be different or the same. For example you could trash a Gold to gain a Duchy and a Silver. Gaining cards is not optional if you trashed a card. The gained cards come from the Supply and are put into your discard pile; if there are no cheaper cards in the Supply (for example if you trash a Copper), you do not gain any. If there is only one card in the Supply cheaper than the trashed card, you gain that one. The cards you gain are gained one at a time; this may matter with cards that do something when gained, such as Inn from Dominion: Hinterlands. When you buy this, you may choose to overpay for it. If you do, you gain two Action cards each costing exactly the amount you overpaid. The Action cards can be different or the same. For example, if you buy Stonemason for 6 Coins, you could gain two Heralds. The Action cards come from the Supply and are put into your discard pile. If there are no cards with the appropriate cost in the Supply, you do not gain one. Overpaying with a Potion (from Dominion: Alchemy) will let you gain cards with Potion in the cost. Cards with multiple types, one of which is Action (such as Great Hall from Dominion: Intrigue), are Action cards. If you choose not to overpay, you will not gain any cards from that ability; it is not possible to use it to gain Action cards costing 0 Coins. ",
-  "name": "Stonemason",
+  "description": "Vernietig een kaart uit je hand. Pak 2 kaarten die elk minder waard zijn dan de vernietigde kaart.\n______________________\nAls je deze kaart koopt, mag je er voor overbetalen. Doe je dat, pak dan 2 kaarten die elk zoveel waard zijn als het teveel betaalde bedrag.",
+  "extra": " Bij het spelen van deze kaart moet je 1 kaart uit je hand vernietigen indien mogelijk, en pak je 2 kaarten die elk minder kosten dan de vernietigde kaart. Heb je geen kaarten in je hand om te vernietigen, dan vernietig je niets en pak je ook geen kaarten. Je mag 2 gelijke of 2 verschillende kaarten pakken. Als je een kaart vernietigt, moet je 2 kaarten pakken. Gepakte kaarten komen uit de voorraad en gaan naar de aflegstapel. Zijn er geen goedkopere kaarten in voorraad dan vernietigde kaart (als je bijvoorbeeld een Koper vernietigt), dan pak je niets. Is er maar 1 goedkopere kaart in voorraad, dan pak je uitsluitend die. Pak de kaarten één voor één. Dat kan van belang zijn bij kaarten die iets doen als ze worden gepakt, zoals de Herberg uit Dominion: Achterland. ALs je de Steenhouwer koopt, mag je overbetalen. DOe je dat, dan pak je 2 actiekaarten die elk precies zoveel kosten als het bedrag dat je overbetaalde. Je mag gelijke of verschillende actiekaarten pakken. Pak actiekaarten uit de voorraad en leg deze op je aflegstapel. Zijn er geen kaarten met de betreffende kosten in de voorraad, dan pak je niets. Betaal je over met een Potion (uit Dominion: Alchemisten), dan mag je kaarten met een Potion in de kosten pakken. Gecombineerde kaarten waarvan een van de soorten Actie is (zoals de Grote Zaal uit Dominion Intrige), gelden als actiekaarten. Betaal je niet over, dan pak je geen kaarten als gevolg van deze eigenschap. Je mag in dat geval dus geen kaarten met waarde 0 Coins pakken. ",
+  "name": "Steenhouwer",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "guilds",
+  "cardset": "gilden",
   "cost": "4",
-  "description": "You may trash a Treasure from your hand.  Each other player with 5 or more cards in hand discards a copy of it (or reveals a hand without it).  Gain a Treasure card costing up to 3 Coins more than the trashed card, putting it on top of your deck.",
-  "extra": " You may trash a Treasure card from your hand. This is optional. Cards with multiple types, one of which is Treasure (like Harem from Dominion: Intrigue), are Treasures. If you do trash a Treasure, each other player with at least five cards in hand discards a copy of it from her hand if she can, or reveals a hand with no copies of it, and you gain a Treasure costing up to 3 Coins more than the trashed Treasure, putting it on top of your deck. If there are no cards in your deck, it becomes the only card in your deck. You do not have to gain a more expensive Treasure; you may gain a Treasure with the same cost, or a cheaper Treasure. You have to gain a card if you trashed one though, if possible. The gained Treasure comes from the Supply. ",
-  "name": "Taxman",
+  "description": "Je mag een geldkaart uit je hand vernietigen. Iedere andere speler met een hand van 5 of meer kaarten legt 1 exemplaar van de vernietigde kaart af (of laat zien dat hij deze niet heeft). Pak een geldkaart die maximaal 3 Coins meer waard is dan de vernietigde kaart en leg deze op je trekstapel.",
+  "extra": " Je mag een geldkaart uit je hand vernietigen. Gecombineerde kaarten waarvan een van de soorten Geld is (zoals Harem uit Dominion Intrige), gelden als geldkaarten. Vernietig je een geldkaart, dan moet iedere andere speler met ten minste 5 handkaarten 1 exemplaar van de vernietigde kaart afleggen indien mogelijk, of zijn hand tonen als hij geen exemplaar heeft. Jij pakt een geldkaart die maximaal 3 Coins meer kost dan de vernietigde kaart en legt deze op je trekstapel. Is je trekstapel leeg, dan wordt dit de enige kaart van je trekstapel. Je bent niet verplicht om een duurdere geldkaart te pakken, je mag ervoor kiezen om een gelijke of een goedkopere te pakken. Als je een geldkaart vernietigt, moet je een nieuwe geldkaart pakken. Gepakte geldkaarten komen uit de voorraad. ",
+  "name": "Belastinginner",
   "potcost": 0,
   "types": [
    "Action",
