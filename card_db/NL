@@ -2880,10 +2880,10 @@
   ]
  },
  {
-  "cardset": "adventures",
+  "cardset": "advonturen",
   "cost": "3",
-  "description": "Now and at the start of your next turn, choose one: +1 Coin; or trash a card from your hand; or gain a Silver.",
-  "extra": " You choose something when you play it, and again at the start of your next turn; the choices may be the same or different. ",
+  "description": "Kies nu en aan het begin van je volgende beurt één van de volgende: +1 Coin; of vernietig 1 kaart uit je hand; of pak 1 Zilver.",
+  "extra": " Kies iets bij het spelen van deze kaart en aan het begin van je volgende beurt opnieuw. De keuzes mogen gelijk of verschillend zijn. ",
   "name": "Amulet",
   "potcost": 0,
   "types": [
@@ -2892,22 +2892,22 @@
   ]
  },
  {
-  "cardset": "adventures",
+  "cardset": "advonturen",
   "cost": "5",
-  "description": "+1 Card\n+1 Action\n+1 Coin\nDiscard any number of cards. You may gain a card costing exactly 1 Coin per card discarded, putting it on top of your deck.",
-  "extra": " First you get +1 Card, +1 Action, and + Coin . Then you discard any number of cards. You may choose not to discard any cards. Then you may gain a card costing exactly 1 per card discarded. For example if you discarded two cards; you may gain a card costing 2 ; if you discard no cards, you may gain a card costing 0. The gained card comes from the Supply and is put on top of your deck. You may choose not to gain a card, even if you discard cards. ",
-  "name": "Artificer",
+  "description": "+1 Kaart\n+1 Actie\n+1 Coin\nLeg zoveel kaarten af als je wilt. Je mag 1 kaart pakken die zoveel waard is als het aantal afgelegde kaarten. Leg de gepakte kaart op je trekstapel.",
+  "extra": " Je krijgt eerst +1 Kaart, +1 Actie en +1 Coin. Daarna leg je zoveel kaarten af als je wilt. Dat mogen er ook 0 zijn. Je pakt dan een kaart met een waarde die gelijk is aan het aantal afgelegde kaarten. Leg je geen kaarten af, dan mag je een kaart pakken die 0 Coins kost. Pak de kaart uit de voorraad en leg deze op je gedekte stapel. Je mag ervoor kiezen geen kaart te pakken, ook al leg je kaarten af. ",
+  "name": "Kanonnengieter",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "adventures",
+  "cardset": "advonturen",
   "cost": "5",
-  "description": "Each other player takes his -1 Coin token. Now and at the start of your next turn:\n+1 Buy\n______________________\nWhile this is in play, cards cost 1 Coin less on your turn, but not less than 0 Coins.",
-  "extra": " This gives each other player his - 1 Coin token, which will cause those players to get 1 Coin less the next time they get treasure; see the Tokens section. It also gives you +1 Buy both on the turn you play it and on your next turn. While Bridge Troll is in play, on your turns only, cards cost 1 Coin less, but not less than 0 Coins. This applies to all cards everywhere, including cards in the Supply, cards in hand, and cards in Decks. For example if you have Bridge Troll in play and play Raze, trashing Estate, Estate will only cost 1 Coin, so you'll only look at one card rather than two. This is cumulative; if you have two Bridge Trolls in play from last turn and play another Bridge Troll this turn, all cards will cost 3 Coins less this turn (to a minimum of 0 Coins). ",
-  "name": "Bridge Troll",
+  "description": "Iedere andere speler neemt zijn -1 Coin fiche. Nu en aan het begin van je volgende beurt:\n+1 aanschaf\n______________________\nZolang deze kaart in het spel is, kosten kaarten je in jouw beurt 1 Coin minder, maar nooit minder dan 0 Coin.",
+  "extra": " Deze kaart geeft iedere andere speler zijn -1 Coin-fiche (zie \"Fiches\" in de spelregels). Daarnaast krijg je +1 Aanschaf in de beurt dat je de Brugtrol speelt en in je volgende beurt. Zolang je de Brugtrol in het spel hebt, kosten kaarten jou in je eigen beurt 1 Coin minder, maar niet minder dan 0 Coins. Dit geldt voor alle kaarten, waaronder kaarten in de voorraad, handkaarten en kaarten in je stapels. Brugtrollen zijn cumulatief. ",
+  "name": "Brugtrol",
   "potcost": 0,
   "types": [
    "Action",
@@ -2916,11 +2916,11 @@
   ]
  },
  {
-  "cardset": "adventures",
+  "cardset": "advonturen",
   "cost": "3",
-  "description": "+1 Card\n+1 Action\nAt the start of your next turn, +1 Coin\n______________________\nWhen another player plays an Attack card, you may play this from your hand. (+1 Action has no effect if it's not your turn.)",
-  "extra": " This gives you +1 Card and +1 Action when you play it, and then + 1 Coin at the start of your next turn after that. This card has a Reaction ability that lets you play it when another player plays an Attack card. Playing this during another player's turn is similar to playing it during your own turn - you put Caravan Guard into play, get +1 Card and +1 Action, and will get + 1 Coin at the start of your next turn - the very next turn you take. However getting +1 Action during someone else's turn does not do anything for you; it does not let you play other Action cards during that player’s turn. Similarly if a token gives you + 1 Coin or +1 Buy during another player's turn, that still does not let you buy cards during that player’s turn (although + 1 Coin can cancel the - token given out by Bridge Troll). The +1 Action (or potential other +'s) does not carry over to your next turn either. After reacting with a Caravan Guard, you can use another one, even one you just drew, and also can use other Reactions, even ones you just drew; you keep going until you have no more Reactions you wish to respond to the Attack with. ",
-  "name": "Caravan Guard",
+  "description": "+1 Kaart\n+1 Actie\nAan het begin van je volgende beurt: +1 Coin\n______________________\nAls een andere speler een aanvalskaart speelt mag je deze kaart uit je hand spelen. (+1 Actie heeft geen effect als het niet jouw beurt is.)",
+  "extra": " Deze kaart geeft je bij het spelen ervan +1 Kaart en +1 Actie, en +1 Coin aan het begin van je volgende beurt. Deze kaart is van de soort \"Reactie\", waardoor je de kaart direct mag spelen als een andere speler een aanvalskaart speelt. Speel je deze kaart in de beurt van een andere speler, dan mag je de extra kaart trekken, maar niet de extra actie uitvoeren. Je krijgt aan het begin van jouw volgende beurt +1 Coin. Belangrijk: krijg je in een beurt van een andere speler zaken die uitsluitend in je eigen beurt mag gebruiken, zoals bijvoorbeeld +1 Actie, +1 Aanschaf of een +1 Coin-fiche, dan vervallen deze (je kunt het voordeel niet naar je volgende beurt meenemen). Met +1 Coin mag je wel een -1 Coin-fiche dat je via een Brugrol hebt gekregen verwijderen. Na het reageren met de Karavaanescorte mag je nog meer reactiekaarten spelen als je dat wilt, ook ractiekaarten die je juist hebt getrokken. ",
+  "name": "Karavaanescorte",
   "potcost": 0,
   "types": [
    "Action",
@@ -2929,11 +2929,11 @@
   ]
  },
  {
-  "cardset": "adventures",
+  "cardset": "advonturen",
   "cost": "3",
-  "description": "+1 Action\nNow and at the start of your next turn: +2 Cards then discard 2 cards.",
-  "extra": " When you play this, you get +1 Action, draw 2 cards, and discard 2 cards; then at the start of your next turn, you again draw 2 cards and discard 2 cards. ",
-  "name": "Dungeon",
+  "description": "+1 Actie\nNu en aan het begin van je volgende beurt: +2 Kaarten, leg daarna 2 kaarten af.",
+  "extra": " Bij het spelen van deze kaart krijg je +1 Actie, trek je 2 kaarten en leg je er 2 af. Aan het begin van je volgende beurt trek je weer 2 kaarten en leg je er 2 af. ",
+  "name": "Kerker",
   "potcost": 0,
   "types": [
    "Action",
@@ -2941,11 +2941,11 @@
   ]
  },
  {
-  "cardset": "adventures",
+  "cardset": "advonturen",
   "cost": "4",
-  "description": "Put this on your Tavern mat.\n______________________\nWhen you gain a card costing up to 6 Coins, you may call this, to gain a copy of that card.",
-  "extra": " When you play this, you put it on your Tavern mat. It stays on your mat until you call it. You can call it when gaining a card costing up to 6 Coins , and gain another copy of that card. The gained card comes from the Supply and is put into your discard pile; Duplicate cannot gain non-supply cards such as Teacher. Duplicate can be called during other players' turns when you gain cards; for example, another player might buy Messenger and choose to have each player gain an Estate, and you could Duplicate that Estate. You can call multiple Duplicates to gain multiple copies of the same card. Duplicate is discarded during the Clean-up of the turn you call it, whether or not it is your turn. ",
-  "name": "Duplicate",
+  "description": "Leg deze kaart op je Herbergtableau.\n______________________\nAls je een kaart met een waarde van maximaal 6 Coins pakt, mag je deze kaart oproepen om nog een exemplaar van de gepakte kaart te pakken.",
+  "extra": " Bij het spelen van deze kaart leg je deze op je Herbergtableau. De kaart blijft daar totdat je deze oproept. Je mag het Duplicaat oproepen als je een kaart pakt die ten hoogste 6 Coins kost. Je pakt dan nog een exemplaar van deze kaart. De gepakte kaart moet uit de voorraad komen en je legt deze op je aflegstapel. Met een Duplicaat kun je geen extra exemplaar van niet-voorraadkaarten, zoals Leermeester, pakken. Je mag het Duplicaat oproepen als je kaarten pakt in een beurt van een andere speler. Je mag meer Duplicaten oproepen om meer exemplaren van de betreffende kaart te pakken. Leg het Duplicaat af in de opschoonfase van de beurt waarin je de kaart hebt opgeroepen (ook als het de beurt van een andere speler is). ",
+  "name": "Duplicaat",
   "potcost": 0,
   "types": [
    "Action",
@@ -2953,11 +2953,11 @@
   ]
  },
  {
-  "cardset": "adventures",
+  "cardset": "advonturen",
   "cost": "3",
-  "description": "+2 Cards\nSet aside up to 2 cards from your hand face down. At the start of your next turn, put them into your hand.",
-  "extra": " You may set aside zero, one, or two cards from your hand. Put them face down under the Gear; you may look at them. They do not have to be cards you drew with Gear. If you set aside zero cards, Gear will be discarded the same turn you played it; if you set aside one or two cards, you put them into your hand at the start of your next turn, and Gear is discarded at the end of that turn. ",
-  "name": "Gear",
+  "description": "+2 Kaarten\nLeg ten hoogste 2 kaarten uit je hand gedekt opzij. Neem deze aan het begin van je volgende beurt in je hand.",
+  "extra": " Je mag 0, 1 of 2 kaarten uit je hand opzijleggen. Leg deze gedekt onder de Uitrusting (je mag ze bekijken). De kaarten hoeven niet dezelfde te zijn als die je met de Uitrusting hebt getrokken. Leg je 0 kaarten opzij, dan leg je Uitrusting af in de beurt dat je deze hebt gespeeld. Leg je 1 of 2 kaarten af, dan neem je deze aan het begin van je volgende beurt in je hand en leg je Uitrusting aan het einde van die beurt af. ",
+  "name": "Uitrusting",
   "potcost": 0,
   "types": [
    "Action",
