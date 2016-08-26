@@ -2965,11 +2965,11 @@
   ]
  },
  {
-  "cardset": "adventures",
+  "cardset": "advonturen",
   "cost": "5",
-  "description": "Turn your Journey token over (it starts face up). If it's face down, +1 Coin. If it's face up, +5 Coins, and each other player reveals the top card of his deck, trashes it if it costs 3 Coins to 6 Coins, and otherwise discards it and gains a Curse.",
-  "extra": " At the start of the game, place your Journey token (the one with the boot) face up. When you play this, you turn the Journey token over. Then, if it is face down, you get + 1 Coin and nothing more happens. If it is face up, you get + 5 Coins and the attack part happens. The attack resolves in turn order, starting with the player to your left. The player reveals the top card of his deck, and either trashes it if it costs from 3 to 6 Coins, or discards it and gains a Curse otherwise. Cards with in the cost (from Alchemy) do not cost from 3 to 6 Coins. Cards with an asterisk or + by the cost that cost from 3 to 6 Coins (such as Teacher, or Masterpiece from Guilds) do get trashed. Players can respond to Giant being played with Reactions that respond to Attacks (such as Caravan Guard), even if Giant will only be producing + 1 Coin this time. ",
-  "name": "Giant",
+  "description": "Draai je reisfiche om (het start open). Ligt het nu gedekt: +1 Coin. Ligt het nu open: +5 Coin en iedere andere speler toont de bovenste kaart van zijn gedekte stapel. Is deze kaart 3 Coins, 4 Coins, 5 Coins of 6 Coins waard, dan moet hij deze vernietigen. Anders legt hij de kaart af en pakt hij een Vloek.",
+  "extra": " Aan het begin van het spel ligt je reisfiche (met de schoen) open voor je. Bij het spelen van deze kaart draai je je reisfiche om. Ligt het dan gedekt, dan ontvang je +1 COin en verder niets. Ligt het nu open, dan krijg je +5 Coins en vindt het aanvalsgedeelte plaats. Handel de aanval in beurtvolgorde af, te beginnen met de speler links van je. Dit toont de bovenste kaart van zijn gedekte stapel en vernietigt deze als de kaart 3 Coins, 4 Coins, 5 Coins of 6 Coins waar is. Anders legt hij de kaart af en pakt hij een Vloek. Kaarten die Potion in de kosten (uit Dominion: De Alchemisten) kosten niet 3 Coins, 4 Coins 5 Coins of 6 Coins. Kaarten met een * of + naast de kosten (zoals Leermeester of Meesterwerk uit Dominion: De Gilden) worden wel vernietigd. Spelers kunnen met reactiekaarten (zoals de Karavaanescorte) op een Reus reageren, ook als die deze beurt maar 1 Coin geeft. ",
+  "name": "Reus",
   "potcost": 0,
   "types": [
    "Action",
@@ -2977,11 +2977,11 @@
   ]
  },
  {
-  "cardset": "adventures",
+  "cardset": "advonturen",
   "cost": "3",
-  "description": "+1 Card\n+1 Action\nPut this on your Tavern mat.\n______________________\nAt the start of your turn, you may call this, to discard your hand and draw 5 cards.",
-  "extra": " When you play this, you get +1 Card and +1 Action, and put it on your Tavern mat. It stays on your mat until you call it at the start of one of your turns. If multiple things can happen at the start of your turn, you can do them in any order. When you call Guide, it moves from the mat into play, and you discard your hand, then draw 5 cards. You discard it that turn with your other cards in play. ",
-  "name": "Guide",
+  "description": "+1 Kaart\n+1 Actie\nLeg deze kaart op je Herbergtableau.\n______________________\nJe mag deze kaart aan het begin van je beurt oproepen om je hele hand af te leggen en 5 kaarten te trekken.",
+  "extra": " Bij het spelen van deze kaart krijg je +1 Kaart en +1 Actie, en leg je de Gids op je Herbergtableau. De Gids blijft daar totdat je deze aan het begin van één van je volgende beurten oproept. Gebeuren er meerdere dingen aan het begin van je beurt, dan bepaal je zelf de volgorde. Roep je de Gids op, dan verplaats je deze van je Herbergtableau naar je speelgebeid (\"in het spel\"). Je legt je hand af en trekt 5 kaarten. Aan het einde van deze beurt leg je de Gids zoals gebruikelijk af. ",
+  "name": "Gids",
   "potcost": 0,
   "types": [
    "Action",
