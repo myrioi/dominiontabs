@@ -2989,11 +2989,11 @@
   ]
  },
  {
-  "cardset": "adventures",
+  "cardset": "advonturen",
   "cost": "5",
-  "description": "Until your next turn, when any other player buys a card, he puts his hand on top of his deck in any order.\nAt the start of your next turn:\n+3 Cards",
-  "extra": " you will draw 3 cards at the start of your next turn; and until then, other players will put the rest of their hand on their deck whenever they buy a card. A player may not have any cards left in hand when buying a card; typically cards left in hand will include Victory cards, Curses, and unplayed Actions. A player may intentionally avoid playing Treasures and Actions in order to take advantage of having to put his hand on his deck. Players who do not buy any cards can discard their hand normally. Buying Events is not buying cards and so does not trigger this. If you play Haunted Woods and then take an extra turn immediately, such as with Mission or Outpost (from Seaside), you will draw the 3 cards at the start of that turn and discard Haunted Woods that turn, and other players will never be affected by it. If you want to use a Reaction card like Moat against Haunted Woods, you have to use it right when Haunted Woods is played. ",
-  "name": "Haunted Woods",
+  "description": "Tot jouw volgende beurt moet iedere andere speler die een kaart koopt zijn handkaarten in een volgorde naar keuze op zijn gedekte stapel leggen.\nAan het begin van je volgende beurt:\n+3 Kaarten",
+  "extra": " Het spelen van deze kaart heeft 2 toekomstige gevolgen: je trekt aan het begin van je volgende beurt 3 kaarten en tot dat moment moeten de andere spelers na het kopen van een kaart hun resterende handkaarten op hun gedekte stapel leggen. Het is mogelijk dat een speler na het kopen van een kaart geen handkaarten meer heeft. Resterende handkaarten bevatten meestal overwinningskaarten, Vloeken en niet gespeelde acties. Een speler mag vrijwillig geldkaarten en acties niet spelen om gebruik te maken van het feit dat hij zijn kaarten op zijn gedekte stapel moet leggen. Een andere speler die geen kaarten koopt, legt zijn hand zoals gebruikelijk af. Het kopen van een gebeurtenis geldt niet als het kopen van een kaart (een speler legt zijn hand dan niet op zijn gedekte stapel). Speel je het Spookbos en voer je direct een extra beurt uit (als gevolg van Missie of Voorpost uit Dominion: Hijs de Zeilen!), dan tek je de 3 kaarten aan het begin van de extra beurt en worden de andere spelers niet door de kaart beïnvloed. Wil je met een reactiekaart, zoals de Slotgracht, op een Spookbos reageren, dan moet je dat doen op het moment dat het Spookbos wortd gespeeld. ",
+  "name": "Spookbos",
   "potcost": 0,
   "types": [
    "Action",
@@ -3002,11 +3002,11 @@
   ]
  },
  {
-  "cardset": "adventures",
+  "cardset": "advonturen",
   "cost": "6",
-  "description": "At the start of each of your turns for the rest of the game:\n+1 Card\n(This stays in play.)",
-  "extra": " After playing this, you draw an extra card at the start of each of your turns for the rest of the game. Hireling stays in play for the rest of the game to track this. If you use Disciple (or a similar card, like Throne Room) to play Hireling twice, you will draw two extra cards each turn, and Disciple will also stay in play for the rest of the game. ",
-  "name": "Hireling",
+  "description": "Aan het begin van elke van je volgende beurten:\n+1 Kaart\n(Deze kaart blijft in het spel.)",
+  "extra": " Na het spelen van deze kaart trek je de rest van het spel aan het begin van je beurt 1 kaart. De huursoldaat blijft de rest van het spel \"in het spel\" om dit aan te geven. Gebruik je de Leerknecht (of een erop lijkende kaart, zoals Troonzaal) om de Huursoldaat tweemaal uit te spelen, dan trek je elke beurt 2 kaarten. In dat geval blijft de Leerknecht ook de rest vna het spel \"in het spel\". ",
+  "name": "Huursoldaat",
   "potcost": 0,
   "types": [
    "Action",
@@ -3014,66 +3014,66 @@
   ]
  },
  {
-  "cardset": "adventures",
+  "cardset": "advonturen",
   "cost": "5",
-  "description": "+2 Cards\n+2 Actions\n______________________\nWhen you gain this, each other player draws a card.",
-  "extra": " When you gain this, each other player draws a card. This applies whether you bought it or gained it some other way. ",
-  "name": "Lost City",
+  "description": "+2 Kaarten\n+2 Acties\n______________________\nAls je deze kaart pakt, trekt iedere andere speler 1 kaart.",
+  "extra": " Pak je deze kaart, dan trekt iedere andere speler 1 kaart. Dit geldt zowel als je deze kaart koopt al wanneer je deze op een andere manier pakt. ",
+  "name": "Verloren Stad",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "adventures",
+  "cardset": "advonturen",
   "cost": "4",
-  "description": "+1 Card\n+1 Action\nReveal the top card of your deck. If it's a Treasure, put it into your hand. If it's an Action or Victory card, gain a Magpie.",
-  "extra": " If the top card of your deck is a Treasure, it goes into your hand. If the card is not a Treasure, leave it on top of your deck. If the card is an Action card or Victory card, you gain a Magpie; once the Magpie pile is empty, revealing an Action or Victory card will not get you anything. If you reveal a Harem (from Intrigue), you both put it into your hand and gain a Magpie, since it is both a Treasure and a Victory card. ",
-  "name": "Magpie",
+  "description": "+1 Kaart\n+1 Actie\nToon de bovenste kaart van je gedekte stapel. Is het een geldkaart, neem deze dan in je hand. Is het een actie- of een overwinningskaart, pak dan een Ekster.",
+  "extra": " Is de bovenste kaart van je gedekte stapel een geldkaart, dan gaat deze naar je hand. Is deze kaart geen geldkaart, leg deze dan terug op je gedekte stapel. Is de kaart een actie- of een overwinningskaart, dan pak je een Ekster. Is de stapel \"Ekster\" leeg, dan krijg je niets voor het tonen van een actie- of overwinningskaart. Toon je een Harem (uit Dominion Intrige), dan neem je deze in je hand en pak je een Ekster (omdat de kaart zowel een geld- als een overwinningskaart is). ",
+  "name": "Ekster",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "adventures",
+  "cardset": "advonturen",
   "cost": "4",
-  "description": "+1 Buy\n+2 Coins\nYou may put your deck into your discard pile.\n______________________\nWhen this is your first buy in a turn, gain a card costing up to 4 Coins, and each other player gains a copy of it.",
-  "extra": " When you play this, you get +1 Buy, + 2 Coin , and may optionally put your deck into your discard pile. This is not discarding cards and does not trigger Tunnel (from Hinterlands). When you buy Messenger, if it is the first thing you bought that turn (card or Event), you gain a card costing up to 4 Coins from the Supply, putting it into your discard pile, and then each other player in turn order also gains a copy of that card. If the Supply runs out of copies of the card, further players do not get anything. ",
-  "name": "Messenger",
+  "description": "+1 Aanschaf\n+2 Coins\nJe mag je gedekte stapel op je aflegstapel leggen.\n______________________\nIs dit de eerste aanschaf in je beurt, pak dan een kaart met een waarde van maximaal 4 Coins. Iedere andere speler krijgt ook 1 exemplaar van de gepakte kaart.",
+  "extra": " Bij het spelen van deze kaart krijg je +1 Aanschaf, +2 Coins en je mag (optioneel) je gedekte stapel op je aflegstapel leggen. Dit geldt niet als het afleggen van kaarten en activeert niet de Tunnel (uit Dominion: Het Achterland). Is de Koerier het eerste dat je in deze beurt koopt (kaart of gebeurtenis), dan pak je een kaart met een waarde van ten hoogste 4 Coins uit de voorraad en legt deze op je aflegstapel. De andere spelers nemen in beurtvolgorde dan ook ieder 1 exemplaar van de gepakte kaart. Raakt de betreffende stapel leeg, dan kan het voorkomen dat sommige spelers niets krijgen. ",
+  "name": "Koerier",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "adventures",
+  "cardset": "advonturen",
   "cost": "4",
-  "description": "Choose one: Put a Copper from your hand onto your Tavern mat; or +1 Coin per Copper on your Tavern mat.",
-  "extra": " You may choose to put a Copper from your hand on your mat even if you have no Coppers in hand; nothing will happen. You may also choose to get + 1 Coin per Copper on your mat if there are no Coppers on your mat; nothing will happen. Putting a Copper from your hand on your mat is not trashing it; Coppers on your mat are not in play, but count as part of your deck when scoring at the end. ",
-  "name": "Miser",
+  "description": "Kies één van de volgende: leg een Koper uit je hand op je Herbergtableau; of + 1 Coin per Koper op je Herbergtableau.",
+  "extra": " Je mag ervoor kiezen om een Koper uit je hand op je tableau te leggen, ook al heb je geen koperkaarten in je hand: er gebeurt dan niets. Je mag ervoor kiezen om +1 Coin per Koer op je tableau te ontvangen, ook al heb je geen Koperkaarten op je tableau: er gebeurt dan niets. Koper op je tableau leggen geldt niet als het vernietigen ervan. Koperkaarten op je tableau bevinden zich niet \"in het spel\". Ze zijn onderdeel van je stapels aan het einde van het spel (kan van belang zijn voor de puntentelling). ",
+  "name": "Vrek",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "adventures",
+  "cardset": "advonturen",
   "cost": "4",
-  "description": "+1 Buy\nTurn your Journey token over (it starts face up). If it's face up, +5 Cards.",
-  "extra": " At the start of the game, place your Journey token (the one with the boot) face up. When you play this, you get +1 Buy, and turn the token over. Then if it is face down, nothing more happens. If it is face up, you draw 5 cards. So, every other time you play a Ranger, you will draw 5 cards. It does not matter what turned over the Journey token; you could turn it face down with Giant, then face up with Ranger. ",
-  "name": "Ranger",
+  "description": "+1 Aanschaf\nDraai je reisfiche om (het start open). Ligt het nu open: +5 Kaarten.",
+  "extra": " Leg je reisfiche (met de schoen) aan het begin van het spel open voor je. Bij het spelen van deze kaart krijg je +1 Aanschaf en je draait je reisfiche om. Ligt het nu gedekt, dan gebeurt er niets. Ligt het nu open, dan trek je 5 kaarten. Het is mogelijk dat verschillende kaarten het reisfiche omdraaien. ",
+  "name": "Woudloper",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "adventures",
+  "cardset": "advonturen",
   "cost": "2",
-  "description": "+1 Card\n+1 Action\nPut this on your Tavern mat.\n______________________\nAt the start of your turn, you may call this, to trash a card from your hand.",
-  "extra": " When you play this, you get +1 Card and +1 Action, and put it on your Tavern mat. It stays on your mat until you call it at the start of one of your turns. If multiple things can happen at the start of your turn, you can do them in any order. When you call Ratcatcher, you move it from the mat into play, and you trash a card from your hand. Ratcatcher is discarded that turn with your other cards in play. ",
-  "name": "Ratcatcher",
+  "description": "+1 kaarten\n+1 Actie\nLeg deze kaart op je Herbergtableau.\n______________________\nAan het begin van je beurt mag je deze kaart oproepen om 1 kaart uit je hand te vernietigen.",
+  "extra": " Bij het spelen van deze kaart krijg je +1 Kaart en +1 Actie. Je legt de Rattenvanger dan op je Herbergtableau. De kaart blijft daar totdat je deze aan het begin van één van je volgende beurten oproept. Gebeuren er meerdere dingen aan het begin van je beurt, dan bepaal je zelf de volgorde. Als je de Rattenvanger oproept, verplaats je deze naar je speelgebeid (\"in het spel\") en vernietig je een kaart uit je hand. Leg de Rattenvanger aan het einde van die beurt zoals gebruikelijk af. ",
+  "name": "Rattenvanger",
   "potcost": 0,
   "types": [
    "Action",
@@ -3081,22 +3081,22 @@
   ]
  },
  {
-  "cardset": "adventures",
+  "cardset": "advonturen",
   "cost": "2",
-  "description": "+1 Action\nTrash this or a card from your hand. Look at the number of cards from the top of your deck equal to the cost in Coins of the trashed card. Put one into your hand and discard the rest.",
-  "extra": " If you trash a card costing 0 Coins with this, you do not get any cards. If you trash a card costing 1 Coin or more, you look at a number of cards from the top of your deck equal to the cost in Coins of the trashed card, take one into your hand, and discard the rest. For example if you trash an Estate, you look at the top two cards of your deck, put one into your hand, and discard the other one. You can trash the Raze itself; normally it costs 2 Coins, so you would look at two cards. Costs may be affected by cards like Bridge Troll. Raze is unaffected by the -1 Card token; if it is on top of your deck, replace it after resolving Raze. ",
-  "name": "Raze",
+  "description": "+1 Actie\nVernietig deze kaart of een kaart uit je hand. Bekijk zoveel kaarten van je gedekte stapel (trek steeds de bovenste) als de waarde in Coins van de vernietigde kaart. Neem er 1 in je hand en leg de rest af.",
+  "extra": " Vernietig je een kaart die 0 Coins kost, dan krijg je geen kaarten. Vernietig je een kaar die 1 Coins of meer kost, dan bekijk je zoveel van de bovenste kaarten van je gedekte stapel als de waarde in Coins van de vernietigde kaart. Je neemt er één van in je hand en legt de rest af. Je mag de afbraak zelf ook vernietigen. De kosten van kaarten worden beïnvloed door kaarten zoals de Brugtol. Het -1 Coin-fiche heeft geen effect op Afbraak. Ligt het fiche op de stapel bij afhandeling van Afbraak, leg het dan daarna terug. ",
+  "name": "Afbraak",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "adventures",
+  "cardset": "advonturen",
   "cost": "5",
-  "description": "+1 Action\nPut this on your Tavern mat.\n______________________\nDirectly after resolving an Action, if it's still in play, you may call this, to replay that Action.",
-  "extra": " When you play this, you get +1 Action and put it on your Tavern mat. It stays on your mat until you call it, directly after resolving a played Action card that is still in play. Royal Carriage cannot respond to Actions that are no longer in play, such as a Reserve card that was put on the Tavern mat, or a card that trashed itself (like a Raze used to trash itself). When called, Royal Carriage causes you to replay the card you just played. You can call multiple Royal Carriages to replay the same Action multiple times (provided the Action is still in play). You completely resolve the Action before deciding whether or not to use Royal Carriage on it. If you use Royal Carriage to replay a Duration card, Royal Carriage will stay in play until the Duration card is discarded from play, to track the fact that the Duration card has been played twice. ",
-  "name": "Royal Carriage",
+  "description": "+1 Actie\nLeg deze kaar op je Herbergtableau.\n______________________\nJe mag deze kaart direct na het afhandelen van een actie oproepen om de afgehandelde actie nogmaals uit te voeren (mits deze nog in het spel is).",
+  "extra": " Bij het spelen van deze kaart krijg je +1 Actie en leg je de Koninklijke Koets op je Herbergtableau. Deze blijft daar totdat je de kaart oproept. Dat mag direct nadat je een gespeelde actiekaart die nog in het spel is, hebt afgehandeld. Koninklijke Koets kan niet worden opgeroepen na actiekaarten die niet meer in het spel zijn, zoals een reservekaart die op het Herbergtableau wordt gelegd of een kaart die zichzelf vernietigt (bijvoorbeeld als Afbraak zichzelf zou vernietigen). Roep je de koninklijke Koets op, dan speel je de juist gespeelde kaart nogmaals. Het is toegestaan om meer Koninklijke Koetsen op te roepen om dezelfde actie meermaals te spelen (mits deze dan nog in het spel is). Je handelt een actie eerst volledig af, voordat je al dan niet besluit om de Koninklijke Koets op te roepen. Gebruik je de Koninklijke Koets om een duurzame kaart opnieuw te spelen, dan blijft de Koninklijke Koets in het spel totdat de duurzame kaart wordt afgelegd, om aan te geven dat de kaart tweemaal is gespeeld. ",
+  "name": "Koninklijke Koets",
   "potcost": 0,
   "types": [
    "Action",
@@ -3104,22 +3104,22 @@
   ]
  },
  {
-  "cardset": "adventures",
+  "cardset": "advonturen",
   "cost": "5",
-  "description": "+1 Action\n+1 Coin\nPlay up to 3 Treasures from your hand. Pay all of your Coins. +1 Card per Coin paid.",
-  "extra": " This lets you play Treasures in your Action phase. They go into play and produce Coins, just like Treasures played in the Buy phase. Then Storyteller turns all of your Coins into +Cards; for each Coin you have you lose the Coin and get +1 Card. For example if you had 4 Coins, you lose the 4 Coins and draw 4 cards. This makes you lose all Coins you have so far that turn, including the Coins you get from playing the Treasures, the + 1 Coin Storyteller gives you directly, and any you made earlier in the turn. You can track that the Treasures have been \"spent\" by putting them under the Storyteller. Potions, produced by Potions from Alchemy, is not Coin and so is not lost and does not get you any cards. ",
-  "name": "Storyteller",
+  "description": "+1 Actie\n+1 Coin\nSpeel maximaal 3 geldkaarten uit je hand. Betaal al je Coins: +1 Kaart per betaalde Coins.",
+  "extra": " Deze kaart staat je toe geldkaarten in je actiefase te spelen. Ze gaan daarmee \"in het spel\" en produceren Coins, net als geldkaarten in de aanschaffase. De Verteller ruilt al deze Coins tegen + Kaarten. Voor elke 1 Coins in het spel verlies je 1 Coin en krijg je +1 Kaart. De Verteller zorgt ervoor dat je alle Coins die je tot dan toe hebt gespeeld (inclusief de 1 Coins die de Verteller zelf geeft) verliest. Je kunt dit bijhouden door de \"omgeruilde\" kaarten onder de Verteller te schuiven. Een Potion (uit Dominion: De Alchemisten) is geen Coin, gaat daardoor niet verloren en geeft je geen kaart. ",
+  "name": "Verteller",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "adventures",
+  "cardset": "advonturen",
   "cost": "5",
-  "description": "Until your next turn, when any other player buys a card, he gains a Curse.\nAt the start of your next turn:\n+3 Coins",
-  "extra": " you will get + 3 Coins at the start of your next turn; and until then, other players will gain a Curse whenever they buy a Card. Players who buy multiple cards will gain a Curse per card bought; players who do not buy any cards will not get any Curses. This is cumulative; if you play two Swamp Hags, and the player after you plays one, then the player after that will get three Curses with any card bought. This does not affect cards gained other ways, only bought cards. Buying Events is not buying cards and so does not trigger this. If you play Swamp Hag and then take an extra turn immediately, such as with Mission or Outpost (from Seaside), you will get + 3 Coins at the start of that turn and discard Swamp Hag that turn, and other players will never be affected by it. If you want to use a Reaction card like Moat against Swamp Hag, you have to use it right when Swamp Hag is played. ",
-  "name": "Swamp Hag",
+  "description": "Tot jouw volgende beurt moet iedere andere speler die een kaart koopt 1 Vloek pakken.\nAan het begin van je volgende beurt:\n+3 Coins",
+  "extra": " Het spelen van deze kaart heeft 2 toekomstige gevolgen: je krijgt +3 Coins aan het begin van je volgende beurt en tot dat moment pakt iedere andere speler 1 Vloek als hij een kaart koopt. Eeen speler die meer kaarten koopt, pakt 1 Vloek per gekochte kaart. Een speler die geen kaarten koopt, krijgt geen Vloek. Deze kaart werkt cumulatief. De Heks uit het moeras heeft geen invloed op kaarten die op een andere manier worden gepakt. Speel je de Heks uit het moeras en voer je direct een extra beurt uit (als gevolg van Missie of Voorpost uit Dominion: Hijs de Zeilen!), dan krijg je +3 Coins aan het begin van de extra beurt en worden de andere spelers niet door de kaart beïnvloed. Wil je met een reactiekaart, zoals de Slotgracht, op een Heks uit het moeras reageren, dan moet je dat doen op het moment dat de Heks uit het moeras wordt gespeeld. ",
+  "name": "Heks uit het moeras",
   "potcost": 0,
   "types": [
    "Action",
@@ -3128,11 +3128,11 @@
   ]
  },
  {
-  "cardset": "adventures",
+  "cardset": "advonturen",
   "cost": "4",
-  "description": "+1 Action\nPut this on your Tavern mat.\n______________________\nAt the start of your turn, you may call this, to trash a card from your hand, gain a card costing up to 1 Coin more than it, and put that card into your hand.",
-  "extra": " When you play this, you get +1 Action and put it on your Tavern mat. It stays on your mat until you call it, at the start of one of your turns. If multiple things can happen at the start of your turn, you can do them in any order. When you call Transmogrify, it moves from the mat into play, and you trash a card from your hand, then gain a card costing up to 1 Coin more than the trashed card. The gained card comes from the Supply and is put into your hand; if you had no cards to trash, you do not gain one. Transmogrify is discarded that turn with your other cards in play. You may trash a card to gain a card costing 1 Coin more, or the same amount, or less; you may trash a card to gain a copy of the same card. ",
-  "name": "Transmogrify",
+  "description": "+1 Actie\nLeg deze kaart op je Herbergtableau.\n______________________\nJe mag deze kaart aan het begin van je beurt oproepen om 1 kaart uit je hand te vernietigen, 1 kaart te pakken die ten hoogste 1 Coin meer waard is dan de vernietigde kaart en de gepakte kaart in je hand te nemen.",
+  "extra": " Bij het spelen van deze kaart krijg je +1 Actie en leg je de Metamorfose op je Herbergtableau. Deze blijft daar tot je de kart aan het begin van één van je volgende beurten oproept. Gebeuren er meerdere dingen aan het begin van je beurt, dan bepaal je zelf de volgorde. Als je Metamorfose oproept, verplaats je deze van je tableau naar je speelgebeied (\"in het spel\"). Je vernietigt dan een kaart uit je hand en pakt een kaart uit de voorraad en neem deze in je hand. Heb je geen kaarten om te vernietigen, dan mag je er ook geen pakken. Leg Metamorfose aan het einde van de beurt waarin deze wordt opgeroepen zoals gebruikelijk af. Je mag een kaart vernietigen om een kaart te pakken die 1 Coin meer waard is, dezelfde waarde heeft of minder waard is. Het is ook toegestaan om een ander exemplaar van de vernietigde kaart te pakken. ",
+  "name": "Metamorfose",
   "potcost": 0,
   "types": [
    "Action",
@@ -3140,11 +3140,11 @@
   ]
  },
  {
-  "cardset": "adventures",
+  "cardset": "advonturen",
   "cost": "5",
-  "description": "+1 Buy\n+4 Coins\nPut this on your Tavern mat.\n______________________\nAt the end of your Buy phase, if you have at least 2 Coins unspent, you may discard this from your Tavern mat.",
-  "extra": " When you play this, you get +1 Buy and + 4 Coins, and put it on your Tavern mat. It stays on your mat until the end of one of your Buy phases in which you have 2 Coins or more that you didn't spend. At that point you can discard Wine Merchant from your mat. If you have multiple Wine Merchants on your mat, you don't need 2 Coins per Wine Merchant, just 2 Coins total. ",
-  "name": "Wine Merchant",
+  "description": "+1 Aanschaf\n+4 Coins\nLeg deze kaart op je Herbergtableau.\n______________________\nHeb je aan het einde van je aanschaffase ten minste 2 Coins niet besteed, dan mag je deze kaart vanaf je Herbergtableau afleggen.",
+  "extra": " Bij het spelen van deze kaart krijg je +1 Aanschaf en +4 Coins. Daarna leg je de Wijnhandelaar op je Herbergtableau. Deze blijft daar tot het einde van één van je aanschaffases, waarin je 2 Coins of meer niet besteedt. Op dat moment mag je de Wijnhandelaar van je Tableau nemen en afleggen. Heb je meer Wijnhandelaren op je tableau, dan is het niet nodig om 2 Coins per Wijnhandelaar niet te hebben besteed. 2 Coins is voldoende om ze allemaal te mogen afleggen. ",
+  "name": "Wijnhandelaar",
   "potcost": 0,
   "types": [
    "Action",
@@ -3152,22 +3152,22 @@
   ]
  },
  {
-  "cardset": "adventures",
+  "cardset": "advonturen",
   "cost": "4",
-  "description": "+1 Card\n+2 Actions\n______________________\nWhen you buy this, gain another Port.",
-  "extra": " When you buy a Port, you gain another Port. If you gain a Port some other way, you do not get an extra Port. There are 12 Ports in the pile; use all 12. ",
-  "name": "Port",
+  "description": "+1 Kaart\n+2 Acties\n______________________\nAls je deze kaart koopt, pak dan nog een Zeehaven.",
+  "extra": " Koop je een Zeehaven, dan pak je nog een Zeehaven. Pak je op een andere manier een Zeehaven, dan krijg je geen extra Zeehaven. De stapel bevat 12 Zeehavens. Gebruik ze altijd alle 12. ",
+  "name": "Zeehaven",
   "potcost": 0,
   "types": [
    "Action"
   ]
  },
  {
-  "cardset": "adventures",
+  "cardset": "advonturen",
   "cost": "2",
-  "description": "1 Coin\nWhen you play this, put it on your Tavern mat.\n______________________\nDirectly after resolving an Action, you may call this for +2 Actions.",
-  "extra": " This is a Treasure worth 1 Coin. You play it in your Buy phase, like other Treasures. When you play it, it goes on your Tavern mat. It produces 1 Coin that turn but is no longer in play. It stays on the mat until you call it. You can call it after resolving playing an Action card, for +2 Actions (which will let you play further Action cards). Move the Coin of the Realm into play when you call it, but it does not give you 1 Coin that turn, it just gives +2 Actions. It is discarded that turn with your other cards in play. ",
-  "name": "Coin of the Realm",
+  "description": "1 Coin\nAls je deze kaart speelt,leg deze dan op je Herbergtableau.\n______________________\nDirect na het afhandelen van een actie mag je deze kaart oproepen, voor +2 Acties.",
+  "extra": " Deze geldkaart is 1 Coin waard. Je speelt de kaart in je aanschaffase, net als andere geldkaarten. Leg de kaart bij het spelen ervan op je Herbergtableau. Het geeft je nog steeds de 1 Coin, maar is niet meer \"in het spel\". De kaart blijft op je Herbergtableau totdat je deze oproept. Je mag de kaart oproepen nadat je een gespeelde actiekaart hebt afgehandeld. De Koninklijke munt geeft je in die beurt dan +2 Acties, maar geen 1 Coin. Leg de Koninklijke munt daarna zoals gebruikelijk af. ",
+  "name": "Koninklijke munt",
   "potcost": 0,
   "types": [
    "Treasure",
@@ -3175,11 +3175,11 @@
   ]
  },
  {
-  "cardset": "adventures",
+  "cardset": "advonturen",
   "cost": "5",
-  "description": "2 Coins\nWhen you play this, each other player puts his -1 Card token on his deck.",
-  "extra": " This is a Treasure worth 2 Coins. You play it in your Buy phase, like other Treasures. When you play it, you also make each other player put his -1 Card token on his deck, which will cause those players to draw one less card the next time they draw cards; see the Tokens section. Relic is an Attack despite not being an Action; it can be blocked with Moat and responded to with Caravan Guard and so on. A player responding to Relic with Caravan Guard first plays Caravan Guard, including drawing a card, and then puts his -1 Card token on his deck. ",
-  "name": "Relic",
+  "description": "2 Coins\nAls je deze kaart speelt, legt iedere andere speler zijn -1 Kaart-fiche op zijn gedekte stapel.",
+  "extra": " Je kunt deze geldkaart in de aanschaffase spelen, net als andere geldkaarten. De kaart geeft je 2 Coins om te besteden. Bij het spelen van deze kaart moet iedere andere speler zijn -1 Kaart-fiche op zijn gedekte stapel leggen. Daardoor trekken zij ieder de volgende keer dat ze een kaart mogen trekken 1 kaart minder (zie \"Fiches\" in de spelregels). Relikwie geldt als een aanval, maar is geen actiekaart. Spelers kunnen met reactiekaarten op Relikwie reageren. Een speler die met Karavaanescorte op Relikwie reageert, handelt eerst Karavaanescorte af, inclusief het rekken van een kaart, en legt pas daarna het -1 Kaart-fiche op zijn gedekte stapel. ",
+  "name": "Relikwie",
   "potcost": 0,
   "types": [
    "Treasure",
@@ -3187,22 +3187,22 @@
   ]
  },
  {
-  "cardset": "adventures",
+  "cardset": "advonturen",
   "cost": "5",
-  "description": "2 Coins\nWhen you play this, gain a Gold and a Copper.",
-  "extra": " This is a Treasure worth 2 Coins. You play it in your Buy phase, like other Treasures. When you play it, you gain a Copper and a Gold from the Supply, putting them into your discard pile. If one of those piles is empty, you still gain the other card. ",
-  "name": "Treasure Trove",
+  "description": "2 Coins\nAls je deze kaart speelt, pak een Goud en een Koper.",
+  "extra": " Je kunt deze geldkaart in de aanschaffase spelen, net als andere geldkaarten. De kaart geeft je 2 Coins om te besteden. Bij het spelen van deze kaart pak je 1 Koper en 1 Goud uit de voorraad, die je op je aflegstapel legt. Is één van beide stapels leeg, dan pak je uitsluitend de andere kaart. ",
+  "name": "Verborgen schat",
   "potcost": 0,
   "types": [
    "Treasure"
   ]
  },
  {
-  "cardset": "adventures",
+  "cardset": "advonturen",
   "cost": "5",
-  "description": "Put this on your Tavern mat.\n______________________\nWorth 4 VP if on your Tavern mat at the end of the Game (otherwise worth 0 VP).",
-  "extra": " This is a Victory card. Use 8 for games with 2 players, or 12 for games with 3 or more players. This is also an Action card; when you play it, you put it on your Tavern mat. It will stay there the rest of the game; there is no way to call it. At the end of the game, Distant Lands is worth 4 Victory Points if it is on your mat, or 0 Victory Points if it is not. It counts as part of your deck either way (for example it can contribute to how many Victory Points a Gardens is worth). ",
-  "name": "Distant Lands",
+  "description": "Leg deze kaart op je Herbergtableau.\n______________________\nDeze kaart is aan het einde vna het spel 4 <VP> waard als hij op je Herbergtableau ligt (anders 0 <VP>).",
+  "extra": " Dit is een overwinningskaart. Gebruik er 8 in en spel met 2 spelers en 12 in een spel met 3 of meer spelers. Dit is daarnaast een actiekaart. Leg deze bij het spelen op je Herbergtableau. De kaart blijft daar de rest van het spel, er is geen manier om deze op te roepen. Verre Landen is aan het einde van het spel 2 <VP> waard als de kaart op je Herbergtableau ligt of 0 <VP> als de kaart daar niet si. In beide gevallen is de kaart onderdeel van je stapels (en wordt bijvoorbeeld meegeteld bij de bepaling van het aantal <VP> voor Tuinen). ",
+  "name": "Verre landen",
   "potcost": 0,
   "types": [
    "Action",
@@ -3211,11 +3211,11 @@
   ]
  },
  {
-  "cardset": "adventures",
+  "cardset": "advonturen",
   "cost": "2",
-  "description": "+1 Card\n+1 Action\n______________________\nWhen you discard this from play, you may exchange it for a Treasure Hunter.",
-  "extra": " See the section on Travelers. When you play Page, you get +1 Card and +1 Action. When you discard it from play, you may return it to its pile and take a Treasure Hunter, putting it into your discard pile. ",
-  "name": "Page",
+  "description": "+1 Kaart\n+1 Actie\n______________________\nAls je deze kaart vanuit het spel aflegt, mag je deze tegen een Roofridder ruilen.",
+  "extra": " Zie spelregels voor \"Reizigers\". Bij het spelen van de Wapenknecht krijg je +1 Kaart en +1 Actie. Leg je de Wapenknecht \"vanuit het spel\" af, dan mag je deze in de voorraad terugleggen en een Roofridder pakken, die je op je aflegstapel legt. ",
+  "name": "Wapenknecht",
   "potcost": 0,
   "types": [
    "Action",
@@ -3223,11 +3223,11 @@
   ]
  },
  {
-  "cardset": "adventures",
+  "cardset": "advonturen",
   "cost": "2",
-  "description": "+1 Buy\n+1 Coin\n______________________\nWhen you discard this from play, you may exchange it for a Soldier.",
-  "extra": " See the section on Travelers. When you play Peasant, you get +1 Buy and + 1 Coin. When you discard it from play, you may return it to its pile and take a Soldier, putting it into your discard pile. ",
-  "name": "Peasant",
+  "description": "+1 Aanschf\n+1 Coin\n______________________\nAls je deze kaart vanuit het spel aflegt, mag je deze tegen een Landknecht ruilen.",
+  "extra": " Zie de spelregels voor \"Reizigers\". Bij het spelen van de Boer krijg je +1 Aanschaf en +1 Coin. Leg je de Boer \"vanuit het spel\" af, dan mag je deze in de voorraad terugleggen en een Landknecht pakken, die je op je aflegstapel legt. ",
+  "name": "Boer",
   "potcost": 0,
   "types": [
    "Action",
@@ -3235,11 +3235,11 @@
   ]
  },
  {
-  "cardset": "adventures",
+  "cardset": "advonturen",
   "cost": "3*",
-  "description": "+1 Action\n+1 Coin\nGain a Silver per card the player to your right gained in his last turn.\n______________________\nWhen you discard this from play, you may exchange it for a Warrior.\n(This is not in the Supply.)",
-  "extra": " This counts all cards gained, not just bought cards. For example if the player to your right played Amulet, gaining a Silver, then bought a Duchy, you would gain two Silvers. The gained Silvers are put into your discard pile. ",
-  "name": "Treasure Hunter",
+  "description": "+1 Action\n+1 Coin\nPak 1 Zilver per kaart die de speler rechts van je in zijn laatste beurt heeft gepakt.\n______________________\nAls je deze kaart vanuit het spel aflegt, mag je deze tegen een Krijger ruilen.)",
+  "extra": " Alle gepakte kaarten tellen mee, niet alleen gekochte kaarten. ",
+  "name": "Roofridder",
   "potcost": 0,
   "types": [
    "Action",
@@ -3247,11 +3247,11 @@
   ]
  },
  {
-  "cardset": "adventures",
+  "cardset": "advonturen",
   "cost": "4*",
-  "description": "+2 Cards\nFor each Traveller you have in play (including this), each other player discards the top card of his deck and trashes it if it costs 3 Coins or 4 Coins.\n______________________\nWhen you discard this from play, you may exchange it for a Hero.\n(This is not in the Supply.)",
-  "extra": " Each player, in turn order, discards the appropriate number of cards from the top of his deck, trashing the ones costing 3 or 4 Coins. If Warrior is your only Traveler in play, each other player will only discard and potentially trash one card. If you, for example, have a Peasant, a Fugitive, and the Warrior in play, each other player would discard and potentially trash three cards. Cards are only trashed if they cost exactly 3 Coins or exactly 4 Coins. Cards with Potion in the cost (from Alchemy) do not cost exactly 3 Coins or 4 Coins. Cards with an asterisk in the cost (such as Warrior) or + in the cost (such as Masterpiece from Guilds) may be trashed by Warrior (if costing 3 Coin or 4 Coin). Champion and Teacher are not Travelers. ",
-  "name": "Warrior",
+  "description": "+2 Kaarten\nVoor iedere Reiziger die je in het spel hebt (met inbegrip van deze kaart), legt iedere andere speler de bovenste kaart van zijn gedekte stapel af en vernietigt deze als de waarde ervan 3 Coins of 4 Coins is.\n______________________\nAls je deze kaart vanuit het spel aflegt, mag je deze tegen een Held ruilen.\n(Deze kaart bevindt zich niet in de voorraad.)",
+  "extra": " In beurtvolgorde legt iedere andere speler het betreffende aantal bovenste kaarten van zijn gedekte stapel af en vernietigt daarvan de kaarten die 3 Coins of 4 Coins kosten. Als de Krijger je enige Reiziger in het spel is, leggen de andere spelers 1 kaart af (of moeten deze vernietigen). De andere spelers vernietigen kaarten uitsluitend als de 3 Coins of 4 Coins kosten. Kaarten met een Potion in de kosten (uit Dominion: De Alchemisten) kosten niet 3 Coins of 4 COins. Kaarten met een * (zoals de Krijger) of een + (zoals Meesterwerk uit Dominion: De Gilden) worden wel door de Krijger vernietigd (als ze 3 Coins of 4 Coins kosten). De Kampion en Leermeester zijn geen Reizigers. ",
+  "name": "Krijger",
   "potcost": 0,
   "types": [
    "Action",
@@ -3260,11 +3260,11 @@
   ]
  },
  {
-  "cardset": "adventures",
+  "cardset": "advonturen",
   "cost": "5*",
-  "description": "+2 Coins\nGain a Treasure.\n______________________\nWhen you discard this from play, you may exchange it for a Champion.\n(This is not in the Supply.)",
-  "extra": " The Treasure comes from the Supply and is put into your discard pile. It can be any Treasure being used that game. ",
-  "name": "Hero",
+  "description": "+2 Coins\nPak een geldkaart.\n______________________\nAls je deze kaart vanuit het spel aflegt, mag je deze tegen een Kampioen ruilen.\n(Deze kaart bevndt zich niet in de voorraad.)",
+  "extra": " Pak de geldkaart uit de voorraad en leg deze op je aflegstapel. Je mag kiezen uit alle geldkaarten die zich in dit spel in de voorraad bevinden. ",
+  "name": "Held",
   "potcost": 0,
   "types": [
    "Action",
@@ -3272,11 +3272,11 @@
   ]
  },
  {
-  "cardset": "adventures",
+  "cardset": "advonturen",
   "cost": "6*",
-  "description": "+1 Action\nFor the rest of the game, when another player plays an Attack, it doesn't affect you, and when you play an Action, +1 Action.\n(This stays in play. This is not in the Supply.)",
-  "extra": " Champion stays in play for the rest of the game once played. For the rest of the game, it provides you with an additional +1 Action each time you play an Action, which means you will always be able to play all of your Actions; and it protects you from all further Attacks played (whether you want the protection or not). Champion only protects you from Attacks played after it; for example it does not stop a previously played Swamp Hag from giving you Curses that turn. ",
-  "name": "Champion",
+  "description": "+1 Actie\nJe bent voor de rest van het spel beschermd tegen aanvalskaarten van andere spelers. Elke keer dat je eeb actie speelt: +1 Actie.\n(Deze kaart bevindt zich niet in de voorraad.)",
+  "extra": " Zodra de Kampioen is gespeeld, blijft deze de rest van het spel \"in het spel\". De kaart geeft je de rest van het spel elke keer dat je een actiekaart speelt +1 Actie. Dat betekent dat je altijd in staat bent om al je actiekaarten te spelen. Verder beschermt de kaart je tegen alle aanvalskaarten (of je dat wilt of niet). De kampion beschermt uitsluitend tegen aanvalskaarten die na het spelen van de Kampioen worden gespeeld. ",
+  "name": "Kampioen",
   "potcost": 0,
   "count": 5, 
   "types": [
@@ -3285,11 +3285,11 @@
   ]
  },
  {
-  "cardset": "adventures",
+  "cardset": "advonturen",
   "cost": "3*",
-  "description": "+2 Coins\n+1 Coin per other Attack you have in play. Each other player with 4 or more cards in hand discards a card.\n______________________\nWhen you discard this from play, you may exchange it for a Fugitive.\n(This is not in the Supply.)",
-  "extra": " This gives + 2 Coins, and then an additional + 1 Coin per other Attack card you have in play. Then each other player with 4 or more cards in hand discards a card. So for example if you play Soldier, then another Soldier, and have an opponent with 5 cards in hand, you will get + 2 Coins and that opponent will discard a card, then you will get + 2 Coins and an extra + 1 Coin while that opponent discards again. Soldier only cares about Attack cards in play, not Attack cards played that turn; for example using Disciple on Soldier will not produce an extra + 1 Coin, because there is no other Attack card in play. Duration Attacks played on the previous turn are Attack cards in play and so do count for Soldier. ",
-  "name": "Soldier",
+  "description": "+2 Coins\n+1 Coin per andere aanvalskaart die je in het spel hebt. Iedere andere speler met 4 of meer handkaarten legt 1 kaart af.\n______________________\nAls je deze kaart vanuit het spel aflegt, mag je deze tegen een Vluchteling ruilen.\n(Deze kaart bevindt zich niet in de voorraad.)",
+  "extra": " Deze kaart geeft je +2 Coins en +1 Coins extra voor elke aanvalskaart die je in het spel hebt. Daarna legt iedere andere speler met 4 of meer kaarten in zijn hand 1 kaart af. Een landknecht heeft uitsluitend betrekking op aanvalskaarten in het spel, niet op in die beurt gespeelde aanvalskaarten. Duurzame aanvalskaarten die de vorige beurt zijn gespeeld, zijn in het spel en tellen mee voor de Landknecht. ",
+  "name": "Landknecht",
   "potcost": 0,
   "types": [
    "Action",
@@ -3298,11 +3298,11 @@
   ]
  },
  {
-  "cardset": "adventures",
+  "cardset": "advonturen",
   "cost": "4*",
-  "description": "+2 Cards\n+1 Action\nDiscard a card.\n______________________\nWhen you discard this from play, you may exchange it for a Disciple.\n(This is not in the Supply.)",
-  "extra": " When you play this, you draw 2 cards, get +1 Action, and then discard a card from your hand. The discarded card does not have to be one of the cards just drawn. ",
-  "name": "Fugitive",
+  "description": "+2 Kaarten\n+1 Actie\nLeg 1 kaart af.\n______________________\nAls je deze kaart vanuit het spel aflegt, mag je deze tegen een Leerknecht ruilen.\n(Deze kaart bevindt zich niet in de voorraad.)",
+  "extra": " Bij het spelen van deze kaart trek je 2 kaarten, krijg je +1 Actie en leg je daarna 1 kaart uit je hand af. De afgelegde kaart hoeft niet één van de juist getrokken kaarten te zijn. ",
+  "name": "Vluchteling",
   "potcost": 0,
   "types": [
    "Action",
@@ -3310,11 +3310,11 @@
   ]
  },
  {
-  "cardset": "adventures",
+  "cardset": "advonturen",
   "cost": "5*",
-  "description": "You may play an Action card from your hand twice. Gain a copy of it.\n______________________\nWhen you discard this from play, you may exchange it for a Teacher.\n(This is not in the Supply.)",
-  "extra": " Playing an Action card from your hand is optional. If you do play one, you play it twice, then gain a copy of it if possible; gaining the copy is not optional once you have played it. The copy comes from the Supply and is put into your discard pile; if the Action is a non-Supply card, such as Fugitive, you can play it twice, but do not gain a copy of it. This does not use up any extra Actions you were allowed to play due to cards like Port - Disciple itself uses up one Action and that is it. You cannot play any other cards in between resolving the Discipled Action card multiple times, unless that Action card specifically tells you to (such as Disciple itself does). If you Disciple a card that gives you +1 Action, such as Artificer, you will end up with 2 Actions to use afterwards, rather than the one you would have left if you just played two Artificers. If you use Disciple on a Duration card, Disciple will stay in play until the Duration card is discarded. ",
-  "name": "Disciple",
+  "description": "Je mag een actiekaart uit je hand tweemaal spelen. Pak er een exemplaar van.\n______________________\nAls je deze kaart vanuit het spel aflegt, mag je deze tegen een Leermeester ruilen.\n(Deze kaart bevindt zich niet in de voorraad.)",
+  "extra": " Het spelen van een actiekaart uit je hand is optioneel. Speel je er één, dan speel je deze tweemaal en pak je er een exemplaar van, indien mogelijk (niet optioneel). Pak het exemplaar uit de voorraad en leg het op je aflegstapel. Speel je een niet-voorraadkaart, zoals de Vluchteling, dan mag je deze tweemaal spelen, maar je pakt er geen exemplaar van. Het spelen van deze actiekaart verbruikt geen extra acties, zoals bijvoorbeeld de Zeehaven. De Leerknecht verbruikt zelf 1 actie en dat is alles. Je mag geen andere actiekaarten spelen tussen het afhandelen van een door de Leerknecht meermaals gespeelde actiekaart door, tenzij de betreffende actiekaart dat zelf aangeeft (zoals de Leerknecht doet). Gebruik je de Leerknecht om een duurzame kaart tweemaal te spelen, dan blijft de leerknecht in het spel totdat de duurzame kaart is afgelegd. ",
+  "name": "Leerknecht",
   "potcost": 0,
   "types": [
    "Action",
@@ -3322,11 +3322,11 @@
   ]
  },
  {
-  "cardset": "adventures",
+  "cardset": "advonturen",
   "cost": "6*",
-  "description": "Put this on your Tavern mat.\n______________________\nAt the start of your turn, you may call this, to move your +1 Card, +1 Action, +1 Buy, or +1 Coin token to an Action Supply pile you have no tokens on (when you play a card from that pile, you first get that bonus).\n(This is not in the Supply.)",
-  "extra": " When you play this, put it on your Tavern mat. It stays on your mat until you call it at the start of one of your turns. If multiple things can happen at the start of your turn, you can do them in any order. When you call Teacher, it moves from the mat into play, and you choose your +1 Action, +1 Card, +1 Buy, or + 1 Coin token, and move it to an Action Supply pile that you have no tokens on. The token on the pile means that every time you play a card from that pile, you will get the corresponding bonus - if you put your +1 Action token on a pile, you will get an extra +1 Action when playing a card from that pile. See the Tokens section. This cannot put a token on a pile you have tokens on, including the tokens Teacher places as well as your - 2 Coin cost token and Trashing token. This can put a token on a pile that other players have tokens on. Other things can put tokens on a pile you put a token on with Teacher; it is just Teacher itself that cannot put a token on a pile you have a token on. It is okay if the pile has a token that does not belong to you or anyone, such as an Embargo token (from Seaside) or coin token for Trade Route (from Prosperity). It is okay if you have an Estate token on a card set aside from that pile. ",
-  "name": "Teacher",
+  "description": "Leg deze kaart op je Herbergtableau.\n______________________\nJe mag deze kaart aan het begin van je beurt oproepen om je +1 Kaart-, +1 Actie-, +1 Aanschaf- of +1 Coin-fiche naar een Actie-voorraadstapel te verplaatsen waar je nog geen fiche hebt (speel je een kaart van de stapel, dan ontvang je eerst de bonus).\n(Deze kaart bevindt zich niet in de voorraad.)",
+  "extra": " Bij het spelen van deze kaart leg je de Leermeester op je Herbergtableau. Deze blijft daar tot je hem aan het begin van één van je volgende beurten oproept. Gebeuren er meerdere dingen aan het begin van je beurt, dan bepaal je zelf de volgorde. Als je de Leermeester oproept, verplaats je deze naar je speelgebied (\"in het spel\"). Je kiest dan je +1 Actie-, +1 Kaart-, +1 Aanschaf- of +1 Coin-fiche en verplaatst het naar een Actie-voorraadstapel waar je nog geen fiche hebt. Het fiche zorgt ervoor dat je elke keer dat je een kaart van die stapel speelt de betreffende bonus krijgt (zie \"Fiches\" in de spelregels). Je mag het fiche niet op een stapel leggen waar je al een fiche hebt, met inbegrip van de fiches die je met de Leermeester plaatst, het -2 Coins Kosten-fiche en het vernietigingsfiche. Je mag een fiche wel op een stapel leggen waar andere spelers (een) fiche(s) hebben. Bovenstaande spelregel geldt uitsluitend voor de Leermeester, met andere kaarten kun je wel een fiche op een stapel leggen waar je een fiche hebt. Het is geen probleem als er een fiche uit een andere uitbreiding op de gekozen stapel ligt (zoals het embargofiche uit Dominion: Hijs de Zeilen!). Ook een erfgoedfiche op een opzijgelegde kaart van de gekozen stapel verhindirt het leggen van het fiche niet. ",
+  "name": "Leermeester",
   "potcost": 0,
   "count": 5,
   "types": [
