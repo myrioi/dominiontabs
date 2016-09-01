@@ -3335,44 +3335,44 @@
   ]
  },
  {
-  "cardset": "adventures",
+  "cardset": "advonturen",
   "cost": "0",
-  "description": "Once per turn: If you have no Treasures in play, gain a card costing up to 4 Coin.",
-  "extra": " You can only buy this once per turn. When you do, if you have no Treasures in play, you gain a card costing up to 4 Coins. The gained card comes from the Supply and is put into your discard pile. ",
-  "name": "Alms",
+  "description": "Eenmaal per beurt: heb je geen geldkaarten in het spel, pak dan een kaart met een waarde van ten hoogste 4 Coins.",
+  "extra": " Je kunt deze gebeurtenis eenmaal per beurt kopen. Doe je dat en heb je geen geldkaarten in het spel, dan pak je een kaart die 4 Coins of minder waard is. Pak de kaart uit de voorraad en leg deze op je aflegtapel. ",
+  "name": "Aalmoes",
   "potcost": 0,
   "types": [
    "Event"
   ]
  },
  {
-  "cardset": "adventures",
+  "cardset": "advonturen",
   "cost": "5",
-  "description": "Take your - 1 Coin token. Gain 2 cards each costing up to 4 Coin.",
-  "extra": " When you buy this, you take your - 1 Coin token, which will cause you to get 1 Coin less the next time you get Coins.  Then you gain 2 cards, each costing up 4 Coins. They can be 2 copies of the same card or 2 different cards. ",
-  "name": "Ball",
+  "description": "Neem je -1 Coin-fiche. Pak 2 kaarten die elk ten hoogste 4 Coins waard zijn.",
+  "extra": " Bij het kopen van deze kaart neem je je -1 Coin-fiche, dat ervoor zorgt dat je de volgende keer dat je Coins ontvangt er 1 COin minder krijgt (zie \"Fiches\" in de spelregels). Daarna pak je 2 kaarten die elk 4 Coins of minder waard zijn. Dit mogen 2 verschillende of 2 gelijke zijn. ",
+  "name": "Bal",
   "potcost": 0,
   "types": [
    "Event"
   ]
  },
  {
-  "cardset": "adventures",
+  "cardset": "advonturen",
   "cost": "3",
-  "description": "Trash up to 2 cards you have in play.",
-  "extra": " This only trashes cards you have in play, not cards from your hand. You can trash zero, one, or two cards. If you trash Treasures with this, this does not remove the 1 Coin you got from playing those Treasures this turn. For example, with 5 Coppers in play and two Buys, you could pay 3 Coins for a Bonfire to trash two of the Coppers, then spend the other 2 Coins on a Peasant. ",
-  "name": "Bonfire",
+  "description": "Vernietig ten hoogste 2 kaarten die je in het spel hebt.",
+  "extra": " Deze kaart staat uitsluitend toe om kaarten \"in het spel\" te vernietigen, geen kaarten uit je hand. Je mag 0, 1 of 2 kaarten vernietigen. Vernietig je geldkaarten met deze kaart, dan verlies je niet de Coins die je er deze beurt voor krijgt. ",
+  "name": "Vreugdevuur",
   "potcost": 0,
   "types": [
    "Event"
   ]
  },
  {
-  "cardset": "adventures",
+  "cardset": "advonturen",
   "cost": "0",
-  "description": "+1 Buy\nOnce per turn: If your -1 Card token isn't on your deck, put it there and +1 Coin.",
-  "extra": " You can only buy this once per turn. When you do, if your -1 Card token is not on your deck, you put it on your deck and get + 1 Coin. The -1 Card token will cause you to draw one less card the next time you draw cards; see the Tokens section. ",
-  "name": "Borrow",
+  "description": "+1 Aanschaf\nEenmaal per beurt: ligt je -1 Kaart-fiche niet op je gedekte stapel, leg het er dan op en +1 Coin.",
+  "extra": " Je kunt deze kaart eenmaal per beurt kopen. Doe je dat en ligt je -1 Kaart-fiche niet op je gedekte stapel, dan leg je het er nu op en je krijgt +1 Coin. Het -1 Kaart-fiche zorgt ervoor dat je de volgende keer dat je kaarten mag trekken er 1 minder trekt (zie \"Fiches\" in de spelregels). ",
+  "name": "Lenen",
   "potcost": 0,
   "types": [
    "Event"
@@ -3381,9 +3381,9 @@
  {
   "cardset": "adventures",
   "cost": "3",
-  "description": "Draw 2 extra cards for your next hand.",
-  "extra": " This increases the number of cards you draw in Clean- up of the same turn. It is cumulative. Normally you draw 5 cards; after an Expedition you would draw 7, after two Expeditions you would draw 9, and so on. It only applies for the turn you buy it. If you play Outpost (from Seaside), getting an extra turn with only 3 cards, and also buy Expedition, you add the 2 extra cards onto the base of 3 cards, for 5 cards total. ",
-  "name": "Expedition",
+  "description": "Trek 2 kaarten extra voor je volgende hand.",
+  "extra": " Deze kaart verhoogt het aantal kaarten dat je in de opschoonfase van de betreffende beurt trekt. De Expeditie werk cumulatief. Normaal gesproken trek je 5 kaarten, met 1 expeditie trek je 7 kaarten, met 2 expedities 9, enzovoort. Expeditie geldt uitsluitend in de beurt waarin je deze koopt. Speel je een Voorpost (uit Dominion: Hijs de Zeilen!) om een extra beurt met 3 kaarten spelen, dan voeg je de 2 kaarten voor de Expeditie aan je hand van 3 toe (5 totaal). ",
+  "name": "Expeditie",
   "potcost": 0,
   "types": [
    "Event"
@@ -3392,9 +3392,9 @@
  {
   "cardset": "adventures",
   "cost": "3",
-  "description": "Move your - 2 Coin cost token to an Action Supply pile (cards from that pile cost 2 Coin less on your turns, but not less than 0 Coin.",
-  "extra": " When you buy this, you move your - 2 Coin cost token to any Action Supply pile. This token makes cards from that pile cost 2 Coins less, but not less than 0 Coins, on your turns; see the Tokens section. ",
-  "name": "Ferry",
+  "description": "Verplaats je -2 Coin Kosten-fiche naar een Actie-voorraadstapel (kaarten van deze stapel kosten in jouw beurt 2 Coins minder maar niet minder dan 0 Coins).",
+  "extra": " Bij het kopen van deze kaart verplaats je je -2 Coins Kosten-fiche naar een Actie-voorraadstapel. Dit fiche zorgt ervoor dat kaarten van deze stapel in jouw beurt 2 Coins minder kosten (zie \"Fiches\" in de spelregels). ",
+  "name": "Veerboot",
   "potcost": 0,
   "types": [
    "Event"
@@ -3403,9 +3403,9 @@
  {
   "cardset": "adventures",
   "cost": "7",
-  "description": "Once per game: Set aside a non-Victory Action card from the Supply costing up to 4 Coin. Move your Estate token to it (your Estates gain the abilities and types of that card).",
-  "extra": " You can only buy this once per game. When you do, set aside a non-Victory Action card from the Supply that costs up to 4 Coins, and put your Estate token on it (the one depicting a house). This is not gaining a card, and does not count for things that care about gaining, such as Treasure Hunter; however at the end of the game, include the card in your deck when scoring. For the rest of the game, all of your Estates have the abilities and types of the set aside card. For example if you set aside a Port, then your Estates are Action - Victory cards, that can be played for +1 Card +2 Actions. This also changes Estates you buy or otherwise gain during the game; if you used Inheritance on a Port and then later bought an Estate, that Estate would come with a Port, just as buying a Port gains you a Port. This only affects your own Estates, not Estates of other players. An Estate is yours if either it started in your deck, or you gained it or bought it, or you were passed it with Masquerade (from Intrigue). An Estate stops being yours if you trash it, return it to the Supply, pass it with Masquerade, or are stopped from gaining it due to Possession (from Alchemy) or Trader (from Hinterlands). There are no limits on the set aside card other than being a non-Victory Action from the Supply costing up to 4 Coins; it may be a Duration card, a Reaction card, and so on. It does not have to continue costing up to 4 Coins, it only has to cost up to 4 Coins when set aside. Your Estates are still worth 1 Victory Point when scoring at the end of the game. Your Estates only copy abilities and types; they do not copy cost, name, or what pile they are from (thus they don't trigger tokens like +1 Action on the copied pile, and are not the Bane for Young Witch from Cornucopia even if the copied pile is the Bane). Starting Estates come from the Estates pile. ",
-  "name": "Inheritance",
+  "description": "Eenmaal per spel: leg een actiekaart die geen overwinningskaart is met een waarde van maximaal 4 Coins uit de voorraad opzij. Leg een ergoedfiche erop (jouw Landgoederen krijgen de eigenschappen en de soorten van de kaart).",
+  "extra": " Je mag deze kaart eenmaal per spel kopen. Doe je dat, leg dan een actiekaart die geen overwinningskaart is met een waarde van 4 Coins of minder uit de voorraad opzij en leg je ergoedfiche (met het huis) erop. Dit geldt niet als het pakken van een kaart en activeert geen kaarten die betrekking hebben op het pakken van een kaart, zoals de Roofridder. De kaart is wel onderdeel van je stapels en telt aan het einde van het spel bij de puntentelling mee. De rest van het spel hebben je Landgoederen de eigenschappen en de soort(en) van de opzijgelegde kaart. De Erfenis heeft uitsluitend invloed op jouw Landgoederen, niet die van andere spelers. Een Landgoed is van jou als het aan het begin van het spel onderdeel van je gedekte stapel is, je het hebt gekocht of gepakt, of als je via Maskerade (uit Dominion Intrige) hebt ontvangen. Een Landgoed is niet meer van jou als je het vernietigt, het in de voorraad teruglegt of het niet mag pakken als gevolg van Bezeten (uit Dominion: De Alchemisten) of de Handelaar (uit Dominion: Het Achterland). Naast de beschreven voorwaarden voor de opzijgelegde kaart (actiekaart uit voorraad, niet-overwinningskaart en ten hoogste 4 Coins) zijn er geen beperkingen. De opzijgelegde kaart mag een reactiekaart, duurzame kaart, enzovoort zijn. De kaart hoeft niet voortdurend 4 Coins of minder waard te zijn, uitsluitend op het moment dat deze opzij wordt gelegd. Elk van je Landgoederen is aan het einde van het spel nog steeds 1 <VP> waard. Je Landgoederen kopiëren uitsluitend eigenschappen en soorten, niet de kosten, titel of stapel waar de kaart vandaan komt (ze activeren dus niet een fiche op de stapel van de opzijgelegde kaart, en zijn niet de Ban van de Jonge Heks (uit Dominion Overvloed) als de opzijgelegde kaart van de Banstapel komt). ",
+  "name": "Erfenis",
   "potcost": 0,
   "types": [
    "Event"
@@ -3414,9 +3414,9 @@
  {
   "cardset": "adventures",
   "cost": "6",
-  "description": "Move your +1 Action token to an Action Supply pile (when you play a card from that pile, you first get +1 Action).",
-  "extra": " When you buy this, you move your +1 Action token to any Action Supply pile. This token gives you +1 Action whenever you play a card from that pile; see the Tokens section. ",
-  "name": "Lost Arts",
+  "description": "Verplaats je +1 Actie-fiche naar een Acite-voorraadstapel (speel je een kaart van die stapel, dan ontvang je eerst +1 Actie).",
+  "extra": " Bij het kopen van deze kaart verplaats je je +1 Actie-fiche naar een Actie-voorraadstapel. Dit fiche geeft je +1 Actie als je een kaart van die stapel speelt (zie \"fiches\" in de spelregels). ",
+  "name": "Verloren kunst",
   "potcost": 0,
   "types": [
    "Event"
@@ -3425,9 +3425,9 @@
  {
   "cardset": "adventures",
   "cost": "4",
-  "description": "Once per turn: If the previous turn wasn't yours, take another turn after this one, in which you can't buy cards.",
-  "extra": " You can only buy this once per turn. When you do, if the previous turn was not yours - if it was another player's turn before this turn - you take another turn after this turn ends. The extra turn is completely normal except that you cannot buy cards during it. You can still buy Events, and play cards, and gain cards in ways other than buying them (such as gaining a Silver from Amulet), and exchange Travelers. Buying Mission during a turn granted by Mission will not give you another turn, because the previous turn was yours. ",
-  "name": "Mission",
+  "description": "Eenmaal per beurt: als de vorige beurt niet de jouwe was, voer dan na deze beurt nog een beurt uit, waarin je geen kaarten mag kopen.",
+  "extra": " Je kunt deze kaart eenmaal per beurt kopen. Doe je dat en de vorige beurt was niet de jouwe (maar de beurt van een andere speler), dan mag je na afloop van deze beurt nog een beurt uitvoeren. Deze extra beurt is gelijk aan elke andere beurt, behalve dat je geen kaarten mag kopen. Je kunt wel gebeurtenissen kopen, kaarten spelen, kaarten op andere manieren pakken (zoals het pakken van een Zilver als gevolg van een Amulet) of Reizigers opwaarderen. Het kopen van een Missie tijdens een extra beurt levert niet nog een extra beurt op, omdat de vorige beurt de jouwe was. ",
+  "name": "Missie",
   "potcost": 0,
   "types": [
    "Event"
@@ -3436,9 +3436,9 @@
  {
   "cardset": "adventures",
   "cost": "8",
-  "description": "Move your +1 Card token to an Action Supply pile (when you play a card from that pile, you first get +1 Card).",
-  "extra": " When you buy this, you move your +1 Card token to any Action Supply pile. This token gives you +1 Card whenever you play a card from that pile; see the Tokens section. ",
-  "name": "Pathfinding",
+  "description": "Verplaats je +1 Kaart-fiche naar een Actie-voorraadstapel (speel je een kaart van die stapel, dan ontvang je eerst +1 Kaart).",
+  "extra": " Bij het spelen van deze kaart verplaats je je +1 Kaart-fiche naar een Actie-voorraadstapel. Dit fiche geeft je +1 Kaart als je een kaart van die stapel speelt (zie \"Fiches\" in de spelregels). ",
+  "name": "Woudlopen",
   "potcost": 0,
   "types": [
    "Event"
@@ -3447,9 +3447,9 @@
  {
   "cardset": "adventures",
   "cost": "4",
-  "description": "Once per turn: Turn your Journey token over (it starts face up); then if it's face up, choose up to 3 differently named cards you have in play and gain a copy of each.",
-  "extra": " At the start of the game, place your Journey token (the one with the boot) face up. You can only buy this once per turn. When you do, turn your Journey token over. Then if it is face down, nothing more happens. If it is face up, choose up to 3 cards you have in play with different names and gain a copy of each. The copies you gain come from the Supply and are put into your discard pile. So, every other time you buy this, you will gain up to 3 cards. It does not matter what turned over the Journey token; you could turn it face down with Ranger, then face up with Pilgrimage. ",
-  "name": "Pilgrimage",
+  "description": "Eenmaal per beurt: draai je reisfiche om (het start open). Ligt het nu open, kies dan 3 kaarten met een verschillende titel de je in het spel hebt en pak van elk een exemplaar.",
+  "extra": " Leg je reisfiche (met de schoen) aan het begin van het spel open voor je neer. Je kunt deze kaart eenmaal per beurt kopen. Doe je dat, draai je reisfiche dan om. Ligt het nu gedekt, dan gebeurt er verder niets. Ligt het nu open, kies dan 3 kaarten met een verschillende titel die je \"in het spel\" hebt en pak van elk een exemplaar. Pak deze kaarten uit de voorraad en leg deze op je aflegstapel. Het is mogelijk dat verschillende kaarten het reisfiche omdraaien. ",
+  "name": "Bedevaart",
   "potcost": 0,
   "types": [
    "Event"
@@ -3458,8 +3458,8 @@
  {
   "cardset": "adventures",
   "cost": "3",
-  "description": "Move your Trashing token to an Action Supply pile (when you buy a card from that pile, you may trash a card from your hand.)",
-  "extra": " When you buy this, you move your Trashing token (the one depicting a tombstone) to any Action Supply pile. This token will let you trash a card from your hand when buying a card from that pile; see the Tokens section. ",
+  "description": "Verplaats je vernietigingsfiche naar een Actie-voorraadstapel (speel je een kaart van die stapel, dan mag je een kaart uit je hand vernietigen).",
+  "extra": " Bij het kopen van deze kaart verplaats je je vernietigingsfiche (met de grafsteen) maar eem actie-voorraadstapel. Dit fiche staat je toe om een kaart uit je hand te vernietigen als je een kaart van die stapel koopt (zie \"Fiches\" in de spelregels). ",
   "name": "Plan",
   "potcost": 0,
   "types": [
@@ -3469,9 +3469,9 @@
  {
   "cardset": "adventures",
   "cost": "0",
-  "description": "You may discard an Attack, two Curses, or six cards. If you do, gain a Gold.",
-  "extra": " You may either discard an Attack to gain a Gold, or discard two Curses to gain a Gold, or discard any 6 cards to gain a Gold. The gained Gold is put into your discard pile. You may choose to discard 6 cards despite not having enough cards in hand; you will discard everything and not gain a Gold. You may choose to discard two Curses despite only having one; you will discard that Curse and not gain a Gold. ",
-  "name": "Quest",
+  "description": "Je mag een aanvalskaart, 2 Vloeken of 6 Kaarten afleggen. Doe je dat, pak dan een Goud.",
+  "extra": " Je mag een aanvalskaart afleggen om 1 Goud te pakken, of 2 Vloeken afleggen om 1 Goud te pakken, of 6 kaarten naar keuze afleggen om 1 Goud te pakken. Leg het gepakte Goud op je aflegstapel. Je mag ervoor kiezen om 6 kaarten af te leggen, ook al heb je er geen 6. Je legt dan al je kaarten af, maar pakt dan geen goud. Je mag ervoor kiezen om 2 Vloeken af te leggen, ook al heb je er geen 2. Je legt dan 1 Vloek af, maar pakt dan geen Goud. ",
+  "name": "Queeste",
   "potcost": 0,
   "types": [
    "Event"
@@ -3480,9 +3480,9 @@
  {
   "cardset": "adventures",
   "cost": "5",
-  "description": "Gain a Silver per Silver you have in play. Each other player puts his -1 Card token on his deck.",
-  "extra": " This Event is like an Attack, but buying it is not playing an Attack, and so cannot be responded to with cards like Moat and Caravan Guard. When you buy this, you gain a Silver for each Silver you have in play; for example, with four Silvers in play, you would gain four Silvers. The Silvers go to your discard pile; if there aren't enough left, just take what is left. Then each other player puts his -1 Card token on top of his deck, which will cause those players to draw one less card the next time they draw cards; see the Tokens section. ",
-  "name": "Raid",
+  "description": "Pak een Zilver voor elk Zilver dat je in het spel hebt. Iedere andere speler legt zijn -1 Kaart-fiche op zijn gedekte stapel.",
+  "extra": " Deze gebeurtenis werkt als een aanvalskaart, maar het kopen ervan geldt niet als het spelen van een aanvalskaart. Een speler kan daarom niet met bijvoorbeeld een Slotgracht of een Karavaansescorte op deze gebeurtenis reageren. Bij het kopen van deze kaart pak je 1 Zilver voor elk Zilver dat je in het spel hebt. Pak dit Zilver uit de voorraad en leg het op je aflegstapel. Is er niet voldoende Zilver in de voorraad, pak dan het beschikbare Zilver. Daarna legt iedere andere speler zijn -1 Kaart-fiche op zijn gedekte stapel. Dit fiche zorgt ervoor dat hij de volgende keer dat hij kaarten trekt er 1 minder trekt (zie \"Fiches\" in de spelregels). ",
+  "name": "Overval",
   "potcost": 0,
   "types": [
    "Event"
@@ -3491,9 +3491,9 @@
  {
   "cardset": "adventures",
   "cost": "1",
-  "description": "+1 Buy\nOnce per turn: Set aside a card from your hand, and put it into your hand at end of turn (after drawing).",
-  "extra": " You can only buy this once per turn. When you do, you get +1 Buy (letting you buy another Event or a card afterwards), set aside a card from your hand face down (the other players do not get to see it), and put it into your hand at the end of the turn, after drawing your hand for the next turn. For example you might set aside an unplayed Copper, and then after drawing your 5 cards for next turn, add the Copper to your hand. ",
-  "name": "Save",
+  "description": "+1 Aanschaf\nEenmaal per beurt: leg een kaart uit je hand opzij en neem deze aan het einde van je beurt weer in je hand (na het trekken van je volgende hand).",
+  "extra": " Je kunt deze kaart eenmaal per beurt kopen. Doe je dat, dan krijg je +1 Aanschaf (te gebruiken om een gebeurtenis of een kaart te kopen). Daarna leg je 1 kaart uit je hand gedekt opzij (je hoeft deze niet aan de andere spelers te laten zien) en doet deze aan het einde van je beurt weer in je hand, nadat je kaarten voor je volgende hand hebt getrokken. ",
+  "name": "Sparen",
   "potcost": 0,
   "types": [
    "Event"
@@ -3502,9 +3502,9 @@
  {
   "cardset": "adventures",
   "cost": "2",
-  "description": "+1 Buy\nLook at the top 5 cards of your deck. Discard 3 of them and put the rest back on top of your deck in any order.",
-  "extra": " When you buy this you get +1 Buy (letting you buy another Event or a card afterwards). Then look at the top 5 cards of your deck, discarding 3 and putting the rest on top of your deck in any order. If there are fewer than 5 cards even after shuffling, you still discard 3 of them; if there are only 3 cards left between your deck and discard pile, all 3 will be discarded. Scouting Party is unaffected by the -1 Card token; if it is on top of your deck, replace it after resolving Scouting Party. ",
-  "name": "Scouting Party",
+  "description": "+1 Aanschaf\nBekijk de 5 bovenste kaarten van je gedekte stapel. Leg er daarvan 3 af en doe de rest in een volgorde naar keuze terug op je gedekte stapel.",
+  "extra": " Bij het kopen van deze kaart krijg je +1 Aancshaf (te gebruiken om een gebeurtenis of een kaart te kopen). Bekijk dan de bovenste 5 kaarten van je gedekte stapel, leg er 3 af en leg de rest in een volgorde naar keuze terug op je gedekte stapel. Zijn er minder dan 5 kaarten in je gedekte stapel, ook na het schudden, leg er dan toch 3 af. Zijn er 3 of minder kaarten in je gedekte stapel en aflegstapel samen, leg dan alle kaarten af die je kunt bekijken. De verkennerseenheid wordt niet door een -1 Kaart-fiche beïnvloed. Ligt het op je gedekte stapel, leg het dan na afhandeling van de gebeurtenis terug. ",
+  "name": "Verkennerseenheid",
   "potcost": 0,
   "types": [
    "Event"
@@ -3513,9 +3513,9 @@
  {
   "cardset": "adventures",
   "cost": "5",
-  "description": "Gain an Action card costing up to 4 Coin. Move your +1 Buy token to its pile (when you play a card from that pile, you first get +1 Buy).",
-  "extra": " When you buy this, first you gain an Action card costing up to 4 Coins. The Action card comes from the Supply and is put into your discard pile. Then move your +1 Buy token to the pile the Action card came from. The token gives you +1 Buy when playing a card from that pile; see the Tokens section. It only matters how much the card costs that you gain; the cost is not checked later. For example you can play Bridge Troll, then use Seaway to gain a Bridge Troll (currently costing 4 Coins due to its own effect), and the token will stay there even when Bridge Troll costs 5 Coins later. You can use Seaway to gain Sir Martin (from Dark Ages) when he's on top of the Knights pile; then your +1 Buy token will be on the Knights pile, even though any remaining Knights will cost 5 Coins. You cannot use Seaway on an empty pile just to move the +1 Buy token; you have to pick a card you can gain. ",
-  "name": "Seaway",
+  "description": "Pak een actiekaart die ten hoogste 4 Coins waard is.\nVerplaats je +1 Aanschaf-fiche naar de betreffende stapel (speel je een kaart van die stapel, dan ontvang je eerst +1 Aancshaf).",
+  "extra": " Bij het kopen van deze kaart pakt je eerst een actiekaart met een waarde van 4 Coins of minder. Pak deze uit de voorraad en leg hem op je aflegstapel. Verplaats daarna je +1 Aanschaf-fiche naar de stapel waar de gepakte kaart vandaan kwam. Dit fiche geeft je +1 Aanschaf als je een kaart van die stapel speelt (zie \"Fiches\" in de spelregels). Het is niet van belang of de waarde van de kaarten in de betreffende stapel later hoger is dan 4 Coins. Je mag de Zeeroute niet kopen om je +1 Aanschaf-fiche naar een lege stapel te verplaatsen. Je moet een stapel kiezen waar je daadwerkelijk een kaart van pakt. ",
+  "name": "Zeeroute",
   "potcost": 0,
   "types": [
    "Event"
@@ -3524,9 +3524,9 @@
  {
   "cardset": "adventures",
   "cost": "5",
-  "description": "Trash up to 2 cards from your hand.\nGain a Silver per card you trashed.",
-  "extra": " You may trash zero, one, or two cards from your hand. For each card you actually trashed, you gain a Silver, putting it into your discard pile. ",
-  "name": "Trade",
+  "description": "Vernietig ten hoogste 2 kaarten uit je hand. Pak 1 Zilver voor elke kaart die je vernietigde.",
+  "extra": " Je mag 0, 1 of 2 kaarten uit je hand vernietigen. Voor elke kaart die je daadwerkelijk vernietigt, pak je 1 Zilver, dat je op je aflegstapel legt. ",
+  "name": "Handel",
   "potcost": 0,
   "types": [
    "Event"
@@ -3535,8 +3535,8 @@
  {
   "cardset": "adventures",
   "cost": "6",
-  "description": "Move your + 1 Coin token to an Action Supply pile (when you play a card from that pile, you first get + 1 Coin).",
-  "extra": " When you buy this, you move your + 1 Coin token to any Action Supply pile. This token gives you + 1 Coin whenever you play a card from that pile; see the Tokens section. ",
+  "description": "Verplaats je + 1 Coin-fiche naar een Actie-voorraadstapel (speel je een kaart van die stapel, dan ontvang je eerst + 1 Coin).",
+  "extra": " Bij het kopen van deze kaart verplaats je je +1 Coin-fiche naar een Actie-voorraadstapel. Dit fiche geeft je elke keer dat je een kaart van die stapel speelt +1 Coin (zie \"Fiches\" in de spelregels). ",
   "name": "Training",
   "potcost": 0,
   "types": [
@@ -3546,9 +3546,9 @@
  {
   "cardset": "adventures",
   "cost": "2",
-  "description": "+2 Buys\nWhen you gain a card this turn, you may put it on top of your deck.",
-  "extra": " When you buy this, you get +2 Buys (letting you buy more Events or cards afterwards). Then for the rest of the turn, whenever you gain a card, you may put it on your deck. This works on cards you buy, as well as cards gained other ways, such as gaining cards with Ball. It does not work on Travelers exchanged for other cards; exchanging is not gaining. Putting the card on your deck is optional each time you gain a card that turn; you could put some on top and let the others go to your discard pile. ",
-  "name": "Travelling Fair",
+  "description": "+2 Aanschaffen\nAls je deze beurt een kaart pakt, mag je deze op je gedekte stapel leggen.",
+  "extra": " Bij het kopen van deze kaart krijg je +2 Aanschaffen (te gebruiken om gebeurtenissen en /of kaarten te kopen). De rest van deze beurt mag je kaarten die je pakt op je gedekte stapel leggen. Dit geldt voor kaarten die je koopt en voor kaarten die je op andere manieren pakt, zoals bij het Bal. Dit geldt niet bij het opwaarderen van een Reiziger (opwaarderen is niet pakken). Bij elke gepakte kaart mag je beslissen of je deze op je gedekte of je aflegstapel legt. ",
+  "name": "Kermis",
   "potcost": 0,
   "types": [
    "Event"
@@ -3557,9 +3557,9 @@
  {
   "cardset": "adventures extras",
   "cost": "*",
-  "description": "Events are not Kingdom cards. In a player’s Buy phase, when the player can buy a card, the player can buy an Event instead. Buying an Event means paying the cost indicated on the Event and then doing the effect of the Event. The Event just stays on the table, the player does not take it; there is no way for a player to gain one or end up with one in his deck. Buying an Event uses up a Buy; normally a player can either buy a card, or buy an Event. A player with two Buys, such as after playing Ranger, could buy two cards, or buy two Events, or buy a card and an Event (in either order). The same Event can be bought multiple times in a turn if the player has the Buys and available to do it. Some Events give +Buys and so let the player buy further cards/Events afterwards. Players cannot play further Treasures that turn after buying an Event. Buying an Event is not buying a card and so does not trigger cards like Swamp Hag or Goons (from Prosperity). Costs of Events are not affected by cards like Bridge Troll.",
-  "extra": "Events are not Kingdom cards. In a player’s Buy phase, when the player can buy a card, the player can buy an Event instead. Buying an Event means paying the cost indicated on the Event and then doing the effect of the Event. The Event just stays on the table, the player does not take it; there is no way for a player to gain one or end up with one in his deck. Buying an Event uses up a Buy; normally a player can either buy a card, or buy an Event. A player with two Buys, such as after playing Ranger, could buy two cards, or buy two Events, or buy a card and an Event (in either order). The same Event can be bought multiple times in a turn if the player has the Buys and available to do it. Some Events give +Buys and so let the player buy further cards/Events afterwards. Players cannot play further Treasures that turn after buying an Event. Buying an Event is not buying a card and so does not trigger cards like Swamp Hag or Goons (from Prosperity). Costs of Events are not affected by cards like Bridge Troll.",
-  "name": "Events",
+  "description": "Gebeurteniskaarten zijn geen koninkrijkkaarten. Een speler mag in zijn aanschaffase in plaats van een kaart een gebeurtenis kopen. Hij betaalt dan de op de gebeurteniskaart aangegeven kosten en voert de bijbehorende functie uit. De gebeurtenis blijft op tafel liggen (deze kan zich nooit in een stapel, op een tableau of in de hand van een speler bevinden). Met het kopen van een gebeurtenis verbruikt de speler 1 aanschaf. Heeft een speler meer aancshaffen in zijn beurt, dan mag hij deze naar believen (en in een volgorde naar keuze) verdelen over het kopen van kaarten en gebeurtenissen.",
+  "extra": "Het is toegestaan om dezelfde gebeurtenis meermaals per beurt te kopen (mits de speler voldoende aanschaffen en Coins heeft). Sommige gebeurtenissen geven extra aanschaffen, waardoor de speler daarna meer kaarten/gebeurtenissen zou kunnen kopen. Een speler mag na het kopen van een gebeurtenis deze beurt geen geldkaarten meer spelen. Het kopen van een gebeurtenis geldt niet als het kopen van een kaart en activeert daarom niet kaarten zoals Heks uit het moeras en Domkoppen (uit Dominion Welvaart). De kosten van het kopen van een gebeurtenis worden niet beïnvloed door kaarten zoals Brugtrol.",
+  "name": "Gebeurteniskaarten",
   "potcost": 0,
   "count": 0,
   "types": [
