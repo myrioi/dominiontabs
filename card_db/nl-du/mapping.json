@@ -1,12 +1,12 @@
 {
-    "Welvaart": "prosperity",
-    "Dominion": "dominion",
-    "Hijs de Zeilen!": "seaside",
-    "De Alchemisten": "alchemy",
-    "Het Achterland": "hinterlands",
-    "Intrige": "intrigue",
-    "Overvloed": "cornucopia",
-    "Avonturen": "adventures",
+    "welvaart": "prosperity",
+    "dominion": "dominion",
+    "hijs de zeilen": "seaside",
+    "alchemisten": "alchemy",
+    "achterland": "hinterlands",
+    "intrige": "intrigue",
+    "overvloed": "cornucopia",
+    "avonturen": "adventures",
     "De Donkere Middeleeuwen": "dark ages",
-    "De Gilden": "guilds"
+    "gilden": "guilds"
 }
